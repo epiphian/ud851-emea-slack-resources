@@ -1,0 +1,2130 @@
+- https://hackernoon.com/what-i-learned-from-doing-1000-code-reviews-fe28d4d11c71 -  What I learned from doing 1000 code reviews – Hacker Noon
+- https://discussions.udacity.com/t/25-new-android-libraries-at-the-beginning-of-2018/539079/10 -  25 new Android libraries at the beginning of 2018 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a205 -  Learning Android Development in 2018 — Part 1 – AndroidPub
+- https://www.youtube.com/watch?v=1EbY9NmH5NQ -  Top Tips to Make Learning Android Development Easier - YouTube
+- http://javarevisited.blogspot.ru/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html#axzz54Zyx81ib -  Top 15 Data Structures and Algorithm Interview Questions for Java programmer - Answers
+- https://www.youtube.com/watch?v=XKu_SEDAykw&t=728s -  How to: Work at Google — Example Coding/Engineering Interview - YouTube
+- https://proandroiddev.com/25-new-android-libraries-and-projects-to-check-at-the-beginning-of-2018-ba3b422bbbb4 -  25 new Android libraries and projects to check at the beginning of 2018
+- http://web.stanford.edu/class/cs193a/videos.shtml -  CS 193A: Android Application Development - Sections
+- https://www.gitbook.com/@google-developer-training -  Google Developer Training (@google-developer-training) on GitBook · GitBook
+- https://material.io/icons/ -  Material icons - Material Design
+- https://guides.codepath.com/android/ -  Home | CodePath Android Cliffnotes
+- https://hackernoon.com/what-ive-learned-from-cloning-the-uber-app-b0a7c743c1c1 -  What I Learned from Cloning the Uber App – Hacker Noon
+- https://discussions.udacity.com/t/38-amazing-open-source-android-apps/533768?u=gehad.abdelfatah45 -  38 Amazing Open Source Android Apps - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4 -  20+ Awesome Open-Source Android Apps To Boost Your Development Skills
+- https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc -  Design Patterns in Object Oriented Programming - YouTube - YouTube
+- https://www.youtube.com/watch?v=9Wf9YuEMGO4&feature=youtu.be -  Associate Android Developer Certification User Review | Guidelines and everything you need to know - YouTube
+- https://discussions.udacity.com/t/free-ebooks-on-design-data-software-web-development-and-business-from-o-reilly-media/558512 -  free ebooks on design, data, software, web development and business from O’Reilly media. - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- http://research.hackerrank.com/developer-skills/2018/ -  2018 Developer Skills Report by HackerRank
+- https://opensignal.com/blog/2013/07/30/40-developer-tips-for-android-optimization/ -  40 Developer Tips for Android Optimization - OpenSignal Blog - OpenSignal
+- https://developer.android.com/training/articles/perf-tips.html -  Performance Tips | Android Developers
+- https://discussions.udacity.com/t/how-to-improve-performance-for-professional-complex-custom-ui-layouts/557315 -  How to improve Performance for Professional Complex Custom UI Layouts ? - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://www.androidhive.info/2015/09/android-material-design-working-with-tabs/ -  Android Material Design working with Tabs
+- https://developer.android.com/design/index.html -  Design | Android Developers
+- https://developer.android.com/design/material/index.html -  Material Design for Android | Android Developers
+- https://material.io/guidelines/ -  Introduction - Material Design
+- https://developer.android.com/design/get-started/principles.html -  Android Design Principles | Android Developers
+- https://www.youtube.com/watch?v=nYb4FUdlLZE -  What's New in Android Design Tools - New Features for Rapid UI Development (Google I/O '17) - YouTube
+- https://eu.udacity.com/course/material-design-for-android-developers--ud862 -  Material Design for Android Developers | Udacity
+- https://rxviz.com/examples/basic-interval -  RxViz - Animated playground for Rx Observables
+- https://www.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-practicals/details -  Android Developer Fundamentals Course – Practicals · GitBook
+- https://medium.freecodecamp.org/designing-beautiful-mobile-apps-from-scratch-1a3441ebd604 -  Designing beautiful mobile apps from scratch – freeCodeCamp
+- https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc -  Strategy Pattern – Design Patterns (ep 1) - YouTube
+- https://www.android.com/security-center/ -  Центр безопасности – Обзор
+- https://source.android.com/security/bulletin/ -  Бюллетени по безопасности Android  |  Android Open Source Project
+- https://developer.android.com/training/best-security.html -  Best Practices for Security & Privacy | Android Developers
+- https://www.youtube.com/watch?v=C9_ytg6MUP0 -  What's New in Android Security (Google I/O '17) - YouTube
+- https://developer.android.com/things/index.html -  Android Things | Android Things
+- https://www.youtube.com/watch?v=HxRv_w5DcxM -  Introduction to Android Things - YouTube
+- https://www.youtube.com/watch?v=v3Dm5aeuQKE -  Developing for Android Things Using Android Studio (Google I/O '17) - YouTube
+- https://www.youtube.com/watch?v=zpR_jQXc1fs -  Android Things: The IoT Platform for Everyone (GDD Europe '17) - YouTube
+- https://www.youtube.com/watch?v=LOV-aye66HQ -  Building Production IoT Devices with Android Things (GDD India '17) - YouTube
+- https://www.linkedin.com/pulse/skills-companies-need-most-2018-courses-get-them-paul-petrone/?trk=eml_ny-ss_learning&fromEmail=true -  (3) The Skills Companies Need Most in 2018 – And The Courses to Get Them | LinkedIn
+- https://medium.com/google-developers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54 -  ViewModels and LiveData: Patterns + AntiPatterns – Google Developers – Medium
+- http://www.vogella.com/tutorials/android.html -  Android Development
+- https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018 -  10 Free Programming Books You Should Read in 2018 - Tutorialzine
+- https://blog.aritraroy.in/30-bite-sized-pro-tips-to-become-a-better-android-developer-b311fd641089 -  30+ Bite-Sized Pro Tips to Become a Better Android Developer
+- http://99apis.com/home -  99 APIs - home
+- https://stackshare.io/posts/top-developer-tools-2017 -  The Top 50 Developer Tools of 2017 | StackShare
+- https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f -  Building Offline-First App using MVVM, RxJava, Room and Priority Job Queue
+- https://romannurik.github.io/AndroidAssetStudio/index.html -  Android Asset Studio
+- https://github.com/wasabeef/awesome-android-ui -  wasabeef/awesome-android-ui: A curated list of awesome Android UI/UX libraries
+- https://material.io/ -  Material Design
+
+- https://discussions.udacity.com/t/what-is-adb-commands-how-to-execute-it/519876?source_topic_id=555178 -  What is ADB commands? How to execute it? - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/adb-hacks/437979?source_topic_id=555178 -  ADB Hacks ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿ - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://stackoverflow.com/questions/11201659/whats-the-android-adb-shell-dumpsys-tool-and-what-are-its-benefits -  What's the Android ADB shell "dumpsys" tool and what are its benefits? - Stack Overflow
+- https://github.com/aritraroy/UltimateAndroidReference -  aritraroy/UltimateAndroidReference: Ultimate Android Reference - Your Road to Become a Better Android Developer
+- https://riggaroo.co.za/android-architecture-components-looking-viewmodels-part-2/ -  Android Architecture Components - Looking at ViewModels - Part 2 – Riggaroo - Android Dev
+- https://android.jlelse.eu/android-mvp-architecture-with-dependency-injection-dee43fe47af0 -  Android MVP architecture with Dependency Injection – AndroidPub
+- https://medium.com/@rahul.singh/clean-architecture-kotlin-dagger-2-rxjava-mvvm-and-unit-testing-dc05dcdf3ce6 -  Clean Architecture — Kotlin, Dagger 2, RxJava, MVVM and Unit Testing
+- https://gist.github.com/nbarraille/e9778750174df700dd72 -  Example of interface for MVP architecture
+- https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6 -  Android Architecture Patterns Part 1: Model-View-Controller
+- https://github.com/googlesamples/android-architecture -  googlesamples/android-architecture: A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+- https://github.com/googlesamples/android-architecture/tree/todo-mvp/ -  googlesamples/android-architecture at todo-mvp
+- https://github.com/JessYanCoding/MVPArms -  JessYanCoding/MVPArms: A common architecture for Android applications developing based on MVP,integrates many open source projects( like Dagger2,Rxjava,Retrofit... ),to make your developing quicker and easier.
+- https://medium.com/@saranyaan2710/top-android-interview-questions-and-answers-b96440572fab -  Top Android Interview Questions and Answers – Saranya N – Medium
+- https://developer.android.com/training/testing/fundamentals.html -  Fundamentals of Testing | Android Developers
+- https://developer.android.com/training/testing/unit-testing/index.html -  Building Effective Unit Tests | Android Developers
+- https://android.jlelse.eu/rxjava-flowables-what-when-and-how-to-use-it-9f674eb3ecb5 -  RxJava — Flowables — What, when and how to use it? – AndroidPub
+- https://blog.stylingandroid.com/ -  Styling Android – A technical guide to improving the UI and UX of Android apps
+- https://medium.com/@gregbielanski/5-things-you-can-learn-in-udacity-course-and-build-the-great-android-app-8aab160fb86d -  How to build the great Android app? 5 things you can learn in Udacity course.
+- https://discussions.udacity.com/t/dependency-injection-dagger-2-you-wont-avoid-this/461246 -  Dependency injection - Dagger 2. You won't avoid this. - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://github.com/Yelp/android-school -  Yelp/android-school: The best videos from the Android community and beyond
+- https://android-developers.googleblog.com/2017/12/improving-app-security-and-performance.html?m=1 -  Android Developers Blog: Improving app security and performance on Google Play for years to come
+- https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965 -  Gestalt principles in UI design. – Muzli -Design Inspiration
+- https://medium.freecodecamp.org/google-certified-associate-android-developer-exam-walkthrough-ce09a039b29a -  Google Certified Associate Android Developer: Exam Walkthrough
+- https://github.com/mcharmas/Android-ReactiveLocation -  mcharmas/Android-ReactiveLocation: Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
+- http://ursooperduper.github.io/2015/11/06/ten-must-have-alfred-workflows-for-developers.html -  10 Must-have Alfred Workflows for Developers
+- https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/ -  MVC vs. MVP vs. MVVM on Android
+- https://mindorks.com/course/learn-rxjava -  Learn RxJava
+- https://android.jlelse.eu/reactive-programming-for-android-d55bdbb438b4 -  Reactive Programming For Android – AndroidPub
+- http://truefalse.pro/introduction_to_reactive_programming_you_ve_been_missing/ -  Недостающее введение в Реактивное Программирование | Разработка всего
+- https://medium.com/@rey5137/how-i-organize-android-project-structure-5ed9b849dc30 -  How I organize Android project structure – Rey Pham – Medium
+- https://github.com/erikcaffrey/People-MVVM -  erikcaffrey/People-MVVM: Android Sample to explain Model View View Model and DataBinding in android applications
+- https://medium.com/@BladeCoder/architecture-components-pitfalls-part-1-9300dd969808 -  Architecture Components pitfalls — Part 1 – Christophe Beyls – Medium
+- https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1 -  MVVM architecture, ViewModel and LiveData (Part 1) – ProAndroidDev
+- https://blog.mindorks.com/android-development-best-practices-83c94b027fd3 -  Android Development Best Practices – Mindorks
+- https://developer.android.com/guide/practices/index.html -  Best Practices | Android Developers
+
+
+- https://classroom.udacity.com/courses/ud808/lessons/4216368924/concepts/43072785890923# -  How to Install Android Studio - Udacity
+- https://discussions.udacity.com/c/didi-udacity-challenge-2017 -  Latest Didi-Udacity Challenge 2017 topics - Udacity Discussion Forum
+- https://discussions.udacity.com/t/introduction-about-lambda/437840 -  Introduction about lambda. - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://docs.oracle.com/javase/tutorial/java/generics/genTypeInference.html -  Type Inference (The Java™ Tutorials > Learning the Java Language > Generics (Updated))
+- https://github.com/notifications -  Notifications
+- https://github.com/orgs/gadc-russia/projects -  Projects · gadc-russia
+- https://developer.android.com/studio/command-line/adb.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=adb&utm_campaign=training -  Android Debug Bridge (adb) | Android Studio
+- https://classroom.udacity.com/courses/ud867 -  Gradle for Android and Java - Udacity
+- https://developer.android.com/studio/build/index.html#settings-file -  Configure Your Build | Android Studio
+- https://www.youtube.com/watch?v=c9-057jC1ZA -  Architecture Components: ViewModel - YouTube
+- https://www.linkedin.com/learning/effective-android-testing-for-mobile-developers?lpk35=9255&utm_medium=ldc-partner&utm_source=CMPRC&utm_content=524&utm_campaign=CD20702&bid=524&aid=CD20702 -  Effective Android Testing for Mobile Developers
+- https://www.youtube.com/watch?v=7ll-rkLCtyk -  Speeding Up Your Android Gradle Builds (Google I/O '17) - YouTube
+- https://classroom.udacity.com/courses/ud805 -  Software Development Process - Udacity
+- https://www.androidauthority.com/android-version-distribution-748439/ -  Android version distribution: Nougat and Oreo up, everything else down
+- https://developer.android.com/topic/libraries/support-library/revisions.html#27-0-1 -  Recent Support Library Revisions | Android Developers
+- https://discussions.udacity.com/t/plugin-ok-gradle-search-actual-dependencies-and-copy-these-into-gradle-in-a-simple-way/447098 -  [PLUGIN] "OK, gradle!" - search actual dependencies and copy these into gradle in a simple way :) - Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/maven-repository-dependency-for-gradle/447305 -  Maven Repository - dependency for Gradle - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/toddmotto/public-apis -  toddmotto/public-apis: A collective list of public JSON APIs for use in web development.
+- https://discussions.udacity.com/t/what-are-the-sources-that-help-you-design-the-application-interface/447849 -  What are the sources that help you design the application interface? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/esafirm/android-image-picker/releases/tag/1.5.0 -  Release 1.5.0 · esafirm/android-image-picker
+- https://discussions.udacity.com/t/github-gitignore/446873 -  Github - .gitignore - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/mrmans0n/smart-location-lib -  mrmans0n/smart-location-lib: Android library project that lets you manage the location updates to be as painless as possible
+- https://developer.android.com/reference/android/location/OnNmeaMessageListener.html -  OnNmeaMessageListener | Android Developers
+- https://medium.com/@kapil.sharma91812/playing-with-locations-in-android-aab25ba056a8 -  Playing with Locations in Android – kapil sharma – Medium
+- https://gist.github.com/gshadows/6b26c0e433ee2d287ccbb00bfe08290c -  Navigation example
+- https://developer.android.com/guide/topics/manifest/manifest-element.html -  <manifest> | Android Developers
+- https://stackoverflow.com/questions/28827597/when-do-we-use-the-recyclerview-sethasfixedsize -  android - When do we use the recyclerView.setHasFixedSize? - Stack Overflow
+- http://rogerdudler.github.io/git-guide/ -  git - the simple guide - no deep shit!
+- https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9 -  Building Android Apps — 30 things that experience made me learn the hard way
+- http://web.mit.edu/6.031/www/fa17/classes/17-regex-grammars/ -  Reading 17: Regular Expressions & Grammars
+- https://developer.android.com/things/sdk/samples.html -  Samples | Android Things
+- https://m.gsmarena.com/android_81_will_reduce_the_size_of_inactive_apps_to_save_space-amp-28206.php -  Android 8.1 will reduce the size of inactive apps to save space - GSMArena.com news
+- https://www.xda-developers.com/google-threatening-removal-accessibility-services-play-store/ -  Google is Threatening to Remove Apps with Accessibility Services from the Play Store
+- https://android-developers.googleblog.com/2017/11/announcing-architecture-components-10.html -  Android Developers Blog: Announcing Architecture Components 1.0 Stable
+- http://www.androidpolice.com/2017/11/12/play-games-v5-3-comes-whole-new-look-three-new-mini-games-apk-download/ -  Play Games v5.3 comes with a whole new look and three new mini-games [APK Download]
+- https://www.jetbrains.com/help/idea/external-tools.html -  External Tools - Help | IntelliJ IDEA
+- https://github.com/kickstarter/android-oss/blob/master/app/src/main/java/com/kickstarter/viewmodels/DiscoveryViewModel.java -  android-oss/DiscoveryViewModel.java at master · kickstarter/android-oss
+- https://www.figma.com/ -  Figma: the collaborative interface design tool.
+- https://software.intel.com/en-us/xdk/docs/installing-android-debug-bridge-adb-usb-driver-on-windows#verify_usb -  Installing the Android Debug Bridge (ADB) USB Driver on a Windows Computer | Intel® Software
+- https://www.rootusers.com/how-to-enable-the-telnet-client-in-windows-10/ -  How to enable the telnet client in Windows 10
+- https://stackoverflow.com/questions/309424/read-convert-an-inputstream-to-a-string -  java - Read/convert an InputStream to a String - Stack Overflow
+- http://facebook.github.io/stetho/ -  Download
+- https://medium.com/@mmbialas/30-new-android-libraries-and-projects-released-in-summer-2017-which-should-catch-your-attention-d3702bd9bdc6 -  30 new Android Libraries and Projects released in Summer 2017 which should catch your attention
+- https://projectlombok.org/setup/android -  Project Lombok
+- https://medium.com/@iammert/android-launchmode-visualized-8843fc833dbe?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bw0MmpDUBTqqp8haQyshwsQ%3D%3D -  Android “launchMode” (Visualized) – Mert Şimşek – Medium
+- https://classroom.udacity.com/courses/ud283 -  Object Oriented Programming in Java - Udacity
+- https://docs.oracle.com/javase/tutorial/java/concepts/ -  Lesson: Object-Oriented Programming Concepts (The Java™ Tutorials > Learning the Java Language)
+- https://zeplin.io/ -  Zeplin
+- https://progate.com/ -  Progate | Progate - Learn to code, learn to be creative.
+- https://www.jetbrains.com/help/idea/configuring-menus-and-toolbars.html -  Configuring Menus and Toolbars - Help | IntelliJ IDEA
+- https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749 -  Introduction to Android Architecture Components
+- https://codelabs.developers.google.com/ -  Google Codelabs
+- https://discussions.udacity.com/t/some-useful-websites/444449 -  Some useful websites - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://www.vogella.com/tutorials/AndroidTesting/article.html -  Developing Android unit and instrumentation tests - Tutorial
+- https://classroom.udacity.com/courses/ud837/lessons/4330701752/concepts/42402386170923# -  Android Development for Beginners - Udacity
+- https://www.xda-developers.com/google-threatening-removal-accessibility-services-play-store/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+xda-developers%2FShsH+%28xda-developers%29 -  Google is Threatening to Remove Apps with Accessibility Services from the Play Store
+- https://www.youtube.com/watch?v=YpxWYglKwI4 -  Ivan Morgillo – Can you read my code? - YouTube
+- https://commonsware.com/Android/ -  The Busy Coder's Guide to Android Development
+- https://discussions.udacity.com/t/share-your-app-ideas-and-find-colleagues/444094 -  Share your app ideas! And find colleagues! - Didi-Udacity Challenge 2017 - Udacity Discussion Forum
+- https://www.youtube.com/watch?v=TMuno5RZNeE&t=355 -  Bob Martin SOLID Principles of Object Oriented and Agile Design - YouTube
+- https://developer.android.com/training/constraint-layout/index.html -  Build a Responsive UI with ConstraintLayout | Android Developers
+- http://www.oracle.com/technetwork/java/effectivejava-136174.html -  Effective Java
+- https://chrome.google.com/webstore/detail/android-sdk-search/hgcbffeicehlpmgmnhnkjbjoldkfhoin -  Android SDK Search - Интернет-магазин Chrome
+- https://stackoverflow.com/questions/37911942/how-to-match-the-background-color-of-a-tablayout-to-the-toolbar -  android - How to match the background color of a TabLayout to the Toolbar? - Stack Overflow
+- https://stackoverflow.com/questions/33788622/how-to-make-actionbar-and-stacked-bar-share-same-background-image -  android - How to make ActionBar and stacked bar share same background image - Stack Overflow
+- https://discussions.udacity.com/t/a-list-of-free-development-software-for-students/443047/7 -  A List of Free (Development) Software for Students! - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.youtube.com/watch?v=eq3KiAH4IBI -  42 IntelliJ IDEA Tips and Tricks - YouTube
+- https://plus.google.com/+AndroidDevelopers/posts/XG1WmNDMe8H -  Developers, start your 64-bit engines. The x86 64-bit Android L developer pre...
+- http://www.sordum.org/7921/bluelife-keyfreeze-v1-4-block-keyboard-and-mouse/ -  BlueLife KeyFreeze
+- https://www.androidauthority.com/new-feature-fights-battery-drain-813922/ -  Android has a new feature to highlight apps that cause bad battery life | AndroidAuthority
+- https://shop.technabob.com/sales/android-development-bundle-2 -  Pay What You Want: The Ultimate Android Development Bundle | Technabob Shop
+- https://developer.android.com/guide/topics/manifest/provider-element.html -  <provider> | Android Developers
+- https://www.codota.com/ -  AI Pair Programmer | Codota
+- https://alternativeto.net/ -  AlternativeTo - Crowdsourced software recommendations
+- https://medium.com/@gyuriszab/the-5-things-you-need-to-do-to-get-selected-for-the-2nd-phase-of-your-google-udacity-scholarship-649f22376030 -  The 5 things you need to do to get selected for the 2nd phase of your Google & Udacity Scholarship
+- https://academy.realm.io/posts/360andev-yigit-boyar-pro-recyclerview-android-ui-java/ -  Pro RecyclerView
+- https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug -  Android Dialogs - YouTube - YouTube
+- https://cleancoders.com/videos/mobile-app-case-study -  Clean Coders: Library
+- https://www.sonarlint.org/intellij/ -  SonarLint for IntelliJ IDEA, PyCharm, Android Studio and more
+- https://www.udacity.com/course/material-design-for-android-developers--ud862 -  Material Design for Android Developers | Udacity
+- https://proandroiddev.com/secure-data-in-android-encryption-7eda33e68f58 -  Secure data in Android — Encryption – ProAndroidDev
+- http://hannesdorfmann.com/ -  BLOG | HANNES DORFMANN
+- http://hannesdorfmann.com/mosby/ -  Mosby
+- https://www.reddit.com/r/androiddev/ -  Developing Android Apps
+- https://guides.codepath.com/android/using-the-recyclerview -  Using the RecyclerView | CodePath Android Cliffnotes
+- http://andrewchen.co/retention-is-king/ -  Retention is King (Guest Post) at andrewchen
+- https://discussions.udacity.com/t/how-can-i-make-my-code-easy-to-read/439268/12 -  How can I make my code easy to read? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://stackoverflow.com/questions/43990084/is-asynctask-deprecated-now-w-asynctaskloader/43991730#43991730 -  android - Is AsyncTask deprecated now w/ AsyncTaskLoader? - Stack Overflow
+- https://stackoverflow.com/questions/15079948/guideline-to-choose-among-asynctaskloader-and-asynctask-to-be-used-in-fragment?noredirect=1&lq=1 -  android - Guideline to choose among AsyncTaskLoader and AsyncTask to be used in Fragment - Stack Overflow
+- https://www.jetbrains.com/education/kotlin-edu/ -  Kotlin Edu: Learn and teach Kotlin with easy and professional tools
+- https://medium.com/google-developers/making-loading-data-on-android-lifecycle-aware-897e12760832 -  Making loading data on Android lifecycle aware – Google Developers – Medium
+- https://get.slack.help/hc/en-us/articles/202528808-Search-in-Slack-#channels-dms-2 -  Search in Slack – Slack Help Center
+- https://get.slack.help/hc/en-us/articles/201330736-Upload-and-share-files -  Upload and share files – Slack Help Center
+- https://developer.android.com/guide/topics/resources/runtime-changes.html -  Обработка изменений в режиме выполнения | Android Developers
+- http://androidxref.com/8.0.0_r4/xref/frameworks/base/services/core/java/com/android/server/policy/WindowOrientationListener.java -  Cross Reference: /frameworks/base/services/core/java/com/android/server/policy/WindowOrientationListener.java
+- https://www.edureka.co/blog/beginners-guide-android-architecture/ -  Android Architecture Guides for beginners | Edureka
+- https://dev.to/gonedark/a-month-of-clean-code-tips-709 -  A month of clean code
+- https://gogs.io/ -  Gogs
+- https://gitea.io/en-US/ -  Gitea
+- https://phacility.com/phabricator/ -  Phacility - Phabricator
+- https://about.gitlab.com/ -  The leading product for integrated software development - GitLab | GitLab
+- https://www.tuleap.org/ -  Tuleap
+- https://classroom.udacity.com/courses/ud855/lessons/8b2a9d63-0ff5-48ff-90d3-a9855b701dae/concepts/41b82e3c-2797-46e5-8a66-684098ca8cbb -  Advanced Android App Development - Udacity
+- https://git-scm.com/docs/gittutorial -  Git - gittutorial Documentation
+- https://git-scm.com/docs/user-manual.html -  Git - user-manual Documentation
+- https://git-scm.com/docs -  Git - Reference
+- https://classroom.udacity.com/courses/ud855 -  Advanced Android App Development - Udacity
+- https://medium.com/@akbarsha03/version-control-system-using-git-on-android-studio-a632eb00bea9 -  Version Control System using Git on Android Studio – Akbar Sha Ebrahim – Medium
+- http://nvie.com/posts/a-successful-git-branching-model/ -  A successful Git branching model » nvie.com
+- https://www.sourcetreeapp.com/ -  SourceTree | Free Git GUI for Mac and Windows
+- https://datasift.github.io/gitflow/IntroducingGitFlow.html -  Introducing GitFlow
+- https://github.com/Vladi-ca -  Vladi-ca (Vladimira Canadyova)
+- https://developer.android.com/studio/build/gradle-plugin-3-0-0-migration.html#annotationProcessor_config -  Migrate to Android Plugin for Gradle 3.0.0 | Android Studio
+- https://try.github.io/levels/1/challenges/1 -  Git Tutorial - Try Git
+- http://codingbat.com/java -  CodingBat Java
+- https://www.pluralsight.com/paths/java -  Java Programming Learning Path | Pluralsight
+- https://in.udacity.com/course/intro-to-java-programming--cs046 -  Intro to Java Programming | Udacity
+- http://mooc.fi/english.html -  English courses
+- https://stackoverflow.com/questions/9247886/what-is-difference-between-references-and-objects-in-java -  What is difference between references and objects in java? - Stack Overflow
+- https://www.udacity.com/course/advanced-android-app-development--ud855 -  Advanced Android App Development | Udacity
+- https://teamtreehouse.com/library/testing-in-android -  Testing in Android Course
+- https://github.com/mustafaberkaymutlu/uv-index/blob/master/query/src/test/java/net/epictimes/uvindex/query/QueryPresenterTest.kt -  uv-index/QueryPresenterTest.kt at master · mustafaberkaymutlu/uv-index
+- https://riggaroo.co.za/?s=Testing -  You searched for Testing – Riggaroo - Android Dev
+- https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.sequences/-sequence/index.html -  Sequence - Kotlin Programming Language
+- https://blog.mindorks.com/implementation-vs-api-in-gradle-3-0-494c817a6fa -  Implementation Vs Api in Android Gradle plugin 3.0 – Mindorks
+- https://fblitho.com/ -  Litho | A declarative framework for building efficient UIs on Android.
+- https://www.youtube.com/watch?v=Ts-uxYiBEQ8 -  Architecture Components (GDD Europe '17) - YouTube
+- https://git-scm.com/book/en/v2 -  Git - Book
+- https://git-scm.com/book/en/v1 -  Git - Book
+- https://discussions.udacity.com/t/list-of-third-part-libraries/438603 -  List of Third Part Libraries - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://android.googlesource.com/platform/frameworks/base/+/refs/heads/master/core/java/android/os/AsyncTask.java -  core/java/android/os/AsyncTask.java - platform/frameworks/base - Git at Google
+- https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150 -  These four “clean code” tips will dramatically improve your engineering team’s productivity
+- http://www.restapitutorial.com/lessons/whatisrest.html -  What is REST?
+- https://kotlinlang.org/ -  Kotlin Programming Language
+- https://developer.android.com/studio/write/tool-attributes.html -  Tools Attributes Reference | Android Studio
+- https://taiga.io/ -  Taiga.io
+- https://journals.apptivitylab.com/beginners-guide-to-gradle-for-android-developers-7972bfdf0668 -  Beginner’s Guide to Gradle for Android Developers – Apptivity Lab
+- https://developer.android.com/studio/archive.html#android-studio-3-1-canary-2 -  Download Archives | Android Studio
+- https://android-developers.googleblog.com/2017/11/announcing-architecture-components-10.html?m=1%E2%80%AC -  Android Developers Blog: Announcing Architecture Components 1.0 Stable
+- https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352 -  Firebase in a Weekend: Android | Udacity
+- https://firebase.google.com/docs/database/web/structure-data -  Structure Your Database  |  Firebase Realtime Database  |  Firebase
+- https://developer.android.com/studio/intro/keyboard-shortcuts.html -  Keyboard Shortcuts | Android Studio
+- https://codingresources.ovh/ -  CodingResources
+- https://www.youtube.com/watch?v=kL3MCQV2M2s -  UI testing with Espresso - Android Testing Patterns #2 - YouTube
+- https://codelabs.developers.google.com/codelabs/android-testing/#0 -  Android Testing Codelab
+- https://codelabs.developers.google.com/codelabs/android-perf-testing/#0 -  Automated Performance Testing Codelab
+- http://square.github.io/picasso/ -  Picasso
+- http://square.github.io/okhttp/ -  OkHttp
+- https://material.io/components/android/catalog/ -  Components - Material Components for Android
+- https://play.google.com/store/apps/details?id=com.alexbuga.wallpapers -  Приложения в Google Play – Wallpaper Doze
+- https://habrahabr.ru/post/336196/ -  Room: Хранение данных на Android для всех и каждого / Хабрахабр
+- https://developer.android.com/training/efficient-downloads/redundant_redundant.html -  Redundant Downloads are Redundant | Android Developers
+- https://zeroturnaround.com/rebellabs/jrebel-for-android-2-5/ -  Hot code swap in Android development with new version: JRebel for Android 2.5 zeroturnaround.com
+- https://stackoverflow.com/questions/43021816/difference-between-thread-and-coroutine-in-kotlin -  Difference between thread and coroutine in Kotlin - Stack Overflow
+- https://habrahabr.ru/company/alfa/blog/336228/ -  Корутины в Kotlin (гайд) / Блог компании Альфа-Банк / Хабрахабр
+- https://kotlinlang.ru/ -  Язык программирования Kotlin
+- https://developer.android.com/topic/libraries/support-library/revisions.html -  Recent Support Library Revisions | Android Developers
+- https://www.youtube.com/watch?v=Mluxp8skbKc -  AdMob + Kotlin - Mobile Ads Garage #18 - YouTube
+- https://android.jlelse.eu/android-development-the-solid-principles-3b5779b105d2 -  Android Development: the SOLID Principles – AndroidPub
+- https://academy.realm.io/posts/learning-path-solid-principles-for-android/ -  Learning Path: SOLID Principles for Android
+- https://discussions.udacity.com/t/top-keeping-up-to-date-with-android-top/439740 -  🔝 Keeping up to date with Android 🔝 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.simplifiedcoding.net/ -  Simplified Coding - Programming, Web and Android Development
+- https://stackoverflow.com/questions/2018263/how-do-i-enable-disable-log-levels-in-android -  logging - How do I enable/disable log levels in Android? - Stack Overflow
+- https://www.youtube.com/watch?v=c9-057jC1ZA&list=PLWz5rJ2EKKc9e0d55YHgJFHXNZbGHEXJX -  Architecture Components: ViewModel - YouTube
+- https://www.kotlindevelopment.com/why-anko-layouts-dsl-better-xml/ -  Why Anko Layouts DSL is better than XML layouts
+- https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536 -  So You Want to be a Functional Programmer (Part 1) – Charles Scalfani – Medium
+- https://developer.android.com/studio/build/optimize-your-build.html -  Optimize Your Build Speed | Android Studio
+- https://stackoverflow.com/questions/29391421/android-studio-gradle-takes-too-long-to-build/35859572#35859572 -  Android Studio gradle takes too long to build - Stack Overflow
+- https://stackoverflow.com/questions/30817871/android-studio-is-slow-how-to-speed-up/30818099#30818099 -  Android Studio is slow (how to speed up)? - Stack Overflow
+- https://stackoverflow.com/questions/34814368/gradle-version-2-10-is-required-error/34814536#34814536 -  android - "Gradle Version 2.10 is required." Error - Stack Overflow
+- http://blog.teamtreehouse.com/absolute-beginners-guide-kotlin -  An Absolute Beginner's Guide to Kotlin - Treehouse Blog
+- https://m.habrahabr.ru/post/341602/ -  Современная Android разработка на Kotlin. Часть 1 / Хабрахабр
+- https://proandroiddev.com/improve-your-tests-with-kotlin-in-android-pt-1-6d0b04017e80 -  Improve your tests with Kotlin in Android — (Pt.1 )
+- https://proandroiddev.com/improve-your-tests-with-kotlin-in-android-pt-2-f3594e5e7bfd -  Improve your tests with Kotlin in Android — (Pt.2) – ProAndroidDev
+- https://engineering.udacity.com/adopting-kotlin-c12f10fd85d1 -  Adopting Kotlin – Udacity Eng & Data
+- https://www.codingame.com/start -  Coding Games and Programming Challenges to Code Better
+- https://www.codewars.com/ -  Train with Programming Challenges/Kata | Codewars
+- https://discussions.udacity.com/t/good-practices-for-user-interface-to-get-better-ux/438860 -  Good practices for User interface to get better UX - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://developer.android.com/guide/topics/ui/layout/relative.html -  Relative Layout | Android Developers
+- https://developer.android.com/reference/java/security/Permission.html -  Permission | Android Developers
+- https://www.youtube.com/watch?v=MZOf3pOAM6A -  To Index or Iterate? (Android Performance Patterns Season 2 ep6) - YouTube
+- https://aliteralmind.wordpress.com/2014/03/22/for_foreach/ -  Practical and performance differences between for vs. foreach in Java (and a generic timer-testing class to boot) | aliteralmind — Computer Programming Blog
+- https://www.slideshare.net/mswolfson/android-ui-patterns -  Android UI Design Patterns & Best Practices
+- https://www.youtube.com/watch?v=4eUuD7LsqMs -  droidcon NYC 2017 - The Resurgence of SQL - YouTube
+- https://github.com/future-architect/idea-uroborosql-formatter -  future-architect/idea-uroborosql-formatter: Beautiful SQL Formatter for IntelliJ Platform
+- https://stackoverflow.com/questions/8871093/android-creating-images-and-icons -  Android - Creating Images and Icons - Stack Overflow
+- http://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-interface-design -  10 Usability Heuristics for User Interface Design | Design Principles FTW
+- https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things -  The Design of Everyday Things - Wikipedia
+- https://android.jlelse.eu/android-shape-drawables-tutorial-17fbece6fef5 -  Android Shape Drawables Tutorial – AndroidPub
+- https://stackoverflow.com/questions/16163215/android-styling-seek-bar -  seekbar - Android - styling seek bar - Stack Overflow
+- https://developer.android.com/guide/topics/ui/menus.html -  Меню | Android Developers
+- https://www.codewars.com/users/sign_in -  Sign in | Codewars
+- https://stackoverflow.com/questions/23401955/android-linearlayout-horizontal-auto-space-between-items -  android - LinearLayout (Horizontal) - auto space between items - Stack Overflow
+- https://stackoverflow.com/questions/21959050/android-beginner-difference-between-padding-and-margin -  Android beginner difference between padding and margin - Stack Overflow
+- https://academy.realm.io/posts/360andev-huyen-tue-dao-measure-layout-draw-repeat-custom-views-and-viewgroups-android/ -  Measure, Layout, Draw, Repeat: Custom Views and ViewGroups
+- http://checkstyle.sourceforge.net/config_sizes.html -  checkstyle – Size Violations
+- https://discussions.udacity.com/t/share-your-open-source-project-lets-build-great-apps-together/438597 -  Share Your Open-Source Project: Let's Build Great Apps Together! - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://plugins.jetbrains.com/plugin/4455-key-promoter -  Key promoter :: JetBrains Plugin Repository
+- https://www.androidhive.info/ -  Android Tutorials for Beginners - AndroidHive
+- https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE -  Android Performance Patterns - YouTube - YouTube
+- https://medium.com/devnibbles/rxjava-the-first-3-patterns-4c112a85b689 -  RxJava — The first 3 patterns – DevNibbles – Medium
+- https://developer.android.com/guide/components/processes-and-threads.html -  Процессы и потоки | Android Developers
+- http://www.dre.vanderbilt.edu/~schmidt/cs892/ -  CS 892: Advanced Concurrent Java Programming in Android
+- https://docs.google.com/document/d/1EeHIblGmHifWCUfleRd6jRsQzRClGxlXjnB4jlDNFRI/edit -  Android Basic Script - Google Docs
+- http://rxmarbles.com/ -  RxMarbles: Interactive diagrams of Rx Observables
+- http://tips.androidgig.com/invisible-vs-gone-view-in-android/ -  INVISIBLE vs GONE View in Android - Android Tips
+- https://discussions.udacity.com/t/introduction-about-lambda-for-the-beginner/437840 -  Introduction about lambda for the beginner. - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/adb-hacks/437979 -  ADB Hacks ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿ - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://blog.udacity.com/2017/11/announcing-mobile-design-usability-new-free-course-facebook.html -  Announcing Mobile Design and Usability, a new free course with Facebook | Udacity
+- https://discussions.udacity.com/t/how-do-i-do-my-git-github/433437 -  (9) How do I do my Git / GitHub - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/little-article-about-callbacks-part-1/438145 -  (1) Little article about callbacks. Part 1. - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/little-article-about-callbacks-part-1/438145/13 -  (1) Little article about callbacks. Part 1. - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/a-usefull-extensions-plugins-and-ressources/429771/91 -  A usefull extensions, plugins and ressources - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://futurestud.io/tutorials/gson-getting-started-with-java-json-serialization-deserialization -  Gson — Getting Started with Java-JSON Serialization & Deserialization
+- https://zapier.com/ -  The best apps. Better together. - Zapier
+- https://github.com/firebase/geofire -  firebase/geofire: Realtime location queries with Firebase
+- https://www.udacity.com/course/mobile-design-and-usability-for-android--ud358 -  Mobile Design and Usability for Android | Udacity
+- https://www.udacity.com/course/passwordless-login-solutions-for-android--ud357 -  Passwordless Login Solutions for Android | Udacity
+- https://android.jlelse.eu/constraints-layout-best-layout-ever-230175272c0f -  Constraint layout the best layout ever! – AndroidPub
+- http://gradleplease.appspot.com/ -  Gradle, please
+- https://riggaroo.co.za/custom-file-templates-android-studio/ -  How to make your own File Templates in Android Studio - Part 1 – Riggaroo - Android Dev
+- https://tech.io/explore -  The free knowledge-sharing platform for technology
+- https://github.com/apl-devs/AppIntro -  apl-devs/AppIntro: Make a cool intro for your Android app.
+- https://sourcemaking.com/design_patterns -  Design Patterns
+- https://discussions.udacity.com/t/tools-collection/437626?u=pl4gue -  Tools Collection - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.skype.com/en/interviews/ -  Skype Interviews | Real-time code editor over Skype
+- https://uxcam.com/ -  Improve User Experience of Mobile Apps | UXCam
+- http://jakewharton.github.io/butterknife/ -  Butter Knife
+- https://academy.realm.io/posts/360-andev-2017-andrea-falcone-android-developer-options-deep-dive/?utm_source=android-list&utm_medium=email -  Android Developer Options Deep Dive
+- https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt -  Simplest version | Try Kotlin
+- https://github.com/gadc-russia/ud851-Sunshine-Kotlin-SlackTeam/issues?page=3&q=is%3Aissue+is%3Aopen -  Issues · gadc-russia/ud851-Sunshine-Kotlin-SlackTeam
+- https://kotlinlang.org/docs/tutorials/koans.html -  Kotlin Koans - Kotlin Programming Language
+- http://beust.com/weblog/2017/07/17/i-am-the-reason-for-hungarian-notation-in-android/ -  I am the reason for Hungarian notation in Android « Otaku, Cedric's blog
+- http://jakewharton.com/just-say-no-to-hungarian-notation/ -  Just Say mNo to Hungarian Notation - Jake Wharton
+- https://github.com/MindorksOpenSource/android-interview-questions -  MindorksOpenSource/android-interview-questions: Your Cheat Sheet For Android Interview - Android Interview Questions
+- https://blogs.msdn.microsoft.com/virtual_pc_guy/2008/04/14/creating-a-no-hypervisor-boot-entry/ -  Creating a "no hypervisor" boot entry | Ben Armstrong’s Virtualization Blog
+- https://google.github.io/styleguide/javaguide.html -  Google Java Style Guide
+- https://source.android.com/source/code-style -  AOSP Java Code Style for Contributors  |  Android Open Source Project
+- https://github.com/square/java-code-styles -  square/java-code-styles: IntelliJ IDEA code style settings for Square's Java and Android projects.
+- https://android.github.io/kotlin-guides/index.html -  Home
+- https://discussions.udacity.com/groups/ud851-emea -  Members - ud851-emea - Udacity Discussion Forum
+- https://education.github.com/pack -  Learn How to Code Using the Student Developer Pack - GitHub Education
+- https://cmusphinx.github.io/wiki/tutorialandroid/ -  PocketSphinx on Android – CMUSphinx Open Source Speech Recognition
+- https://www.youtube.com/watch?v=FrteWKKVyzI -  Architecture Components - Introduction (Google I/O '17) - YouTube
+- https://github.com/ribot/android-guidelines/blob/master/architecture_guidelines/android_architecture.md -  android-guidelines/android_architecture.md at master · ribot/android-guidelines
+- https://discussions.udacity.com/t/invisible-vs-gone/437370/5 -  Invisible vs gone - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://android.jlelse.eu/kotlin-boilerplates-android-architecture-components-with-rx-dagger-realm-c49bb5d66d8 -  Kotlin Boilerplates — Android Architecture Components (with Rx, Dagger & Realm)
+- https://www.udacity.com/course/offline-web-applications--ud899 -  Offline Web Applications | Udacity
+- https://github.com/Kotlin/anko -  Kotlin/anko: Pleasant Android application development
+- https://github.com/kotlin/kotlinx.coroutines -  Kotlin/kotlinx.coroutines: Libraries built upon Kotlin coroutines
+- https://android.jlelse.eu/rest-easy-with-retrofit-d4193c3dcbb2 -  REST Easy with Retrofit. – AndroidPub
+- https://discussions.udacity.com/t/best-practices-slack/435738 -  Best practices: Slack - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://translate.google.com/#en/ru/shy -  Google Translate
+- https://medium.com/@ali.muzaffar/is-retrofit-faster-than-volley-the-answer-may-surprise-you-4379bc589d7c -  Is Retrofit faster than Volley? The answer may surprise you!
+- http://abhiandroid.com/programming/volley?utm_source=newsletter&utm_medium=email&utm_campaign=volley_web_service_tutorial_for_fetching_data_from_server&utm_term=2017-11-08 -  Volley Tutorial With Example In Android Studio
+- https://restfulapi.net/statelessness/ -  REST - Statelessness – REST API Tutorial
+- https://antonioleiva.com/kotlin-awesome-tricks-for-android/ -  Kotlin awesome tricks for Android - Antonio Leiva
+- http://sqlfiddle.com/#!7/ae8f8/2 -  SQL Fiddle
+- https://habrahabr.ru/sandbox/98493/?mobile=no -  Полноценный upper (или lower) в SQLite при работе с unicode / Песочница / Хабрахабр
+- https://docs.oracle.com/javase/tutorial/java/IandI/super.html -  Using the Keyword super (The Java™ Tutorials > Learning the Java Language > Interfaces and Inheritance)
+- http://collabedit.com/6mgyq -  6mgyq - collabedit
+- https://docs.google.com/document/d/1NBqZZ_3zMLZUYyJe7-p1kgYG3WanUCNH2ctOIPLnB9I/edit -  Android Dev Challenge 2017 - AMA 08/11/2017 - Google Docs
+- https://get.slack.help/hc/en-us/articles/205239997-Pin-messages-or-files -  Pin messages or files – Slack Help Center
+- https://medium.com/udacity/six-tips-for-nanodegree-success-from-a-six-time-nanodegree-graduate-69ea2e118ffc -  Six Tips for Nanodegree Success from a Six-Time Nanodegree Graduate
+- https://discussions.udacity.com/t/a-usefull-extensions-plugins-and-ressources/429771/14 -  A usefull extensions, plugins and ressources - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://habrahabr.ru/company/mobileup/blog/335382/ -  Заблуждения Clean Architecture / Блог компании MobileUp / Хабрахабр
+- https://github.com/android10/Android-CleanArchitecture -  android10/Android-CleanArchitecture: This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
+- https://github.com/googlesamples/android-architecture/tree/todo-mvp-clean/ -  googlesamples/android-architecture at todo-mvp-clean
+- https://github.com/AndroidArchitecture/AndroidArchitectureBook -  AndroidArchitecture/AndroidArchitectureBook
+- https://github.com/minibugdev/android-ios-tools -  minibugdev/android-ios-tools: The Android & iOS Alternative Library and Tool Collection
+- https://github.com/wasabeef/awesome-android-libraries -  wasabeef/awesome-android-libraries: This is an alphabetical list of libraries for Android development, the majority being actively maintained.
+- https://t.me/Android_Architecture -  Telegram: Contact @Android_Architecture
+- https://t.me/shitty_android -  Telegram: Contact @shitty_android
+- https://medium.cobeisfresh.com/cobes-top-5-android-libraries-november-2016-91b5acc785c4 -  Top 5 Android Libraries — November 2016 – COBE
+- http://androiddev.apptractor.ru/ -  Подкасты Android Dev - Android Dev - подкаст о разработке под Android и всем, что с этим связано
+- https://stackoverflow.com/questions/44105127/android-studio-3-0-flavor-dimension-issue -  Android Studio 3.0 Flavor Dimension Issue - Stack Overflow
+- https://developer.android.com/studio/build/gradle-plugin-3-0-0-migration.html -  Migrate to Android Plugin for Gradle 3.0.0 | Android Studio
+- https://docs.google.com/document/d/1SlgUdd28p2_PDo27QIrYnlxCcmP9nyLAYs1boHOASBs/edit#heading=h.u4x0dwnnego7 -  Scholarship AMA Answers - Google Docs
+- https://time.is/CET/ -  Central European Time: 13:24
+- https://www.udacity.com/course/java-programming-basics--ud282 -  Learn Java - Java Programming Basics | Udacity
+- https://www.udacity.com/course/object-oriented-programming-in-java--ud283 -  Learn object oriented programming in Java | Udacity
+- http://shop.oreilly.com/product/9780596009205.do -  Head First Java, 2nd Edition - O'Reilly Media
+- https://www.udemy.com/java-the-complete-java-developer-course/ -  Complete Java Masterclass | Udemy
+- https://www.codecademy.com/catalog/language/java -  Catalog | Codecademy
+- https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28 -  Java Programming Tutorial - 1 - Installing the JDK - YouTube
+- https://realm.io/docs/java/latest/#initializing-realm -  Realm Java 4.1.1
+- https://developers.google.com/training/certification/ -  Google Developers Certification  |  Google Developers
+- https://discussions.udacity.com/t/how-to-solve-exercises/412641/27 -  How to solve exercises - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://kotlinlang.org/ -  Kotlin Programming Language
+- https://stackoverflow.com/questions/35960095/new-activity-without-xml-layout-in-android-studio -  New activity without xml layout in Android studio - Stack Overflow
+- https://developer.android.com/studio/intro/studio-config.html -  Configure Android Studio | Android Studio
+- https://stackoverflow.com/questions/45400960/filenotfoundexception-exception-in-android-studio-core -  FileNotFoundException exception in Android Studio core? - Stack Overflow
+- https://discussions.udacity.com/t/instruction-running-android-emulator-on-amd/414268/9 -  Instruction: Running Android emulator on AMD - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/going-from-android-studio-2-3-to-3-0-and-its-surprises/449712 -  Going from Android Studio 2.3 to 3.0 and its surprises. - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://d17h27t6h515a5.cloudfront.net/topher/2017/July/5966a31f_20170612-and-syllabus/20170612-and-syllabus.pdf -  20170612-and-syllabus.pdf
+- https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852 -  Lecture 1 | Programming Methodology (Stanford) - YouTube
+- https://www.codeschool.com/free-weekend -  Code School Free Weekend
+- https://www.codeschool.com/learn/android -  Learn Android | Code School
+- https://discussions.udacity.com/t/programming-principles/449202 -  Programming principles - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/guide-automatically-marking-todos-as-completed-extended-akin-demir-solution-simple-steps/449210 -  [GUIDE] AUTOMATICALLY marking TODOs as COMPLETED (Extended akin.demir solution / simple steps) - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8 -  Memory leaks in Android — identify, treat and avoid
+- http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard -  Why Learning to Code is So Damn Hard
+- https://developers.googleblog.com/2017/11/announcing-tensorflow-lite.html -  Google Developers Blog: Announcing TensorFlow Lite
+- https://discussions.udacity.com/t/guide-android-studio-training-productivity/449427/13 -  [Guide] Android Studio Training & Productivity - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.facebook.com/groups/1885034638492001/ -  Android DEV collaboration
+- http://sourcebits.com/app-development-design-blog/what-is-agile-development-for-mobile-apps/ -  What is Agile Development for Mobile Apps?
+- https://medium.com/@seasiainfotech/why-should-you-consider-agile-for-mobile-app-development-531d22c94097 -  Why Should You Consider Agile For Mobile App Development?
+- https://medium.com/@selenablaze/the-agile-approach-to-mobile-application-development-a9eafdcab04 -  The Agile Approach To Mobile Application Development
+- https://appinventiv.com/blog/agile-mobile-driven-mobile-app-development/ -  Agile Mobile-driven Mobile App Development
+- https://www.versionone.com/agile-101/agile-management-practices/agile-scrum-velocity/ -  Agile Scrum Velocity Calculation & FAQs
+- https://www.atlassian.com/agile/estimation -  Story Points and Agile Estimation | The Agile Coach
+- https://discussions.udacity.com/t/tips-for-staying-productive/441102/22 -  Tips for staying productive - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.com/@adinugroho/chaining-multiple-retrofit-call-using-rxjava-177b64c8103e -  Chaining Multiple Retrofit Call Using RxJava – Adi Nugroho – Medium
+- https://blog.doordash.com/synchronizing-network-calls-with-rxjava-d30f7db66fb9 -  Synchronizing Network Calls With RxJava – The DoorDash Dispatch
+- https://gitexercises.fracz.com/ -  Git Exercises
+- https://gdc2017graduates.slack.com/join/shared_invite/enQtMjk1NjkyNjE4MzUyLTU2YTVmMGY0MWFkY2JmNTZhZmRhMTExZjBhYTk5MjFlYzIzNzQyMTIwNzJkMjkyNzBhMjhlMzVlYTY3ZTBlNGI -  Create Account | Slack
+- https://codelabs.developers.google.com/gdd17?cat=IoT -  Google Developer Days 2017
+- https://docs.google.com/document/d/1pdl4vWCSeGHm75YLsduOzSl2phWuTt51cMZzvEfRs9k/edit -  AMA Sessions – Transcripts - Google Docs
+- https://www.techyourchance.com/jetbrains-invented-promotes-kotlin/ -  Why JetBrains Invented and Promotes Kotlin | TechYourChanceTechYourChance
+- https://proandroiddev.com/change-language-programmatically-at-runtime-on-android-5e6bc15c758 -  How to change the language on Android at runtime and don’t go mad
+- https://discussions.udacity.com/t/great-free-course-for-the-beginners/513887?u=alexshr -  Great free course for the beginners - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://android-arsenal.com/free -  The Android Arsenal - Free libraries and tools for Android
+- https://discussions.udacity.com/t/yet-another-context-thread/514166 -  Yet another Context thread....... - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.androidhive.info/2016/01/android-working-with-recycler-view/ -  Android working with RecyclerView
+- https://android.jlelse.eu/how-i-made-ticket-view-a-custom-view-for-android-20b83b175f8e -  How I made Ticket View — a Custom View for android – AndroidPub
+- https://discussions.udacity.com/t/collection-of-programming-fonts-for-android-studio/514396 -  Collection of programming fonts for Android Studio - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.youtube.com/watch?v=JV63czrUpbI -  MVC, MVP, MVVM Design Patterns with Godfrey Nolan - YouTube
+- https://android.jlelse.eu/using-intentservice-vs-asynctask-in-android-2fec1b853ff4 -  Using IntentService vs AsyncTask in Android – AndroidPub
+- https://codeburst.io/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f -  How Operating Systems Work: 10 Concepts you Should Know as a Developer
+- https://medium.com/inloop/using-android-fragments-in-2018-b9cf0b05b718 -  Using Android Fragments in 2018 – Inloop – Medium
+- https://proto.io/ -  Proto.io - Prototypes that feel real
+- https://coolors.co/ -  Coolors.co - The super fast color schemes generator
+- https://stackoverflow.com/questions/31884361/what-does-the-invalidate-caches-restart-do-in-android-studio -  What does the Invalidate Caches/Restart do in Android Studio? - Stack Overflow
+- http://www.viralandroid.com/2015/08/how-to-make-android-studio-fast.html -  Android Studio is Slow: How to Make Android Studio Fast | Viral Android – Tutorials, Examples, UX/UI Design
+- http://ramdeoshubham.com/android/speed-up-your-slow-android-studio/ -  Speed up your slow Android Studio - Shubham Ramdeo
+- https://www.youtube.com/watch?v=-SY5nkNVUn0 -  Enable Android Studio's "Dex In Process" for Faster App Builds - YouTube
+- https://www.youtube.com/watch?v=3TENdS9Qqcc -  Improving Android Studio Performance on Memory-Constrained Machines - YouTube
+- https://www.developer.com/java/other/article.php/3386271/Understanding-Base64-Data.htm -  Understanding Base64 Data - Developer.com
+- https://discussions.udacity.com/t/ready-for-the-2nd-phase-test-yourself/511592?u=gehad.abdelfatah45 -  Ready for the 2nd phase? Test yourself! - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://developer.android.com/training/printing/custom-docs.html -  Printing Custom Documents | Android Developers
+- https://discussions.udacity.com/t/architecture-components-learning-resources/478643/8 -  Architecture Components learning resources - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.linkedin.com/feed/update/urn:li:activity:6355853865883049984/ -  (1) LinkedIn
+- https://careers.google.com/jobs?utm_source=linkedin&utm_medium=lifeatgoogle&utm_campaign=NYNJ&src=Online/LinkedIn/linkedin_page_NYNJ#t=sq&q=j&li=20&l=false&j=Software Engineer&jcoid=7c8c6665-81cf-4e11-8fc9-ec1d6a69120c&jcoid=e43afd0d-d215-45db-a154-5386c9036525 -  Search Jobs - Google Careers
+- https://android.jlelse.eu/splash-screen-using-physics-animation-4bd98eedfe04 -  Splash Screen Using Physics Animation – AndroidPub
+- https://medium.com/@Zhuinden/why-realm-is-a-great-persistence-solution-for-beginners-in-android-development-6d69698efaad -  Why Realm is a great persistence solution for beginners in Android development
+- https://discussions.udacity.com/t/the-most-powerful-ide-android-studio/512762 -  The most powerful IDE: Android Studio - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.facebook.com/groups/1555541717869453/ -  (10) Udacity Google Developer Challenge Scholarship
+- https://realm.io/blog/realm-cloud-beta-waitlist/?utm_source=realm-list&utm_medium=email -  Announcing Realm Cloud: Realm Platform as a Service Beta
+- http://www.bestprogramminglanguagefor.me/ -  Best Programming Language to Learn in 2016
+- https://discussions.udacity.com/t/lesson-10-summary-background-tasks/511494/11 -  Lesson 10 Summary - Background Tasks - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/lesson-8-storing-data-in-sqlite-complete-lecture-notes-screenshots-text-transcripts-links/512365 -  Lesson 8: Storing Data in SQLite - Complete Lecture Notes (Screenshots + Text + Transcripts + Links) - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf -  github-git-cheat-sheet
+- https://github.com/Enteleform/-RES-/blob/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md -  -RES-/[Android] Udacity Curriculum.md at master · Enteleform/-RES-
+- https://www.programmableweb.com/ -  ProgrammableWeb - APIs, Mashups and the Web as Platform
+- https://discussions.udacity.com/t/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer/512905 -  50 Android Studio Tips, Tricks & Resources you should be familiar with, as an Android Developer - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/30-new-android-libraries-and-projects-released-in-summer-2017-focus-on-this/513023 -  30 new Android Libraries and Projects released in Summer 2017 - focus on this! ;) - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/free-book-android-developer-fundamentals-course-practical-workbook-pdf-on-line/513078/12 -  FREE BOOK - "Android Developer Fundamentals Course: Practical Workbook" [PDF/On-Line] - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://developers.google.com/training/android/ -  Google Developers Training  |  Google Developers
+- https://classroom.udacity.com/courses/ud825 -  Android Performance - Udacity
+- https://classroom.udacity.com/courses/ud876-4 -  Add Google Maps to your Android App - Udacity
+- https://classroom.udacity.com/courses/ud876-1 -  Google Location Services on Android - Udacity
+- https://classroom.udacity.com/courses/ud888 -  Kotlin for Android Developers - Udacity
+- https://eu.udacity.com/course/firebase-analytics-android--ud354 -  Firebase Analytics: Android | Udacity
+- https://eu.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352 -  Firebase in a Weekend: Android | Udacity
+- https://eu.udacity.com/course/ux-design-for-mobile-developers--ud849 -  UX Design for Mobile Developers | Udacity
+- https://eu.udacity.com/course/app-monetization--ud518 -  App Monetization | Udacity
+- https://eu.udacity.com/course/app-marketing--ud719 -  App Marketing | Udacity
+- https://eu.udacity.com/course/advanced-android-app-development--ud855 -  Advanced Android App Development | Udacity
+- https://eu.udacity.com/course/gradle-for-android-and-java--ud867 -  Gradle for Android and Java | Udacity
+- https://www.youtube.com/watch?v=Y2GC6P5hPeA -  Android Studio for Experts (Android Dev Summit 2015) - YouTube
+- https://engineering.udacity.com/android-things-from-0-to-hello-world-9d3c24a3477a -  Android Things: From 0 to Hello World – Udacity Eng & Data
+- https://medium.com/swlh/want-to-scale-your-startup-globally-read-this-507533d1a6aa -  Want to scale your startup globally? Read this – The Startup – Medium
+- https://medium.com/@thereallukesimpson/clean-architecture-with-mvvmi-architecture-components-rxjava-8c5093337b43 -  Clean Architecture with MVVMi, Architecture Components & RxJava
+- https://medium.com/@webalys/die-png-die-how-to-use-vector-icons-in-your-apps-d884c9c63e93 -  Die PNG. Die! How to use vector icons in your apps.
+- https://discussions.udacity.com/t/when-to-use-png-and-when-to-use-svg-in-an-app/511330 -  When to use PNG and when to use SVG in an App? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://blog.kotlin-academy.com/extracting-multiplatform-common-modules-in-android-4a564cc03e0a -  Extracting multiplatform common modules in Android – Kotlin Academy
+- https://stackoverflow.com/questions/36043912/error-after-fingerprint-touched-on-samsung-phones-android-security-keystoreexce -  encryption - Error after Fingerprint touched on Samsung phones: android.security.KeyStoreException: Key user not authenticated - Stack Overflow
+- http://myhexaville.com/2018/01/01/android-local-tests-robolectric/?utm_source=Android+Weekly&utm_campaign=7a96a0ce95-androidweekly-291&utm_medium=email&utm_term=0_4eb677ad19-7a96a0ce95-338000429 -  Android Testing pt. 1.3 | Robolectric
+- https://medium.com/@paulnunezm/steps-for-creating-a-content-provider-ab376d661613 -  Steps for creating a Content Provider – Paul Núñez – Medium
+- https://discussions.udacity.com/t/hi-please-drop-your-about-me-link-here/511552 -  Hi Please drop your about.me link here...... - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://blog.bugsnag.com/dex-and-d8/ -  Bugsnag Blog - The Dex File Format
+- https://www.youtube.com/watch?v=Lhk8WSUSw8g -  Kristin Marsicano: Activities in the Wild: Exploring the Activity Lifecycle - YouTube
+- https://www.futurelearn.com/courses/secure-android-app-development -  Secure Android App Development - Online Course
+- https://futurestud.io/ -  Future Studio — Skyrocket in Android and Node.js
+- https://proandroiddev.com/deep-dive-into-android-services-4830b8c9a09 -  Deep Dive into Android Services – ProAndroidDev
+- https://developer.android.com/topic/libraries/architecture/index.html -  Android Architecture Components | Android Developers
+- https://www.youtube.com/watch?v=hU-uuzO5spo -  Benefits of SVG in Android Studio Tutorial - YouTube
+- https://www.youtube.com/watch?v=-4GgzqMVrYc -  Content Provider - Part 1, A brief introduction - YouTube
+- https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html?index=..%2F..%2Fdevfest-lon#0 -  Build Your First Android App in Kotlin
+- https://codelabs.developers.google.com/codelabs/taking-advantage-of-kotlin/index.html?index=..%2F..%2Findex#0 -  Taking Advantage of Kotlin
+- https://academy.realm.io/posts/donn-felker-solid-part-1/ -  S is for Single Responsibility Principle
+- https://firebase.google.com/pricing/ -  Firebase
+- https://eu.udacity.com/course/google-location-services-on-android--ud876-1 -  Google Location Services on Android | Udacity
+- https://eu.udacity.com/course/add-google-maps-to-your-android-app--ud876-4 -  Add Google Maps to your Android App | Udacity
+- https://android.jlelse.eu/12-practices-every-android-beginner-should-know-cd43c3710027 -  12 Practices every Android Development Beginner should know — Part 1
+- http://www.thedevpiece.com/design-patterns-that-every-developer-should-know/ -  8 design patterns that every developer should know
+- https://android.jlelse.eu/android-activity-launch-mode-e0df1aa72242 -  Android Activity Launch Mode – AndroidPub
+- https://medium.com/@natansalda/how-i-failed-to-meet-most-of-my-goals-for-2017-260decd18ac8 -  How I failed to meet most of my goals for 2017... – Natalia Nazaruk – Medium
+- https://learnxinyminutes.com/docs/git/ -  Learn X in Y Minutes: Scenic Programming Language Tours
+- https://www.datacamp.com/courses/introduction-to-git-for-data-science?utm_medium=fb%2Can%2Cig%2Cms-all&utm_source=fb_paid&utm_campaign=smartly_visitors&utm_id=5a4b1099a5ec6c14b35a2e57 -  Introduction to Git for Data Science
+- https://teamtreehouse.com/library/github-basics -  GitHub Basics Course
+- https://stackoverflow.com/questions/38090248/could-not-resolve-all-dependencies-for-configuration-appdebugapkcopy -  android - could not resolve all dependencies for configuration ':app:debugAPKCopy' - Stack Overflow
+- https://discussions.udacity.com/t/upgrading-a-database-structure-tip/506321 -  Upgrading a database structure - tip - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/udacity/ud851-Sunshine/blob/student/S07.03-Solution-ConflictResolutionPolicy/app/src/main/java/com/example/android/sunshine/data/WeatherDbHelper.java#L20 -  ud851-Sunshine/WeatherDbHelper.java at student · udacity/ud851-Sunshine
+- https://developer.android.com/training/data-storage/shared-preferences.html -  Saving Key-Value Sets | Android Developers
+- https://stackoverflow.com/questions/13321637/whats-different-between-onpreferencechangelistener-and-onsharedpreferencechange -  android - What's different between OnPreferenceChangeListener and OnSharedPreferenceChangeListener - Stack Overflow
+- https://developer.android.com/reference/android/preference/Preference.OnPreferenceChangeListener.html -  Preference.OnPreferenceChangeListener | Android Developers
+- https://discussions.udacity.com/t/lesson-7-preferences-slower-version-video/506838 -  Lesson 7: Preferences // Slower Version Video? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/android-hello-world-mvc-mvp-mvvm/505629 -  Android Hello World - MVC / MVP / MVVM - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.com/@veniosg/unit-testing-with-mutablelivedata-22b3283a7819 -  Unit testing with MutableLiveData – George Venios – Medium
+- https://medium.com/@yonatanvlevin/bang-bang-you-have-been-hacked-df82db3f2001 -  Bang! Bang! You have been hacked. – Yonatan V. Levin – Medium
+- https://source.android.com/security/bulletin/2018-01-01 -  Android Security Bulletin—January 2018  |  Android Open Source Project
+- https://www.schneier.com/blog/archives/2018/01/tamper-detectio.html -  Tamper-Detection App for Android - Schneier on Security
+- https://ru.pinterest.com/pin/692921092642140203/sent/?sfo=1&sender=793267059273290911&invite_code=b6bdd3b970934bccb8ef733e9c5d34f9 -  Desarrollo de Software, explicado con Autos... … | Pinteres…
+- https://www.google.ru/search?q=Google+Fuchsia&gws_rd=cr&dcr=0&ei=SnFSWpCYG8ursQHrqLToBg -  Google Fuchsia - Google Search
+- https://www.sonarlint.org/intellij/index.html -  SonarLint for IntelliJ IDEA, PyCharm, Android Studio and more
+- https://www.reddit.com/r/Kotlin/comments/7mnrbf/kotlinnative_plugin_update/ -  Kotlin/Native Plugin Update : Kotlin
+- https://codefights.com/ -  Practice Programming and Find Tech Jobs - CodeFights
+- https://discussions.udacity.com/t/lesson-7-complete-lecture-notes-screenshots-text-transcripts-links/509978 -  Lesson 7 - Complete Lecture Notes (Screenshots + Text + Transcripts + Links) - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://mahmoudramadan.net/introduction-for-rxjava-for-android-developers/ -  Introduction to RxJava for android developers
+- https://savvyapps.com/blog/how-to-start-android-development-with-an-ios-background -  How to Start Android Development with an iOS Background | Savvy Apps
+- https://www.objc.io/issues/11-android/android_101_for_ios_developers/ -  Android 101 for iOS Developers · objc.io
+- https://stackoverflow.com/questions/48024506/android-emulator-dont-save-state-by-default -  Android emulator - Don't save state by default - Stack Overflow
+- https://hackernoon.com/vector-illustration-basics-for-android-developers-part-1-primitive-shapes-5af2e03ad24a -  Vector illustration basics for Android developers - Part 1: Primitive Shapes
+- http://goalkicker.com/ -  GoalKicker.com – Free Programming Books
+- https://opensource.google.com/projects/agera -  Agera – opensource.google.com
+- https://opensource.google.com/projects/appauth -  AppAuth – opensource.google.com
+- https://opensource.google.com/projects/flatbuffers -  FlatBuffers – opensource.google.com
+- https://medium.com/exploring-android/exploring-the-play-billing-library-for-android-55321f282929 -  Exploring the Play Billing Library for Android – Exploring Android – Medium
+- https://www.youtube.com/watch?v=Yu2oGere_Mc -  Introducing Google Developer Certification: Become an Associate Android Developer - Google I/0 2016 - YouTube
+- https://discussions.udacity.com/t/a-collection-of-free-books-from-syncfusion/509060 -  A collection of free books from Syncfusion - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/easy-way-to-master-any-subject/509384 -  Easy way to master any subject - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.android.com/history/#/donut -  Android – История
+- http://www.kickassfacts.com/20-interesting-facts-about-android/ -  20 Interesting Facts About Android | KickassFacts.com
+- https://discussions.udacity.com/t/lesson-9-summary-building-a-content-provider/506706 -  Lesson 9 Summary - Building a Content Provider - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/guide-saving-forum-posts-offline-permanent-access-using-chrome-mhtml/506832 -  [Guide] Saving forum posts offline /Permanent access (using Chrome mhtml) - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.iconfinder.com/ -  2,125,000+ free and premium vector icons. SVG, PNG, AI, CSH and PNG format.
+- https://android.jlelse.eu/fastlane-your-android-app-build-and-upload-apk-to-slack-1a3e20cf6f8c -  Fastlane 🚀 your Android App — Build and upload APK to Slack
+- https://ijavayou.wordpress.com/2018/01/03/cross-plattform-apps-with-flutter/ -  Flutter – Cross Platform Native Mobile App Development with Google (2018) – iJavaYou ();
+- https://discussions.udacity.com/t/anyone-here-tried-multiplatform-flutter-sdk/462456 -  Anyone here tried multiplatform Flutter SDK? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.freecodecamp.org/my-first-steps-into-the-world-of-software-development-and-what-they-taught-me-6ee748cffb8f -  My first step into the world of Software Development — and what you can learn from it.
+- https://www.mockplus.com/blog/post/mobile-app-ui-design-trend/?r=cherry -  Top 9 UI Design Trends for Mobile Apps in 2018
+- https://tech.pic-collage.com/rxandroid-handle-interrupt-with-switchmap-3a650393299f -  RxAndroid: Handle Cancellation With “switchMap” — Part I
+- http://codetheory.in/working-sqlite-database-crud-operations-android/ -  Working with SQLite Database (CRUD operations) in Android – Code Theory
+- http://codetheory.in/android-sharing-application-data-with-content-provider-and-content-resolver/ -  Android Sharing Application Data with Content Provider and Content Resolver – Code Theory
+- http://codetheory.in/using-asyncqueryhandler-to-access-content-providers-asynchronously-in-android/ -  Using AsyncQueryHandler to Access Content Providers Asynchronously in Android – Code Theory
+- http://codetheory.in/asynchronous-background-execution-and-data-loading-with-loaders-framework-in-android/ -  Asynchronous Background Execution and Data Loading with Loaders (Framework) in Android – Code Theory
+- https://www.youtube.com/user/gosuddr93/videos -  wiseAss - YouTube - YouTube
+- https://github.com/firebase/firebase-functions/releases/tag/v0.8.0 -  Release v0.8.0 · firebase/firebase-functions
+- https://redfin.engineering/how-we-improved-our-android-app-cold-start-time-by-28-a722e231314a -  How We Improved Our Android App “Cold Start” Time by 28%
+- https://medium.com/@p.tournaris/recyclerview-how-we-achieved-60-fps-tips-in-workables-android-app-recyclerviews-c646c796473c -  RecyclerView: How we achieved 60 FPS in Workable’s Android App (tips)
+- https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf -  search-engine-optimization-starter-guide.pdf
+- https://support.google.com/webmasters/answer/35291?hl=en -  Do you need an SEO? - Search Console Help
+- https://www.udemy.com/learn-seo-2017/?couponCode=FREENEWYEAR&siteID=i.IXi5qsT7c-Ys8zX6ELATkqb_KxwUwX5Q&LSNPUBID=i*IXi5qsT7c -  Learn SEO (Search Engine Optimization) | Udemy
+- https://www.youtube.com/watch?v=c5fts7bj-so -  nwa fuck the police hq - YouTube
+- https://teamtreehouse.com/library/seo-basics -  SEO Basics Course
+- https://plugins.jetbrains.com/plugin/8286-sequencediagram -  SequenceDiagram :: JetBrains Plugin Repository
+- https://www.invisionapp.com/ -  InVision | Digital Product Design, Workflow & Collaboration
+- https://sites.google.com/knowlabs.com/udacitydevscholars17 -  Home
+- https://www.androidauthority.com/best-free-android-apps-329422/ -  15 best free Android apps of 2018! - Android Authority
+- https://docs.oracle.com/javaee/7/api/javax/persistence/EntityManager.html -  EntityManager (Java(TM) EE 7 Specification APIs)
+- https://www.udemy.com/spring-hibernate-tutorial/ -  Spring & Hibernate for Beginners | Udemy
+- https://hackernoon.com/read-marble-diagrams-like-a-pro-3d72934d3ef5 -  Understanding Marble Diagrams for Reactive Streams – Hacker Noon
+- https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a -  Understanding Android Core: Looper, Handler, and HandlerThread – Mindorks
+- http://en.proft.me/2017/04/15/understanding-handler-android/ -  Understanding Handler in Android | en.proft.me
+- https://jeroenmols.com/blog/2017/12/18/fragmentback/ -  The curious case of haunting fragments - Jeroen Mols
+- https://blog.prototypr.io/mobile-app-ux-design-principles-15-rules-for-creating-apps-that-stick-e7f42fb68d3a -  Mobile App UX Design Principles: 15 Rules for Creating Apps that Stick
+- https://discussions.udacity.com/t/tutorial-about-wakatime/504534 -  Tutorial about WakaTime - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.com/mindorks/top-android-tech-to-learn-in-2018-c5bed9be4316 -  Top Android Tech To Learn In 2018 – Mindorks – Medium
+- https://androiduipatterns.com/on-the-bottom-navigation-bar-d07d9b4b5e18 -  On the Bottom Navigation Bar – Android UI Patterns
+- http://www.vogella.com/tutorials/JavaExcel/article.html -  Excel and Java - Read and Write Excel with Java - Tutorial
+- https://newfivefour.com/android-rxjava-wait-for-network-calls-finish.html -  Android, RxJava and Retrofit: Wait for multiple network calls to finish
+- https://android.jlelse.eu/android-mvp-basics-w-sample-app-3698e33ab9db -  Android MVP basics with sample app – AndroidPub
+- https://www.computerworld.com/article/3245032/android/will-google-kill-chrome-os-and-android-in-2018.amp.html -  Will Google kill Chrome OS and Android in 2018? | Computerworld
+- https://github.com/nuhkoca/BestCoin -  nuhkoca/BestCoin: A cryptocurrency app
+- https://praveen.io/startup-founders-here-is-your-access-to-instant-1000000/ -  Startup Founders, here’s your access to instant $1,000,000+ – Praveen Thirumurugan
+- https://antonioleiva.com/custom-views-android-kotlin/ -  Custom Views in Android with Kotlin (KAD 06) - Antonio Leiva
+- https://discussions.udacity.com/t/fun-fact-generator-in-java-and-kotlin/498687 -  Fun Fact Generator in Java and Kotlin - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65 -  Android Application Architecture – ribot labs
+- https://android.jlelse.eu/which-library-and-backend-do-you-need-for-your-next-android-app-6d0bf6f5a317 -  Which library and backend do you need for your next Android App?
+- https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/Unit%204/121_c_loaders.html -  12.1: Loaders · Android Developer Fundamentals Course – Concepts
+- https://discussions.udacity.com/t/lesson-6-complete-lecture-notes-screenshots-text-transcripts-links/500483 -  Lesson 6 - Complete Lecture Notes (Screenshots + Text + Transcripts + Links) - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://constraintlayout.com/ -  ConstraintLayout
+- https://github.com/JakeWharton/retrofit2-kotlin-coroutines-adapter -  JakeWharton/retrofit2-kotlin-coroutines-adapter: A Retrofit 2 adapter for Kotlin coroutine's Deferred type.
+- https://medium.com/@nuhkocaa/attention-please-google-and-udacity-partnership-might-change-your-life-a-dreamlike-scholarship-ba839fb04077 -  Attention please! Google and Udacity partnership might change your life! — A dreamlike scholarship
+- https://github.com/PhilJay/MPAndroidChart -  PhilJay/MPAndroidChart: A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
+- https://android.jlelse.eu/androids-account-transfer-api-19fbe330f087 -  Android’s Account transfer API – AndroidPub
+- https://www.codeproject.com/Articles/1112919/MVVM-for-beginners -  MVVM for beginners - CodeProject
+- https://developer.android.com/topic/libraries/architecture/viewmodel.html -  ViewModel | Android Developers
+- https://jake-jorgovan.com/blog/how-to-make-1000-per-week-on-odesk -  How to make $1,000+ per week on Upwork — Jake Jorgovan
+- http://blog.jimbaca.com/ -  Learn Android The Easy Way - Learn Android The Easy Way
+- http://kotlinlang.org/docs/reference/coding-conventions.html -  Coding Conventions - Kotlin Programming Language
+- https://thenextweb.com/apps/2017/12/30/the-ultimate-guide-to-customizing-the-ultimate-android-homescreen/ -  The ultimate guide to customizing the ultimate Android home screen
+- https://discourse.nativescript.org/t/strategies-for-persisting-complex-data-in-a-database/266/6 -  Strategies for persisting complex data in a database - Databases - NativeScript Community Forum
+- https://proandroiddev.com/how-to-draw-a-custom-view-9da8016fe94 -  How to draw a custom view? – ProAndroidDev
+- https://android-developers.googleblog.com/2017/12/a-look-back-at-most-read-google-play.html -  Android Developers Blog: A look back at the most read Google Play posts on Medium in 2017
+- https://blog.google/products/android/ -  Android | Google Blog
+- https://android-developers.googleblog.com/ -  Android Developers Blog
+- https://www.anysoftwaretools.com/best-android-development-resources/ -  96 Best Resources for Android Developers 2017 (Blogs, Forums & More)
+- https://proandroiddev.com/creating-awesome-animations-using-constraintlayout-and-constraintset-part-i-390cc72c5f75 -  Creating awesome animations using ConstraintLayout and ConstraintSet — part I
+- http://fragmentedpodcast.com/ -  Fragmented – An Android Developer Podcast
+- http://androidbackstage.blogspot.ru/ -  Android Developers Backstage
+- https://stackoverflow.com/questions/10708363/register-and-unregister-onsharedpreferencelisteners -  android - Register and unregister onSharedPreferenceListeners - Stack Overflow
+- https://blog.aritraroy.in/everything-you-need-to-know-about-memory-leaks-in-android-apps-655f191ca859 -  Everything You Need To Know About Memory Leaks In Android Apps
+- https://discussions.udacity.com/t/all-about-freelancing/436765?source_topic_id=501308 -  All about freelancing - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/great-website-for-practicing-algorithms/449823/12 -  Great website for practicing algorithms - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/best-android-libraries-for-developers/446380/4 -  Best Android Libraries for Developers - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://tech.io/playgrounds/5529/kotlin-starter-pack/about-this-playground -  About this playground - Kotlin Starter Pack
+- https://tech.io/users/2188757/s1m0nw1 -  s1m0nw1
+- https://www.javamex.com/tutorials/threads/thread_safety.shtml -  Synchronization and thread safety in Java
+- https://docs.oracle.com/javase/tutorial/essential/concurrency/syncmeth.html -  Synchronized Methods (The Java™ Tutorials > Essential Classes > Concurrency)
+- https://docs.oracle.com/javase/9/docs/api/java/util/concurrent/package-summary.html -  java.util.concurrent (Java SE 9 & JDK 9 )
+- https://stackoverflow.com/questions/34510/what-is-a-race-condition/34550#34550 -  multithreading - What is a race condition? - Stack Overflow
+- https://docs.oracle.com/javase/tutorial/essential/concurrency/interfere.html -  Thread Interference (The Java™ Tutorials > Essential Classes > Concurrency)
+- http://tutorials.jenkov.com/java-concurrency/synchronized.html -  Java Synchronized Blocks
+- http://javarevisited.blogspot.ru/2011/04/synchronization-in-java-synchronized.html#axzz52k88dLxC -  Java Synchronization Tutorial : What, How and Why?
+- https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html -  Lesson: Concurrency (The Java™ Tutorials > Essential Classes)
+- https://docs.oracle.com/javase/tutorial/essential/concurrency/further.html -  For Further Reading (The Java™ Tutorials > Essential Classes > Concurrency)
+- https://www.javatpoint.com/life-cycle-of-a-thread -  Life cycle of a thread in Java - javatpoint
+- http://javajee.com/basics-of-synchronization-in-java -  Basics of Synchronization in Java | JAVAJEE.COM
+- https://softwareengineering.stackexchange.com/questions/136163/whats-the-difference-between-junior-middle-and-senior-developers/136165#136165 -  skills - What's the difference between junior, middle, and senior developers? - Software Engineering Stack Exchange
+- https://developer.android.com/studio/run/device.html -  Run Apps on a Hardware Device | Android Studio
+- https://discussions.udacity.com/t/onbackpressed-vs-navutils-navigateupfromsametask/495338 -  onBackPressed() Vs NavUtils.navigateUpFromSameTask() - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/lesson-7-summary-revision-on-sharedpreferences/495571 -  LESSON 7 Summary: Revision on SharedPreferences - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/JakeWharton/butterknife/issues/269 -  butterknife + data binding · Issue #269 · JakeWharton/butterknife
+- https://developer.android.com/guide/topics/providers/content-provider-creating.html -  Creating a Content Provider | Android Developers
+- https://www.youtube.com/watch?v=HYhJmK9nKS4 -  Встреча JUG.ru c Романом Елизаровым — Kotlin: Асинхронное программирование с корутинами (часть 1) - YouTube
+- https://play.google.com/store/apps/details?id=com.letsappbuilder -  Приложения в Google Play – App Builder - Create own app ( FREE App maker )
+- http://startandroid.ru/ru/courses/architecture-components.html -  Architecture Components
+- https://medium.com/swlh/mvp-vs-poc-a-startup-launch-strategy-guide-c7c82f09d9f4 -  MVP vs. POC: A Startup Launch Strategy Guide – The Startup – Medium
+- https://developer.android.com/reference/android/view/View.html#setFocusable(boolean) -  View | Android Developers
+- https://stackoverflow.com/questions/23799064/what-is-the-difference-between-setfocusable-and-setfocusableintouchmode/23802310#23802310 -  android - What is the difference between setFocusable and setFocusableInTouchMode? - Stack Overflow
+- https://www.novoda.com/blog/do-you-even-focus-bro/ -  Having Trouble Focusing? A Primer on Focus in Android
+- https://code.tutsplus.com/tutorials/android-user-interface-design-the-basics-of-control-focus-order--mobile-8013 -  Android User Interface Design: The Basics of Control Focus Order
+- https://medium.com/google-developers/incrementally-migrate-from-sqlite-to-room-66c2f655b377 -  Incrementally migrate from SQLite to Room – Google Developers – Medium
+- https://discussions.udacity.com/t/solved-openmap-intent-does-not-open-selected-location/496757 -  [Solved] OpenMap intent does not open selected location - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://blog.mindorks.com/kotlin-weekly-update-22-80c457490349 -  Kotlin Weekly Update — 22 – Mindorks
+- https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.experimental/cancel-and-join.html -  cancelAndJoin - kotlinx-coroutines-core
+- https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/filter-not-null.html -  filterNotNull - Kotlin Programming Language
+- https://www.youtube.com/watch?v=czTF2EtYzzM -  Kotlin 102 – Beyond the basics by Hadi Hariri - YouTube
+- https://blog.mindorks.com/best-articles-on-android-that-we-published-in-2017-4972a2578b77 -  Best Articles on Android That We Published In 2017 – Mindorks
+- https://android.jlelse.eu/android-architecture-components-livedata-with-data-binding-7bf85871bbd8 -  Android Architecture Components LiveData with Data Binding
+- https://github.com/codepath/android_guides/wiki -  Home · codepath/android_guides Wiki
+- https://academy.realm.io/posts/mobilization-2017-jorge-castillo-functional-android-architecture-kotlin/ -  A Functional Approach to Android Architecture using Kotlin
+- https://www.sitepoint.com/requesting-runtime-permissions-in-android-m-and-n/ -  Requesting Runtime Permissions in Android M and N — SitePoint
+- https://android.jlelse.eu/architecture-components-with-rx-simply-app-5b6a68a86451 -  Android Architecture Components with Rx: Simply app
+- https://medium.com/@elia.maracani/android-data-binding-passing-a-variable-to-an-include-d-layout-3567099b58f -  Android Data Binding: passing a variable to an <include>d layout
+- https://sites.google.com/site/unclebobconsultingllc/ -  Clean Coder
+- https://www.packtpub.com/books/content/5-application-development-tool-matter-2018 -  5 application development tools that will matter in 2018 | PACKT Books
+- https://www.packtpub.com/books/content/5-things-that-matter-application-development-2018 -  5 things that will matter in application development in 2018 | PACKT Books
+- https://www.youtube.com/watch?v=i5P6MB8l88s -  The Developer Show (GDD India '17) w/ Sean McQuillan - YouTube
+- https://twitter.com/RxJava/status/945985652398620672 -  RxJava on Twitter: "RxJava 2.1.8 released with documentation and API improvements and bugfixes. https://t.co/CTySjN80At"
+- https://www.youtube.com/watch?v=qO5SSBIUlXw -  The Developer Show (GDD India '17) w/ Francis Ma - YouTube
+- https://proandroiddev.com/building-a-distributed-midi-controller-with-android-things-and-nearby-api-7011f1f3189c -  Building a distributed MIDI Controller with Android Things and Nearby API
+- https://www.codeproject.com/Articles/825700/Beginners-Guide-to-Android-Animation-Graphics -  Beginner's Guide to Android Animation/Graphics - CodeProject
+- https://developer.android.com/training/building-graphics.html -  Building Apps with Graphics & Animation | Android Developers
+- https://discussions.udacity.com/t/what-is-the-future-mvp-or-mvvm/492361/2 -  What is the future MVP or MVVM? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.coursera.org/learn/androidapps/home/week/1 -  Android App Components - Intents, Activities, and Broadcast Receivers - MOOC Overview | Coursera
+- https://medium.freecodecamp.org/how-my-app-won-third-place-in-an-international-student-competition-ed14113881f6 -  How my App won third place in an International Student Competition
+- https://hackernoon.com/you-need-to-stop-these-bad-developer-habits-now-468ae877700f -  You need to STOP these BAD developer habits NOW – Hacker Noon
+- https://firebase.googleblog.com/2017/12/using-android-architecture-components.html -  The Firebase Blog: Using Android Architecture Components with Firebase Realtime Database (Part 1)
+- https://firebase.googleblog.com/2017/12/using-android-architecture-components_22.html -  The Firebase Blog: Using Android Architecture Components with Firebase Realtime Database (Part 3)
+- https://www.udacity.com/course/software-development-process--ud805 -  Software Development Processes | Udacity
+- https://fractalwrench.co.uk/posts/playing-apk-golf-how-low-can-an-android-app-go/ -  Playing APK Golf
+- https://medium.com/google-developers/smallerapk-part-1-anatomy-of-an-apk-da83c25e7003 -  #SmallerAPK, Part 1: Anatomy of an APK – Google Developers – Medium
+- https://github.com/firebase/AndroidChat/blob/master/app/proguard-rules.pro -  AndroidChat/proguard-rules.pro at master · firebase/AndroidChat
+- https://medium.com/@kevalpatel2106/how-you-can-decrease-application-size-by-60-in-only-5-minutes-47eff3e7874e -  How you can decrease application size by 60% (In only 5 minutes)?
+- https://android-developers.googleblog.com/2016/07/improvements-for-smaller-app-downloads.html?m=0 -  Android Developers Blog: Improvements for smaller app downloads on Google Play
+- https://developer.android.com/studio/build/apk-analyzer.html -  Analyze Your Build with APK Analyzer | Android Studio
+- https://stackoverflow.com/questions/12860938/smart-app-updates-on-google-play-store-how-does-it-work -  android - Smart App Updates on Google Play Store: how does it work? - Stack Overflow
+- https://www.youtube.com/watch?v=GZuLGVTLi1Q -  MCE 2017: M.Grzechociński, J.Karaśkiewicz: Save users’ data! Tips for reducing the APK size. - YouTube
+- https://fabric.io/kits/android/crashlytics/summary -  Crashlytics for Android - Fabric Summary
+- https://docs.fabric.io/android/crashlytics/dex-and-proguard.html -  Configure ProGuard and DexGuard — Fabric for Android documentation
+- https://medium.com/google-developers/tracking-app-update-sizes-1a1f57634f7b -  Tracking app update sizes – Google Developers – Medium
+- https://developer.android.com/topic/performance/reduce-apk-size.html -  Reduce APK Size | Android Developers
+- https://github.com/jwasham/coding-interview-university -  jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.
+- https://bayern.devfest.de/schedule/day1 -  GDG DevFest Bayern 2017
+- https://antonioleiva.com/nullity-kotlin/ -  Say goodbye to NullPointerException. Working with nulls in Kotlin (KAD 19)
+- https://www.jetbrains.com/help/idea/live-templates.html -  Live Templates - Help | IntelliJ IDEA
+- https://www.youtube.com/watch?v=AdfKNgyT438&list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp -  Best Practices to Slim Down Your App Size (Google I/O '17) - YouTube
+- https://developer.android.com/studio/run/emulator.html -  Run Apps on the Android Emulator | Android Studio
+- https://developer.android.com/reference/android/content/res/Resources.html -  Resources | Android Developers
+- https://medium.com/@yair.kukielka/android-unit-tests-explained-part-2-a0f1e1413569 -  Android unit tests explained — part 2 – Yair Kukielka – Medium
+- http://www.angelikalanger.com/ -  AngelikaLanger.com - Angelika Langer's Home Page - Angelika Langer Training/Consulting
+- https://discussions.udacity.com/t/why-can-we-save-data-on-arrays/460215/9 -  Why can we save data on Arrays? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html -  Understanding Class Members (The Java™ Tutorials > Learning the Java Language > Classes and Objects)
+- https://antonioleiva.com/recyclerview-adapter-kotlin/ -  Writing a RecyclerView Adapter in Kotlin (KAD 16)
+- https://medium.com/upday-devs/mvvm-its-all-in-the-implementation-details-40ed24871a02 -  MVVM — It’s All In The (Implementation) Details – upday devs – Medium
+- https://stackoverflow.com/questions/4243187/whats-the-difference-between-design-patterns-and-architectural-patterns/4243407#4243407 -  architecture - What's the difference between design patterns and architectural patterns? - Stack Overflow
+- https://www.codeproject.com/articles/716413/factory-method-pattern-vs-abstract-factory-pattern -  Factory Method Pattern vs. Abstract Factory Pattern - CodeProject
+- https://www.amazon.co.uk/Head-First-Design-Patterns-Freeman/dp/0596007124 -  Head First Design Patterns: Amazon.co.uk: Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra: 0000596007124: Books
+- https://zeroturnaround.com/rebellabs/object-oriented-design-principles-and-the-5-ways-of-creating-solid-applications/ -  5 ways of creating SOLID applications zeroturnaround.com
+- https://discussions.udacity.com/t/getting-battery-charging-state/450129/23?u=fif.iva -  Getting battery charging state - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/udacity/ud851-Exercises/issues/77 -  T10.06 batteryManager.isCharging() API level 23 · Issue #77 · udacity/ud851-Exercises
+- https://discussions.udacity.com/t/awesome-api-for-new-app-ideas/490136 -  Awesome API for new app ideas - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://guides.codepath.com/android/shared-element-activity-transition -  Shared Element Activity Transition | CodePath Android Cliffnotes
+- https://android-developers.googleblog.com/2017/12/lowpan-on-android-things.html -  Android Developers Blog: LoWPAN on Android Things
+- https://android-developers.googleblog.com/2017/11/android-things-developer-preview-6.html -  Android Developers Blog: Android Things Developer Preview 6
+- https://developer.android.com/guide/topics/data/data-storage.html#pref -  Storage Options | Android Developers
+- https://developer.android.com/reference/android/preference/Preference.html -  Preference | Android Developers
+- https://stackoverflow.com/questions/5571249/how-do-i-retrieve-the-incoming-phone-calls-number-while-ringing-and-store-it-in -  java - how do i retrieve the incoming phone call's number while ringing and store it in a variable in android? - Stack Overflow
+- https://blog.branch.io/ru/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D1%81%D1%81-%D1%81%D1%85%D0%B5%D0%BC%D1%8B-%D1%83%D1%80%D0%B8/ -  Техническое руководство по прямым ссылкам в Android: Схемы URI | Branch Blog
+- http://nilhcem.com/swift-is-like-kotlin/ -  Swift is like Kotlin
+- https://guides.codepath.com/android/using-the-recyclerview#attaching-click-handlers-to-items -  Using the RecyclerView | CodePath Android Cliffnotes
+- https://medium.com/mobility/how-to-do-tdd-in-android-90f013d91d7f -  How to do TDD in Android ? Part 1 — Overview – Mobility – Medium
+- https://medium.com/mobility/how-to-do-tdd-in-android-part-2-project-architecture-setup-unit-testing-77cdd1d6aa3a -  How to do TDD in Android ? Part 2 — Project architecture , Setup & Unit Testing
+- https://medium.com/mobility/how-to-do-tdd-in-android-part-3-mocking-integration-testing-60b057840db6 -  How to do TDD in Android ? Part 3 — Mocking & Integration testing.
+- https://medium.com/mobility/how-to-do-tdd-in-android-part-4-ui-testing-using-espresso-b381ebede191 -  How to do TDD in Android ? Part 4 — UI testing using Espresso.
+- https://developer.android.com/training/testing/espresso/cheat-sheet.html -  Espresso cheat sheet | Android Developers
+- https://possiblemobile.com/2014/01/android-design-cheat-sheet/ -  The Android Design Cheat Sheet
+- http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/ -  Android Cheatsheet for Graphic Designers
+- https://proandroiddev.com/briefly-about-rxjava-logging-20308b013e6d -  Briefly about RxJava Logging – ProAndroidDev
+- https://www.youtube.com/watch?v=0IKHxjkgop4 -  Managing State with RxJava by Jake Wharton - YouTube
+- https://discussions.udacity.com/t/summary-of-egypt-hangout-meetup-of-19-12-2017/496102 -  Summary of Egypt Hangout Meetup of 19/12/2017 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://balsamiq.com/ -  Balsamiq. Rapid, effective and fun wireframing software. | Balsamiq
+- https://medium.com/@nileshsingh/how-to-enable-safe-browsing-in-webview-11126627f278 -  How to enable Safe Browsing in WebView – Nilesh Singh – Medium
+- https://medium.com/@nuhkocaa/easy-communication-between-a-layout-and-an-interface-through-databinding-fd5478f363e0 -  Easy communication between a layout and an interface through DataBinding
+- https://discussions.udacity.com/t/my-approach-and-script-example-for-sqlite-database-debugging/473762 -  My approach and script example for sqlite database debugging - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://skillberg.com/courses/android/lessons/crashlytics-reklama-v-prilozheniyah/ -  Crashlytics. Реклама в приложениях. — курс "Разработка под Android". Бесплатные уроки | Skillberg
+- https://www.youtube.com/watch?v=PKAVOK5WVQw -  Android-разработчик - YouTube
+- https://www.youtube.com/watch?v=ZZvI_iablJM -  Google Developer Scholarships - Android Basics Tech AMA 1 - December 2017 - YouTube
+- https://www.youtube.com/watch?v=z8eZfCRakeU -  Google Developer Scholarships - Android Dev Tech AMA 1 - December 2017 - YouTube
+- https://android-developers.googleblog.com/2017/10/android-studio-30.html?utm_source=devsite&utm_medium=hpp&utm_campaign=AndroidStudio_dec17 -  Android Developers Blog: Android Studio 3.0
+- https://www.youtube.com/watch?v=Ozrn5FEqmj0 -  Android Things driver samples: ssd1306 - YouTube
+- https://www.youtube.com/watch?v=Wyi5dT3rZlE -  Android Things Doorbell sample - YouTube
+- https://discussions.udacity.com/t/lesson-5-complete-lecture-notes-screenshots-text-transcripts-links/495068 -  Lesson 5 - Complete Lecture Notes (Screenshots + Text + Transcripts + Links) - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.androidhive.info/2015/09/android-material-design-snackbar-example/ -  Android Material Design Snackbar Example
+- https://androidstudio.googleblog.com/2017/12/android-studio-31-canary-6-is-now.html -  Android Studio Release Updates: Android Studio 3.1 Canary 6 is now available
+- https://medium.com/default-to-open/kotlin-tips-singleton-utility-functions-group-object-initialization-and-more-27cdd6f63a41 -  Kotlin tips: Singleton, Utility Functions, group Object Initialization and more…
+- https://android.jlelse.eu/advanced-kotlin-tips-local-infix-and-inline-functions-tail-recursion-sealed-classes-and-more-2a53b00d5423 -  Advanced Kotlin tips: tail recursion, sealed classes, local, infix and inline functions and more…
+- https://discuss.kotlinlang.org/t/type-inference-for-return-types-of-longer-functions/554 -  Type inference for return types of longer functions - Kotlin Discussions
+- https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html -  Unit - Kotlin Programming Language
+- https://kotlinlang.org/docs/reference/functions.html#unit-returning-functions -  Functions: infix, vararg, tailrec - Kotlin Programming Language
+- https://discussions.udacity.com/t/first-app-impression-matters/492873 -  First app impression matters! - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.techrepublic.com/blog/software-engineer/support-different-android-device-configurations-with-dimension-resources/ -  Support different Android device configurations with dimension resources - TechRepublic
+- https://www.datacamp.com/onboarding/learn?from=home&technology=python -  DataCamp
+- https://firebase.googleblog.com/2017/12/using-android-architecture-components_20.html -  The Firebase Blog: Using Android Architecture Components with Firebase Realtime Database (Part 2)
+- https://android.jlelse.eu/android-architecture-components-livedata-1ce4ab3c0466 -  Android Architecture Components: LiveData – AndroidPub
+- https://uxplanet.org/ux-login-register-and-password-the-ultimate-design-guide-f18b1932ee84 -  UX Login, Register and Password: The Ultimate Design Guide
+- https://discussions.udacity.com/t/first-app-impression-matters/492873/7 -  First app impression matters! - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://thenextweb.com/google/2015/04/02/google-releases-a-tool-for-developers-to-launch-android-apps-on-windows-mac-linux-and-chrome-os/ -  Google Releases a Tool to Launch Android Apps on Desktops
+- https://medium.com/google-developers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab -  The Android Lifecycle cheat sheet — part I: Single Activities
+- https://blog.udacity.com/2017/12/year-in-review-2017.html -  Udacity 2017: The Year in Review | Udacity
+- https://discussions.udacity.com/t/mycroft-a-digital-assistance-open-source-project/493580?u=ali.derawi -  Mycroft .. A digital Assistance open source project - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/lesson-8-summary-content-provider/494196 -  Lesson 8 Summary - Content Provider - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://eng.lyft.com/interviewing-tips-for-android-engineers-f01ce7fba163 -  Interviewing Tips for Android Engineers – Lyft Engineering
+- https://medium.com/@romandanylyk96/android-bring-life-to-your-custom-view-8604ab3967b3 -  Android: bring life to your custom view – Roman Danylyk – Medium
+- https://android.jlelse.eu/how-to-sketch-an-android-app-30ac9847d609 -  How to sketch an Android App? – AndroidPub
+- https://www.uplabs.com/ -  UI resources, daily - Uplabs
+- https://t.me/rxjavachat -  Telegram: Contact @rxjavachat
+- https://developers.google.com/ -  Google Developers
+- https://github.com/googlesamples -  Google Samples
+- http://eliasbagley.github.io/reverseengineering/2016/12/02/reverse-engineering-instagram-api.html -  Reverse Engineering the Android Instagram App's Private API
+- http://anthony-skr.com/article/android-reverse-engineering-use-case-bypass-ssl-certificate-pinning-prisma -  Android Reverse Engineering use case : bypass SSL certificate pinning on Prisma
+- https://medium.com/@vanniktech/testing-rxjava-code-made-easy-4cc32450fc9a -  Testing RxJava code made easy – Niklas Baudy – Medium
+- https://discussions.udacity.com/t/don-t-forget-to-do-this-when-creating-the-database-a/491637 -  Don’t forget to do this when Creating the Database!a - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://android-developers.googleblog.com/2017/12/double-stuffed-security-in-android-oreo.html -  Android Developers Blog: Double Stuffed Security in Android Oreo
+- https://github.com/Hamadakram/Sneaker -  Hamadakram/Sneaker: A lightweight Android library for customizable alerts
+- https://medium.freecodecamp.org/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0 -  25 new Android libraries which you definitely want to try at the beginning of 2017
+- https://android.jlelse.eu/mastering-android-development-skills-with-google-48b437137389 -  Mastering your Android Development Skills with Google
+- https://www.hackerrank.com/ -  HackerRank | Technical Recruiting | Hiring the Best Engineers
+- https://labs.ribot.co.uk/exploring-meaningful-motion-on-android-1cd95a4bc61d -  Exploring Meaningful Motion on Android – ribot labs
+- https://www.androidhive.info/2017/12/android-user-activity-recognition-still-walking-running-driving-etc/ -  Android User Activity Recognition - Still, Walking, Running, Driving etc.,
+- https://android-developers.googleblog.com/2017/12/improving-app-security-and-performance.html -  Android Developers Blog: Improving app security and performance on Google Play for years to come
+- http://www.androidpolice.com/2017/12/19/play-store-require-new-updated-apps-target-recent-api-levels-distribute-native-apps-64-bit-support/ -  Play Store to require new and updated apps to target recent API levels and distribute native apps with 64-bit support
+- https://android-developers.googleblog.com/2017/12/quick-boot-top-features-in-android.html?m=1 -  Android Developers Blog: Quick Boot & the Top Features in the Android Emulator
+- https://twitter.com/androiddev/status/943532311563440128 -  Android Developers on Twitter: "#AndroidOreo is stuffed full of security enhancements like support for hardware security, platform hardening, process isolation and more! R… https://t.co/GMStMn9DsO"
+- https://stackoverflow.com/questions/1967370/git-replacing-lf-with-crlf -  git replacing LF with CRLF - Stack Overflow
+- https://stackoverflow.com/questions/22575662/filename-too-long-in-git-for-windows -  Filename too long in git for windows - Stack Overflow
+- https://www.youtube.com/watch?v=zlggmRMadsU&t=18m26s -  KotlinConf 2017 - Idiomatic Interop by Kevin Most - YouTube
+- https://docs.oracle.com/javase/tutorial/ -  The Java™ Tutorials
+- https://en.wikipedia.org/wiki/Design_Patterns -  Design Patterns - Wikipedia
+- https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm -  Design Pattern Overview
+- https://www.amazon.com/dp/0321247140/?tag=myga0ba-20 -  Design Patterns Explained: A New Perspective on Object Oriented Design, 2nd Edition (Software Patterns): Alan Shalloway, James R. Trott: 9780321247148: Amazon.com: Books
+- https://www.valuecoders.com/blog/technology-and-apps/40-best-app-startup-ideas/ -  40 Best App Ideas For Startups
+- https://discussions.udacity.com/t/lesson-4-complete-lecture-notes-screenshots-text-transcripts-links/491953 -  Lesson 4 - Complete Lecture Notes (Screenshots + Text + Transcripts + Links) - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://developer.android.com/studio/run/emulator-acceleration.html#vm-mac -  Configure Hardware Acceleration for the Android Emulator | Android Studio
+- https://www.entrepreneur.com/amphtml/240644 -  15 Characteristics of a Good Programmer
+- https://proandroiddev.com/activity-espresso-test-with-daggers-android-injector-82f3ee564aa4 -  Activity Espresso Test With Dagger’s Android Injector
+- http://help.paperbot.ai/ -  Paperbot Help Center
+- https://android.jlelse.eu/android-remote-logger-library-for-debugging-343443bd38b7 -  HyperLog: Android Remote Logger Library for Debugging.
+- https://www.youtube.com/watch?v=jS0buQyfJfs -  Kotlin YouTube: Intro to RecyclerView (Ep 1) - YouTube
+- https://go.pardot.com/l/210132/2017-08-10/9drkd?_ga=2.80333842.420531033.1513790940-1654797904.1509554174 -  4 Design Patterns for RESTless Mobile Integration
+- https://en.wikipedia.org/wiki/SOLID_(object-oriented_design) -  SOLID (object-oriented design) - Wikipedia
+- https://academy.realm.io/posts/donn-felker-solid-part-2/ -  O is for Open/Closed Principle
+- https://academy.realm.io/posts/donn-felker-solid-part-3/ -  L is for the Liskov Substitution Principle
+- https://academy.realm.io/posts/donn-felker-solid-part-4/ -  I is for the Interface Segregation Principle
+- https://academy.realm.io/posts/donn-felker-solid-part-5/ -  D is for the Dependency Inversion Principle
+- https://academy.realm.io/section/android/ -  Android expert content on the Realm Academy
+- https://proandroiddev.com/how-to-implement-a-recyclerview-33fd4ff9988e -  How to implement a RecyclerView? – ProAndroidDev
+- https://proandroiddev.com/kotlin-design-patterns-8e152540ee2c -  Kotlin Design Patterns – ProAndroidDev
+- https://www.appannie.com/en/insights/mobile-strategy/push-notifications-one-way-to-increase-in-app-purchases-that-works/ -  Push Notifications: One Way to Increase In-App Purchases That Works
+- https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html#delete%28java.lang.String,%20java.lang.String,%20java.lang.String%5B%5D%29 -  SQLiteDatabase | Android Developers
+- https://developer.android.com/reference/android/widget/TextView.html#attr_android:freezesText -  TextView | Android Developers
+- https://medium.com/@crafty/playing-with-paths-3fbc679a6f77 -  Playing with Paths – Google Developers – Medium
+- https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/ -  ConstraintLayout - Guidelines, Barriers, Chains and Groups – Riggaroo - Android Dev
+- https://medium.com/swlh/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c -  Party tricks with RxJava, RxAndroid & Retrolambda – The Startup – Medium
+- http://ohshitgit.com/ -  Oh, shit, git!
+- https://discussions.udacity.com/t/lesson-7-summary-storing-data-in-sqlite/491236 -  Lesson 7 Summary - Storing data in SQLite - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.tutorialspoint.com/android_online_training/android_hello_world.asp -  Android Hello World
+- https://discussions.udacity.com/t/design-mock-up-sites/448209?u=abbieturner951 -  Design Mock up sites? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://ninjamock.com/ -  NinjaMock
+- https://www.draw.io/ -  draw.io
+- https://discussions.udacity.com/t/testing-in-android/485793 -  Testing in android - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://firebase.googleblog.com/2017/12/using-android-architecture-components.html?utm_source=Android+Weekly&utm_campaign=3bfb7e3406-androidweekly-288&utm_medium=email&utm_term=0_4eb677ad19-3bfb7e3406-338004845 -  The Firebase Blog: Using Android Architecture Components with Firebase Realtime Database (Part 1)
+- https://kotlinlang.org/docs/reference/comparison-to-java.html -  Comparison to Java - Kotlin Programming Language
+- https://stackoverflow.com/questions/13854425/how-to-avoid-reverse-engineering-of-an-apk-file -  android - How to avoid reverse engineering of an APK file? - Stack Overflow
+- https://riggaroo.co.za/introduction-automated-android-testing/ -  Introduction to Automated Android Testing - Part 1 – Riggaroo - Android Dev
+- https://discussions.udacity.com/t/testing-in-android/485793/9 -  Testing in android - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://stackoverflow.com/questions/4547461/closing-the-database-in-a-contentprovider -  android - Closing the database in a ContentProvider - Stack Overflow
+- https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb -  Moving from Dagger to Koin — Simplify your Android development
+- https://android-developers.googleblog.com/2017/12/quick-boot-top-features-in-android.html -  Android Developers Blog: Quick Boot & the Top Features in the Android Emulator
+- https://blog.jetbrains.com/kotlin/tag/native/ -  native | Kotlin Blog
+- https://blog.mindorks.com/kotlin-weekly-update-21-f4869d630cdf -  Kotlin Weekly Update — 21 – Mindorks
+- https://blog.stylingandroid.com/task-stack/ -  Task Stack – Styling Android
+- https://proandroiddev.com/recyclerview-pro-tips-part-1-8a291594bafc -  Recyclerview Pro Tips — Part 1 – ProAndroidDev
+- http://www.codenuclear.com/how-arraylist-works-internally-java/ -  How ArrayList Works Internally in Java - codeNuclear
+- https://crysberry.com/blog/security-fintech-apps-banking-mobile-app-development -  Security as the Main Focus of the Fintech Apps and Banking Mobile App Development
+- https://mobilelocated.com/p/tutorial/?PCTX=&aid=A986247075-538645748-2692032018&sid=IS6vDBTAJnQ8mIazccBo5fV95m0 -  Learn how to bring indoor location to your apps in just 30 minutes!
+- https://discussions.udacity.com/t/share-resources-for-learning-android-which-are-helpful-in-excelling-this-challenge/476260/12 -  Share resources for learning android which are helpful in excelling this challenge. - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://developer.android.com/guide/topics/providers/content-providers.html -  Content Providers | Android Developers
+- https://guides.codepath.com/android/Creating-Content-Providers -  Creating Content Providers | CodePath Android Cliffnotes
+- https://medium.com/search?q=content%20providers%20android -  Search and find – Medium
+- https://code.tutsplus.com/tutorials/android-fundamentals-working-with-content-providers--mobile-5549 -  Android Fundamentals: Working With Content Providers
+- https://android--code.blogspot.ru/2015/08/android-spinner-text-align-right.html -  How to set Spinner item text align right in Android
+- https://discussions.udacity.com/t/spinners-in-navigation-drawer/488032/13 -  Spinners in navigation drawer - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/completed-the-course-feedback-learnings/476600/6 -  Completed the Course: Feedback & Learnings - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/background-tasks-summary-of-lesson-11/488578 -  Background Tasks - Summary of Lesson 11 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://stackoverflow.com/questions/10600670/sqlitedatabase-query-method/10601764#10601764 -  android - SQLiteDatabase.query method - Stack Overflow
+- https://developer.android.com/guide/topics/providers/calendar-provider.html -  Calendar Provider | Android Developers
+- https://stackoverflow.com/questions/27876562/android-types-vnd-android -  Android types "vnd.android" - Stack Overflow
+- https://stackoverflow.com/questions/6687666/android-how-to-set-the-colour-of-a-toasts-text -  Android: How to set the colour of a Toast's text - Stack Overflow
+- https://firebase.googleblog.com/2017/12/using-android-architecture-components.html?m=1 -  The Firebase Blog: Using Android Architecture Components with Firebase Realtime Database (part 1)
+- https://blog.cloudboost.io/why-i-decided-to-move-from-android-to-react-native-3fa3d1690a49 -  Why I decided to move from Android to React Native – CloudBoost
+- http://developine.com/develop-android-image-gallery-app-kotlin-with-source-code/ -  How to develop image gallery app in Android in Kotlin Tutorial | Developine
+- https://blog.goyello.com/2013/01/21/top-9-principles-clean-code/ -  Top 9 qualities of clean code
+- https://androidstudio.googleblog.com/2017/12/constraintlayout-110-beta-4.html -  Android Studio Release Updates: ConstraintLayout 1.1.0 beta 4
+- https://discussions.udacity.com/t/uri-onsaveinstancestate/488716 -  Uri + onSaveInstanceState - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://antonioleiva.com/kotlin-android-extensions/ -  Kotlin Android Extensions: Say goodbye to findViewById
+- https://developer.android.com/training/improving-layouts/smooth-scrolling.html#ViewHolder -  Making ListView Scrolling Smooth | Android Developers
+- https://docs.oracle.com/javase/7/docs/api/java/lang/Double.html#doubleToRawLongBits(double) -  Double (Java Platform SE 7 )
+- https://guides.codepath.com/android/Creating-Content-Providers#update-and-delete -  Creating Content Providers | CodePath Android Cliffnotes
+- http://codetheory.in/saving-user-settings-with-android-preferences/ -  Saving User Settings with Android Preferences (PreferenceActivity, PreferenceFragment, Headers) – Code Theory
+- https://medium.com/google-developers/developers-are-users-too-introduction-fefdb42f05a -  Developers are users too — Introduction – Google Developers – Medium
+- https://blog.aritraroy.in/what-my-2-years-of-android-development-have-taught-me-the-hard-way-52b495ba5c51 -  What 2 Years of Android Development Have Taught Me the Hard Way
+- https://android.jlelse.eu/how-to-convert-an-android-app-to-ios-and-vice-versa-9f5875edd0fb -  How to convert an Android app to iOS, and vice versa
+- https://codingwithmitch.com/courses/instagram-clone/Introduction/ -  CodingWithMitch.com
+- https://github.com/mitchtabian/Android-Instagram-Clone -  mitchtabian/Android-Instagram-Clone: Develop your own Instagram Clone App
+- https://developer.android.com/guide/topics/resources/style-resource.html -  Style Resource | Android Developers
+- https://guides.codepath.com/android/Styles-and-Themes -  Styles and Themes | CodePath Android Cliffnotes
+- https://www.youtube.com/watch?v=MXpG3Xq0w3A -  Android Development: Explaining Styles and Themes - YouTube
+- https://discussions.udacity.com/t/how-to-convert-the-user-interface-design-to-xml-help/467144 -  How to convert the user interface design to xml. [HELP] - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://developers.google.com/training/android/android-basics-facilitator-guide.pdf -  android-basics-facilitator-guide.pdf
+- https://android.jlelse.eu/speeding-up-gradle-builds-619c442113cb -  How I save 5h/week on Gradle builds – AndroidPub
+- https://sites.google.com/knowlabs.com/udacitydevscholars17/ -  Home
+- https://discussions.udacity.com/t/lifecycle-and-how-could-help-you-this-concept/487017 -  Lifecycle and how could help you this concept - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/need-help-realted-to-java-to-kotlin-code-conversion/487107/6 -  Need help realted to Java to Kotlin code conversion... - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://blog.egorand.me/concurrency-primitives-in-kotlin/ -  Concurrency Primitives in Kotlin
+- https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/agile-marketing-a-step-by-step-guide -  Agile marketing: A step-by-step guide | McKinsey & Company
+- https://discussions.udacity.com/t/lesson-8-storing-data-in-sqlite-notes/487517 -  Lesson 8, Storing Data in SQLite - Notes - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://firebase.googleblog.com/2017/11/easier-scaling-with-multi-database.html -  The Firebase Blog: Easier scaling with multi-database support!
+- https://androidresources.net/#/ -  Articles, Podcasts & Conferences about Android Development
+- https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ -  Angga Risky - YouTube - YouTube
+- https://discussions.udacity.com/t/optimizing-optimizing-all-the-way-laughing/485818 -  Optimizing, optimizing all the way 😆 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://developer.android.com/training/improving-layouts/optimizing-layout.html -  Optimizing Layout Hierarchies | Android Developers
+- https://developer.android.com/studio/profile/hierarchy-viewer.html -  Profile Your Layout with Hierarchy Viewer | Android Studio
+- https://developer.android.com/training/best-ui.html -  Best Practices for User Interface | Android Developers
+- https://developer.android.com/training/best-performance.html -  Best Practices for Performance | Android Developers
+- https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657 -  Annotation Processing : Don’t Repeat Yourself, Generate Your Code.
+- https://discussions.udacity.com/t/lesson-6-summary-preferences/486215 -  Lesson 6 Summary - Preferences - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40 -  38 Amazing Open Source Android Apps written in Java
+- https://android.jlelse.eu/android-development-some-of-the-best-practices-27722c685b6a -  Android Development : Some of the best practices – AndroidPub
+- https://blog.aritraroy.in/the-missing-rxjava-2-guide-to-supercharge-your-android-development-part-1-624ef326bff4 -  The Missing RxJava 2 Guide to Supercharge Your Android Development (Part 1)
+- https://hackernoon.com/recyclerview-plus-assign-kotlin-power-6f93ce980154 -  RecyclerView plus assign Kotlin power – Hacker Noon
+- https://www.captechconsulting.com/blogs/getting-started-with-rxjava-and-android -  Getting Started with RxJava and Android
+- https://nfrolov.wordpress.com/2014/07/12/android-using-context-statically-and-in-singletons/ -  Android: Using Context statically and in singletons | Coding Notes
+- http://www.javapractices.com/home/HomeAction.do -  Java Practices -> Home
+- https://stackoverflow.com/questions/16902716/comparison-of-android-networking-libraries-okhttp-retrofit-and-volley/16903205#16903205 -  Comparison of Android networking libraries: OkHTTP, Retrofit, and Volley - Stack Overflow
+- https://android.jlelse.eu/android-networking-i-okhttp-volley-and-gson-72004efff196 -  Android Networking I: OkHttp, Volley and Gson – AndroidPub
+- https://android.jlelse.eu/basics-of-unit-testing-affdd2273310 -  Basics of Unit Testing – AndroidPub
+- https://classroom.udacity.com/courses/ud855/lessons/f0084cc7-2cbc-4b8e-8644-375e8c927167/concepts/d37b0c0b-0fbc-4fe6-9d69-d5f1415b318d -  Advanced Android App Development - Udacity
+- https://codelabs.developers.google.com/codelabs/android-testing/index.html#0 -  Android Testing Codelab
+- https://medium.com/fueled-android/how-to-be-a-mock-star-fc00714d8c2f -  How to be a Mock-Star…😎 – Fueled Android – Medium
+- http://developer.samsung.com/remotetestlab/rtlDeviceList.action -  Device List - SAMSUNG Developers
+- https://developer.android.com/studio/test/index.html -  Test Your App | Android Studio
+- https://www.youtube.com/watch?v=pK7W5npkhho -  Test-Driven Development on Android with the Android Testing Support Library (Google I/O '17) - YouTube
+- https://developer.android.com/training/data-storage/room/index.html -  Saving Data Using the Room Persistence Library | Android Developers
+- https://blog.takipi.com/the-top-100-java-libraries-in-2017-based-on-259885-source-files/ -  The Top 100 Java Libraries in 2017 - Based on 259,885 Source Files | Takipi Blog
+- https://habrahabr.ru/post/128380/ -  WebSocket: Реализация web-приложения с использованием Jetty Web Socket. Часть 1 / Хабрахабр
+- https://socket.io/ -  Socket.IO
+- https://medium.com/@SmartyBro/udemy-100-off-17-android-developers-portfolio-masterclass-build-7-apps-now-on-smartybro-for-2e995d6be55f -  Udemy 100% Off 17+Android Developer’s Portfolio Masterclass — Build 7 Apps Now On SmartyBro For…
+- https://www.udemy.com/android-developers-portfolio-masterclass-build-7-apps/?couponCode=PRE-LAUNCH-2MILL-2 -  Android Developer's Portfolio Masterclass - Build 7 Apps | Udemy
+- https://www.eclipse.org/jetty/ -  Jetty - Servlet Engine and Http Server
+- https://habrahabr.ru/post/259067/ -  Простая веб-служба со встроенным Jetty / Хабрахабр
+- https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb -  Dagger 2 for Android Beginners — Introduction – Hari Vignesh Jayapalan – Medium
+- https://robotattack.org/ -  The ROBOT Attack - Return of Bleichenbacher's Oracle Threat
+- https://discussions.udacity.com/t/github-on-android-studio-error-solved/481435/4 -  GitHub on Android Studio error [SOLVED] - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://androidopentutorials.com/android-sharedpreferences-tutorial-and-example/ -  Android SharedPreferences Tutorial and Example | Android Open Tutorials
+- https://www.youtube.com/results?search_query=android+shared+preference+tutorial -  android shared preference tutorial - YouTube
+- https://classroom.udacity.com/courses/ud843 -  Android Basics: Networking - Udacity
+- https://www.youtube.com/watch?v=hCJkUd7YEXs -  Android App Development for Beginners - 65 - Shared Preferences - YouTube
+- https://www.101apps.co.za/articles/using-androids-sharedpreferences-to-save-data.html -  Android SharedPreferences tutorial
+- https://github.com/pongopom/SettingsDemo -  pongopom/SettingsDemo: An application to show how to add a typical settings view
+- https://github.com/freeCodeCamp/how-to-contribute-to-open-source -  freeCodeCamp/how-to-contribute-to-open-source: A guide to contributing to open source
+- https://developers.google.com/android/guides/opensource -  Including Open Source Notices  |  Google APIs for Android  |  Google Developers
+- https://github.com/PSDev/LicensesDialog -  PSDev/LicensesDialog: LicensesDialog is an open source library to display licenses of third-party libraries in an Android app.
+- https://discussions.udacity.com/t/when-to-use-dp-for-textsize/480514/4 -  When to use 'dp' for textSize? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/explaining-data-persistence/480084 -  Explaining Data Persistence.. - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/list-preferences-accessible-directly-from-appbar/482446 -  List Preferences accessible directly from Appbar - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://developer.android.com/guide/topics/ui/dialogs.html -  Dialogs | Android Developers
+- https://stackoverflow.com/questions/15762905/how-can-i-display-a-list-view-in-an-android-alert-dialog -  How can I display a list view in an Android Alert Dialog? - Stack Overflow
+- https://discussions.udacity.com/t/listpreference-summry/479638 -  Listpreference Summry - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://stackoverflow.com/questions/4823442/android-list-preferences-have-summary-as-selected-value -  java - Android List Preferences: have summary as selected value? - Stack Overflow
+- https://www.vultr.com/docs/boot-into-single-user-mode-reset-root-password -  Access Single User Mode (Reset Root Password) - Vultr.com
+- http://www.webupd8.org/2016/10/prime-indicator-plus-makes-it-easy-to.html -  Prime Indicator Plus Makes It Easy To Switch Between Nvidia And Intel Graphics (Nvidia Optimus) ~ Web Upd8: Ubuntu / Linux blog
+- https://github.com/krusipo/cinnamon-i3 -  krusipo/cinnamon-i3: i3 as window manager for cinnamon sessions
+- https://principles.design/ -  Design Principles
+- https://pttrns.com/android-patterns -  Android Design Patterns - Pttrns
+- http://androidniceties.tumblr.com/ -  Android Niceties
+- https://discussions.udacity.com/u/kahramanmustafa/activity -  Profile - kahramanmustafa - Udacity Discussion Forum
+- https://in.udacity.com/course/kotlin-for-android-developers--ud888 -  Kotlin for Android Developers | Udacity
+- https://teamtreehouse.com/library/kotlin-for-java-developers -  Kotlin for Java Developers Course
+- http://shop.oreilly.com/product/0636920052982.do -  Introduction to Kotlin Programming - O'Reilly Media
+- https://www.bitrise.io/ -  Bitrise - Mobile Continuous Integration and Delivery - iOS & Android Build Automation
+- https://materialdoc.com/ -  Materialdoc
+- https://blog.mindorks.com/understanding-types-of-observables-in-rxjava-6c3a2d0819c8 -  Understanding Types Of Observables In RxJava – Mindorks
+- https://stackoverflow.com/questions/38700220/cant-find-colorstatelist-from-drawable-resource-id-only-on-android-nougat/40575889#40575889 -  Can't find ColorStateList from drawable resource ID only on Android Nougat - Stack Overflow
+- https://medium.com/@tomarShashank/reactive-mythology-9749db984f08 -  Reactive Mythology – Shashank Tomar – Medium
+- https://www.youtube.com/watch?v=H_oGi8uuDpA&t=996s -  Kotlin Tutorial - YouTube
+- http://www.vogella.com/tutorials/AndroidLocationAPI/article.html -  Android Location API with the fused location provider - Tutorial
+- https://developers.google.com/vr/develop/android/gapid -  GAPID  |  Google VR  |  Google Developers
+- https://www.youtube.com/watch?v=1WF5l9zCKHw -  Mobiconf 2017: Paco Estevez, Facebook UK - YouTube
+- http://www.idescout.com/ -  IDEScout, Inc.
+- http://possible.is/ -  possible.is – Home
+- https://github.com/shabayekdes/ShabayekDes -  shabayekdes/ShabayekDes: first app
+- https://stackoverflow.com/questions/44079918/android-studio-3-0-canary-1-kotlin-tests-or-java-tests-referring-to-kotlin-clas/44081299 -  Android Studio 3.0 Canary 1: Kotlin tests or Java tests referring to Kotlin classes fail - Stack Overflow
+- https://developer.android.com/reference/android/content/ContentResolver.html#query(android.net.Uri -  ContentResolver | Android Developers
+- https://blog.jetbrains.com/kotlin/2017/12/webinar-recording-developing-multiplatform-projects-in-kotlin-1-2/ -  Webinar recording: Developing Multiplatform Projects in Kotlin 1.2 | Kotlin Blog
+- https://www.youtube.com/watch?v=OHcfs6rStRo -  Keyframe Animations with ConstraintLayout and ConstraintSet - YouTube
+- https://medium.com/@muhammedsalihguler -  Muhammed Salih Guler – Medium
+- https://blog.aritraroy.in/50-ultimate-resources-to-master-android-development-15165d6bc376 -  50+ Ultimate Resources to Master Android Development
+- https://github.com/Juude/awesome-android-performance -  Juude/awesome-android-performance: Android performance optimization tutorials, videos and tools list(Android性能优化视频，文档以及工具)
+- https://www.udacity.com/sitemap/guides/androiddeveloper -  Android Developer Guide | Udacity
+- https://www.youtube.com/watch?v=qk5F6Bxqhr4&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE -  Threading Performance 101. (Android Performance Patterns Season 5, Ep. 1) - YouTube
+- https://github.com/ericmaxwell2003/ticTacToe/blob/mvp/app/src/main/java/com/acme/tictactoe/view/TicTacToeActivity.java -  ticTacToe/TicTacToeActivity.java at mvp · ericmaxwell2003/ticTacToe
+- http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/ -  Interfaces for presenters in MVP are a waste of time!
+- https://stackoverflow.com/questions/28667583/remove-all-notifications-from-notification-bar/31233518#31233518 -  android - Remove all notifications from notification bar - Stack Overflow
+- https://github.com/realm/realm-java -  realm/realm-java: Realm is a mobile database: a replacement for SQLite & ORMs
+- https://medium.com/@natansalda -  Natalia Nazaruk – Medium
+- https://discussions.udacity.com/t/share-your-project-for-student-feedback/412836 -  Share Your Project: For Student Feedback - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/share-your-project-for-mentor-feedback/412846 -  Share Your Project: For Mentor Feedback - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/can-we-install-android-studio-ide1432195827-windows-exe-with-no-sdk/182537/2 -  Can we install android-studio-ide1432195827-windows.exe with no sdk? - Courses / Developing Android Apps - Udacity Discussion Forum
+- https://classroom.udacity.com/courses/ud867/lessons/4020658782/concepts/57ebfb2c-4377-4dbd-b54f-c3b20faccf40 -  Gradle for Android and Java - Udacity
+- https://github.com/Raizlabs/AndroidDatabaseLibraryComparison -  Raizlabs/AndroidDatabaseLibraryComparison
+- https://www.youtube.com/watch?v=VFby80Flh0U&list=PLshdtb5UWjSoFPs3AakEpH1pmSrJVxJhs -  Android Retrofit - 01 - Introduction to Retrofit Library - YouTube
+- https://www.youtube.com/watch?v=jvaYsA5u0Ww&list=PLshdtb5UWjSraOqG1iZW-8mDkJXe3LSL0 -  Android Volley - 01- Introduction to Volley - YouTube
+- https://stackoverflow.com/questions/10844578/difference-between-getwritabledatabase-and-getreadabledatabase/10844686#10844686 -  android - Difference between getWritableDatabase() and getReadableDatabase()? - Stack Overflow
+- https://discussions.udacity.com/t/no-such-column-error-timestamp-exercise-and-solution-t07-03-ex-getallthedata/227402/7 -  No Such Column Error (timestamp) Exercise (And Solution) T07.03 Ex GetAllTheData - Courses / Developing Android Apps - Udacity Discussion Forum
+- https://www.udacity.com/course/android-basics-data-storage--ud845 -  Android Basics: Data Storage | Udacity
+- https://www.codeproject.com/Articles/995286/Saving-An-Image-in-a-SQLite-Database-in-Your-Andro -  Saving An Image in a SQLite Database in Your Android Application - CodeProject
+- http://www.creativebloq.com/wireframes/top-wireframing-tools-11121302 -  The 19 best wireframe tools | Creative Bloq
+- https://play.google.com/store/apps/details?id=com.spongepie.socialize -  Приложения в Google Play – Socialize
+- https://cssauthor.com/smartphone-mockup-psd/ -  300+ Smartphone Mockup PSD Templates » CSS Author
+- https://www.invisionapp.com/blog/designing-for-android/ -  Designing for Android - InVision Blog
+- https://medium.com/google-design/android-color-management-what-developers-and-designers-need-to-know-4fdd8054557e -  Android Color Management: What Developers and Designers Need to Know
+- https://www.materialpalette.com/ -  Material Design Color Palette Generator - Material Palette
+- https://www.fluidui.com/ -  The Fluid UI team says…
+- https://www.youtube.com/watch?v=fuSx8J6xLho&list=PLshdtb5UWjSoLy2LPP1FsHi1hwoAS4SBi -  Android Material Design - 01 - Apply Material Theme - YouTube
+- https://marvelapp.com/ -  Free mobile & web prototyping (iOS, iPhone, Android) for designers – Marvel
+- https://medium.com/google-design/a-primer-on-android-navigation-75e57d9d63fe -  A Primer on Android Navigation – Google Design – Medium
+- https://www.uplabs.com/android -  Android Design, Daily - Uplabs
+- http://wsdesign.in/ -  ANDROID UIUX KIT:
+- https://chromium.googlesource.com/android_tools/+/882ee91503f28d1fd60ba939c5b37db6b9d4ad29/sdk/extras/android/support/v7/appcompat/res/values -  sdk/extras/android/support/v7/appcompat/res/values - android_tools - Git at Google
+- https://gist.github.com/webserveis/c8c7e001c617829caa61dae385113e00 -  Material font sizes
+- https://danielmiessler.com/study/url-uri/ -  The Difference Between URLs and URIs
+- https://stackoverflow.com/questions/44309241/warning-this-asynctask-class-should-be-static-or-leaks-might-occur -  android - Warning: This AsyncTask class should be static or leaks might occur - Stack Overflow
+- https://discussions.udacity.com/t/memory-leak-in-s05-01/428749/6 -  Memory leak in S05.01 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://developer.android.com/guide/topics/resources/menu-resource.html -  Menu Resource | Android Developers
+- https://discussions.udacity.com/t/explain-exercise-build-our-url-in-lesson-3/447105 -  Explain Exercise: Build our URL in Lesson 3! - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://craftingjava.blogspot.ru/2012/05/file-not-found-exception-file-not-found.html -  java errors and exceptions: Three reasons for java.io.FileNotFoundException
+- https://stackoverflow.com/questions/9662914/android-url-to-uri -  Android URL to Uri - Stack Overflow
+- https://www.udacity.com/course/android-basics-networking--ud843 -  Android Basics: Networking | Udacity
+- https://docs.oracle.com/javase/tutorial/networking/urls/ -  Lesson: Working with URLs (The Java™ Tutorials > Custom Networking)
+- https://discussions.udacity.com/t/networking-how-i-managed-to-understand/464767 -  Networking [how I managed to understand] - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://plus.google.com/+GiacomoBresciani/posts/bSTeoVBjM4m -  Hi everyone! I have a question for you.. what are the pros and cons of implem...
+- https://github.com/BoD/android-contentprovider-generator -  BoD/android-contentprovider-generator: A tool to generate Android ContentProviders.
+- https://developer.android.com/topic/libraries/architecture/room.html -  Room Persistence Library | Android Developers
+- https://discussions.udacity.com/t/getting-battery-charging-state/450129?u=kristine_g -  Getting battery charging state - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://developer.android.com/reference/android/app/Activity.html#onCreate(android.os.Bundle) -  Activity | Android Developers
+- https://discussions.udacity.com/t/the-use-of-super-when-overriding-a-method/439301 -  The use of super when overriding a method - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://stackoverflow.com/questions/20637355/should-i-call-super-onpostexecuteresult-in-android-asynctask -  Should I call super.onPostExecute(result) in Android AsyncTask? - Stack Overflow
+- https://discussions.udacity.com/t/foreground-visible-service-background-and-empty-processes/452936 -  Foreground, Visible, Service, Background and Empty Processes - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html -  Introduction to background processing in Android - Tutorial
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -  Markdown Cheatsheet · adam-p/markdown-here Wiki
+- https://www.youtube.com/watch?v=ciXFnhsI0R0 -  Running in the Background (GDD India '17) - YouTube
+- https://classroom.udacity.com/courses/ud851-emea/lessons/f5ef4e52-c485-4c85-a26a-3231c17d6154/concepts/05751ff9-df01-42e9-9cb3-5c8a2904d6b5 -  Google Developer Challenge Scholarship: Android Dev - Udacity
+- https://medium.com/@vitrox1/android-lifecycle-and-activities-stack-230bf05732f2 -  Android lifeCycle and Activities Stack – Miguel A. Gomez (Vitrox) – Medium
+- https://www.newgenapps.com/blog/achieve-product-market-fit-metrics -  4 Steps: How to Achieve Product Market Fit for your Startup
+- https://www.appannie.com/ru/ -  App Annie - это новый стандарт индустрии в области данных и аналитики мобильных приложений
+- https://mobilegrowthstack.com/mobile-app-analytics-519f5719e283 -  Minimum Viable Analytics – The Mobile Growth Stack
+- https://medium.com/googleplaydev/an-introduction-to-in-app-a-b-testing-c5a9a69a3791 -  An introduction to in-app A/B testing – Google Play Apps & Games – Medium
+- https://medium.com/the-year-of-the-looking-glass/the-4-stages-of-0-1-products-cdb8236dbf66 -  The 4 Stages of 0->1 Products – The Year of the Looking Glass – Medium
+- https://www.thinkwithgoogle.com/marketing-resources/data-measurement/data-driven-marketing-technology-analytics-integration/ -  How Data-driven Marketing and Machine Learning Can Improve Productivity and Customer Experiences
+- https://www.mobilemarketer.com/ex/mobilemarketer/cms/opinion/columns/12526.html -  Calculating the ROI of a mobile marketing campaign | Mobile Marketer
+- http://www.goodwatercap.com/thesis/understanding-snapchat -  Understanding Snapchat – The Next Facebook or Another Twitter? – Goodwater Capital
+- https://www.udemy.com/the-total-kotlin-course-learn-kotlin-today/?couponCode=10000FREE&siteID=hL3Qp0zRBOc-36uAixCQhrcq8tCb4YD3Ig&LSNPUBID=hL3Qp0zRBOc -  The Total Kotlin Course : Learn Kotlin Today | Udemy
+- https://android.jlelse.eu/the-complete-android-splash-screen-guide-c7db82bce565 -  The (Complete) Android Splash Screen Guide – AndroidPub
+- https://android.jlelse.eu/right-way-to-create-splash-screen-on-android-e7f1709ba154 -  Right Way to create Splash Screen on Android – AndroidPub
+- http://www.jsonschema2pojo.org/ -  jsonschema2pojo
+- http://www.pythontutor.com/ -  Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution
+- https://github.com/jgilfelt/android-sqlite-asset-helper -  jgilfelt/android-sqlite-asset-helper: An Android helper class to manage database creation and version management using an application's raw asset files
+- https://stackoverflow.com/questions/513084/ship-an-application-with-a-database -  android - Ship an application with a database - Stack Overflow
+- https://blog.reigndesign.com/blog/using-your-own-sqlite-database-in-android-applications/ -  Using your own SQLite database in Android applications | ReignDesign | Blog
+- https://developer.android.com/training/custom-views/index.html -  Creating Custom Views | Android Developers
+- https://stackoverflow.com/questions/26431795/how-to-use-usagestatsmanager -  android - How to use UsageStatsManager? - Stack Overflow
+- https://android.stackexchange.com/questions/116625/how-do-i-know-when-an-app-was-used-in-android/116633#116633 -  applications - How do I know when an app was used in Android? - Android Enthusiasts Stack Exchange
+- https://blog.mindorks.com/understanding-context-in-android-application-330913e32514 -  Understanding Context In Android Application – Mindorks
+- https://medium.com/@multidots/how-to-clear-associate-android-developer-exam-ab3ae5d783b7 -  How to prepare and pass the Google Certified Associate Android Developer exam?
+- https://android.jlelse.eu/canvas-the-real-play-ground-android-c0faa4b79943 -  Canvas : The Real Play Ground! Android – AndroidPub
+- https://android.jlelse.eu/app-rating-bar-making-a-compound-viewgroup-in-android-adb2bd25f4cc -  Boost your Android productivity — Use Compound ViewGroups
+- https://blog.mindorks.com/building-a-customview-tictactoe-eb439f506505 -  Building a CustomView -TicTacToe – Mindorks
+- https://blog.mindorks.com/building-a-customview-tictactoe-6afa054df928 -  Building a CustomView -TicTacToe – Mindorks
+- https://google-developer-training.gitbooks.io/android-developer-advanced-course-practicals/content/unit-5-advanced-graphics-and-views/lesson-10-custom-views/10-1a-p-using-custom-views/10-1a-p-using-custom-views.html -  10.1A: Creating a custom view from a View subclass · Advanced Android Development Course- Practicals
+- https://google-developer-training.gitbooks.io/android-developer-advanced-course-concepts/content/unit-5-advanced-graphics-and-views/lesson-10-custom-views/10-1-c-custom-views/10-1-c-custom-views.html -  10.1: Custom views · Advanced Android Development Course – Concepts
+- https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html -  Why Procrastinators Procrastinate - Wait But Why
+- https://www.youtube.com/watch?v=birHqjhhUFE -  Applied procrastinatology webinar Part 01 - YouTube
+- https://discussions.udacity.com/t/wiki-udapedia-all-questions-in-one-wiki/482459 -  (8) [WIKI] Udapedia - All Questions in One [WIKI] - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm -  Vysor - Интернет-магазин Chrome
+- https://www.ted.com/talks/adam_alter_why_our_screens_make_us_less_happy?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare -  Adam Alter: Why our screens make us less happy | TED Talk | TED.com
+- https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0 -  Exploring the Android Design Support Library: Bottom Navigation View
+- https://tech.yandex.ru/maps/doc/geosearch/concepts/request-docpage/ -  Формат запроса — Технологии Яндекса
+- https://stackoverflow.com/questions/44361824/how-can-i-represent-a-many-to-many-relation-with-android-room/44428451#44428451 -  kotlin - How can I represent a many to many relation with Android Room? - Stack Overflow
+- https://developer.android.com/training/data-storage/room/referencing-data.html -  Referencing complex data using Room | Android Developers
+- https://blog.kotlin-academy.com/architecture-for-multiplatform-development-in-kotlin-cc770f4abdfd -  Architecture for Multiplatform native development in Kotlin
+- https://proandroiddev.com/android-downloadable-fonts-8e60d3e146b7 -  Android Downloadable Fonts – ProAndroidDev
+- https://learntocodewith.me/podcast/ -  The Learn to Code With Me Podcast
+- https://www.simplifiedcoding.net/firebase-cloud-messaging-android/ -  Firebase Cloud Messaging for Android using PHP and MySQL
+- https://www.youtube.com/watch?v=sioEY4tWmLI -  Introducing Firebase Cloud Messaging - YouTube
+- https://medium.com/@caueferreira/timber-enhancing-your-logging-experience-330e8af97341 -  Timber: Enhancing your logging experience – Cauê Ferreira – Medium
+- https://discussions.udacity.com/t/lesson-3-complete-lecture-notes-screenshots-text-transcripts-links/481824 -  Lesson 3 - Complete Lecture Notes (Screenshots + Text + Transcripts + Links) - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.youtube.com/watch?v=eVKuAmEVrhc -  Why Is Android So Obsessed With Sweets? - YouTube
+- https://proandroiddev.com/react-native-is-it-worth-it-part-i-398ec3fb9db7 -  React Native: Is It Worth It? (Part I) – ProAndroidDev
+- https://proandroiddev.com/react-native-is-it-worth-it-part-ii-98641d8895f6 -  React Native: Is It Worth It? (Part II) – ProAndroidDev
+- https://discussions.udacity.com/t/android-toolbox/482095 -  Android toolbox - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.packtpub.com/android -  404 - Page Not Found | PACKT Books
+- https://github.com/pcqpcq/open-source-android-apps -  pcqpcq/open-source-android-apps: Open-Source Android Apps
+- https://thehackernews.com/2017/12/android-malware-signature.html -  Android Flaw Lets Hackers Inject Malware Into Apps Without Altering Signatures
+- https://codeburst.io/why-programmers-need-to-be-learning-about-blockchain-f17fdeb17671 -  Why Programmers Need to be Learning about Blockchain
+- https://link.springer.com/book/10.1007%2F978-1-4842-0382-8 -  GUI Design for Android Apps | SpringerLink
+- https://link.springer.com/book/10.1007%2F978-1-4302-6131-5 -  Android on x86 | SpringerLink
+- http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo; -  local repo :: Git Cheatsheet
+- https://medium.com/@mtrax/rxandroid-2-with-retrofit-2-and-gson-3f08d4c2627d -  RxAndroid 2 with Retrofit 2 and GSON – Matthias Bruns – Medium
+- http://www.vogella.com/tutorials/RxJava/article.html -  Using RxJava 2 - Tutorial
+- https://medium.com/@aky/exploring-room-architecture-component-the-extras-cf3f0259ceed -  Exploring Room Architecture component — The Extras – Akshay Chordiya – Medium
+- http://www.hermosaprogramacion.com/2015/02/android-volley-peticiones-http/ -  Volley: Librería De Android Para Realizar Peticiones Http
+- http://hackpundit.com/android-turorial-json-parse-volley/ -  Android Tutorial - JSON Parsing Using Volley Library | HackPundit
+- https://www.androidhive.info/2014/05/android-working-with-volley-library-1/ -  Android working with Volley Library
+- https://codelabs.developers.google.com/codelabs/android-network-security-config/index.html?index=..%2F..%2Findex#0 -  Android Network Security Configuration Codelab
+- https://developer.android.com/training/testing/index.html -  Testing Apps on Android | Android Developers
+- http://web.mit.edu/6.031/www/fa17/classes/03-testing/ -  Reading 3: Testing
+- https://en.wikipedia.org/wiki/Test-driven_development -  Test-driven development - Wikipedia
+- https://programmingpraxis.com/2009/08/11/uncle-bobs-bowling-game-kata/ -  Uncle Bob’s Bowling Game Kata | Programming Praxis
+- http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata -  ArticleS.UncleBob.TheBowlingGameKata
+- https://www.youtube.com/watch?v=GvAzrC6-spQ -  Uncle Bob on TDD - YouTube
+- https://www.youtube.com/watch?v=qkblc5WRn-U -  The Three Laws of TDD (Featuring Kotlin) - YouTube
+- https://www.toptal.com/android/testing-like-a-true-green-droid -  Android Testing Tutorial: Unit Testing and More | Toptal
+- https://www.youtube.com/watch?v=7RJM3pcMNyo -  [TDD] Bowling Game Kata - YouTube
+- https://books.google.pl/books?id=ruEfsN-scF8C&printsec=frontcover&dq=inauthor:%22Juhani+Lehtimaki%22&hl=pl&sa=X&ved=0ahUKEwjT-5TzqoDYAhUHKpoKHbOuD3cQ6AEILTAB#v=onepage&q&f=false -  Smashing Android UI: Responsive User Interfaces and Design Patterns for ... - Juhani Lehtimaki - Google Książki
+- https://en.wikipedia.org/wiki/Robin_Williams_(writer)#Books -  Robin Williams (writer) - Wikipedia
+- https://2012books.lardbucket.org/books/designing-business-information-systems-apps-websites-and-more/s07-01-c-r-a-p-principles-of-graphic-.html -  C.R.A.P. Principles of Graphic Design
+- https://stackoverflow.com/questions/2000892/whats-the-relationship-between-pixels-and-scaled-pixels -  android - What's the relationship between pixels and scaled pixels - Stack Overflow
+- https://developer.android.com/guide/practices/screens_support.html -  Supporting Multiple Screens | Android Developers
+- https://stackoverflow.com/questions/1706040/resolution-support-in-android-2-0 -  Resolution support in Android 2.0 - Stack Overflow
+- https://developer.android.com/guide/topics/resources/more-resources.html#Dimension -  More Resource Types | Android Developers
+- http://developer.alexanderklimov.ru/android/preferences_framework.php -  Android: Preferences Framework
+- http://developer.alexanderklimov.ru/android/texteditor.php -  Android: Создаём текстовый редактор
+- https://stackoverflow.com/questions/4877153/android-application-wide-font-size-preference -  Android: application-wide font-size preference - Stack Overflow
+- https://stackoverflow.com/questions/33234295/how-to-make-setting-to-change-all-text-in-app-font-size-from-preference -  android - How to make setting to change all text in app font size from preference - Stack Overflow
+- https://stackoverflow.com/questions/12704216/how-to-change-the-font-size-in-a-whole-application-programmatically-android/24571488#24571488 -  How to change the Font Size in a whole Application programmatically, Android? - Stack Overflow
+- https://stackoverflow.com/questions/5334828/how-can-i-change-font-size-in-preferencescreen -  android - How can I change font size in PreferenceScreen - Stack Overflow
+- https://stackoverflow.com/questions/3910324/why-java-inner-classes-require-final-outer-instance-variables -  Why Java inner classes require "final" outer instance variables? - Stack Overflow
+- https://www.froglogic.com/squish/ -  Squish GUI Tester - Automated GUI Regression Testing Tool • froglogic
+- https://bitbar.com/top-5-android-testing-frameworks-with-examples/ -  Top 5 Android Testing Frameworks with Examples
+- https://stackoverflow.com/questions/31792985/git-android-studio-no-longer-lets-me-commit-changes-and-push-to-github -  Git - Android Studio no longer lets me commit changes and push to GitHub - Stack Overflow
+- https://stackoverflow.com/questions/36839022/how-to-get-json-response-from-server-in-intent-service-in-android -  How to get Json response from server in Intent Service in android? - Stack Overflow
+- https://developer.android.com/training/run-background-service/send-request.html -  Sending Work Requests to the Background Service | Android Developers
+- https://www.toptal.com/android/android-threading-all-you-need-to-know?utm_campaign=blog_post_android_threading_all_you_need_to_know&utm_medium=email&utm_source=blog_subscribers -  Android Threading: All You Need to Know | Toptal
+- https://plus.google.com/+AndroidDevelopers/posts/9kZ3SsXdT2T -  Preferences Support Library: Preference Fragments for API 7+, no matter the A...
+- https://developer.android.com/guide/topics/ui/look-and-feel/themes.html -  Styles and Themes | Android Developers
+- https://developer.android.com/studio/write/theme-editor.html -  Design App Themes with Theme Editor | Android Studio
+- https://www.packtpub.com/application-development/programming-kotlin -  Programming Kotlin | PACKT Books
+- https://android.jlelse.eu/quickly-solve-mocking-with-kotlin-551372c285f4 -  Quickly solve Mocking with Kotlin – AndroidPub
+- https://blog.elpassion.com/create-a-clean-code-app-with-kotlin-coroutines-and-android-architecture-components-part-3-f3f3850acbe6 -  Create a Clean-Code App with Kotlin Coroutines and Android Architecture Components — Part 3
+- https://engineering.udacity.com/learning-kotlin-by-mistake-b99304b7d724 -  Learning Kotlin by Mistake – Udacity Eng & Data
+- https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805 -  Representing View State with Kotlin Data Classes – Craig Russell – Medium
+- https://try.kotlinlang.org/#/Kotlin%20Koans/Introduction/Hello,%20world!/Task.kt -  Hello, world! | Try Kotlin
+- https://blog.elpassion.com/create-a-clean-code-app-with-kotlin-coroutines-and-android-architecture-components-f533b04b5431 -  Create a Clean-Code App with Kotlin Coroutines and Android Architecture Components
+- https://www.youtube.com/watch?v=H_oGi8uuDpA -  Kotlin Tutorial - YouTube
+- https://codelabs.developers.google.com/io2017 -  Google I/O 2017
+- https://stackoverflow.com/questions/18821481/what-is-the-correct-order-of-calling-superclass-methods-in-onpause-onstop-and-o/18874519#18874519 -  java - What is the correct order of calling superclass methods in onPause, onStop and onDestroy methods? and Why? - Stack Overflow
+- https://stackoverflow.com/questions/9625920/should-the-call-to-the-superclass-method-be-the-first-statement/9626268#9626268 -  android - Should the call to the superclass method be the first statement? - Stack Overflow
+- https://stackoverflow.com/questions/7331310/how-to-store-image-as-blob-in-sqlite-how-to-retrieve-it -  android - how to store Image as blob in Sqlite & how to retrieve it? - Stack Overflow
+- https://developer.android.com/training/data-storage/files.html -  Saving Files | Android Developers
+- https://twitter.com/DeliverooEng/status/933651663260397568 -  Maria@DeliverooEng on Twitter: "We'll be running the #internship again next year. I think Deliveroo is a great place to learn about real world Engineering. If anyone out th… https://t.co/QJNfoPfZMl"
+- https://soundcloud.com/jobs/2017-11-27-android-engineer-berlin -  Join SoundCloud as a Android Engineer in Berlin – SoundCloud Jobs
+- https://discussions.udacity.com/t/android-developer-interview-questions/447920/5 -  Android Developer Interview Questions? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://starling-bank.workable.com/ -  Starling Bank - Jobs
+- https://developer.android.com/kotlin/resources.html -  Resources to Learn Kotlin | Android Developers
+- https://discussions.udacity.com/t/share-your-experience-and-advice-for-dealing-with-impostor-syndrome/24923 -  Share your experience and advice for dealing with Impostor Syndrome - Courses / Android For Beginners - Udacity Discussion Forum
+- https://www.youtube.com/watch?v=fsUF5f4GnHc -  droidcon NYC 2017 - Getting to 100% Kotlin: A practical guide - YouTube
+- https://medium.com/@jlkuma/androids-data-binding-with-kotlin-df94a24ffc0f -  Android’s Data Binding with Kotlin – Jorge Enciso – Medium
+- https://kotlinlang.org/docs/reference/this-expressions.html -  This expressions - Kotlin Programming Language
+- http://slack.kotlinlang.org/ -  Join kotlinlang on Slack!
+- https://android.github.io/kotlin-guides/ -  Home
+- http://fragmentedpodcast.com/episodes/105/ -  105: Jake Wharton on the Android Kotlin Guides – Fragmented
+- https://www.reddit.com/r/Kotlin/comments/7hoytl/kotlin_team_ama_ask_us_anything/ -  Kotlin Team AMA: Ask Us Anything : Kotlin
+- https://realm.io/blog/realm-4-3-0-released-w-first-class-support-for-kotlin/ -  Realm + Kotlin just got even better with Realm 4.3.0
+- https://realm.io/blog/introducing-realm-mobile-platform/ -  Introducing the Realm Mobile Platform: Realtime Sync Plus Fully Open Source Database
+- https://www.jetbrains.com/community/webinars/ -  Webinars - JetBrains
+- https://kotlinlang.org/community/talks.html?time=upcoming -  Kotlin Events - Kotlin Programming Language
+- https://medium.com/@jcmsalves/android-and-kotlin-basic-hello-world-b90f473e1e14 -  Android and Kotlin — basic Hello World – Joao Alves – Medium
+- https://source.android.com/security/ -  Security  |  Android Open Source Project
+- https://eg.udacity.com/course/passwordless-login-solutions-for-android--ud357 -  Passwordless Login Solutions for Android | Udacity
+- http://www.androidpolice.com/2017/12/07/ai-type-keyboard-app-developer-accidentally-leaks-personal-data-31-million-users/ -  Ai.type keyboard app developer accidentally leaks personal data of 31 million users
+- https://skillsmatter.com/meetups/10457-android-attacks-and-defenses-a-snapshot-of-current-attacks-and-mitigations -  Android Attacks and Defences: A Snapshot of Current Attacks and Mitigations | Skills Matter Meetup
+- https://www.youtube.com/watch?v=ecIWPzGEbFc -  "Uncle" Bob Martin - "The Future of Programming" - YouTube
+- https://www.technologyreview.com/s/609736/alpha-zeros-alien-chess-shows-the-power-and-the-peculiarity-of-ai/?utm_source=facebook.com&utm_medium=social&utm_content=2017-12-08&utm_campaign=Technology+Review -  Alpha Zero’s “Alien” Chess Shows the Power, and the Peculiarity, of AI - MIT Technology Review
+- https://www.chess.com/news/view/google-s-alphazero-destroys-stockfish-in-100-game-match -  Google's AlphaZero Destroys Stockfish In 100-Game Match - Chess.com
+- https://medium.com/car2godevs/simple-but-painful-steps-for-writing-a-better-code-afb2651cef86 -  Simple but painful steps for writing a better code – car2godevs – Medium
+- http://www.scrummingman.com/2016/12/a-christmas-carol-end-of-year-retrospective/ -  A Christmas Carol - An End Of Year Agile Retrospective
+- http://www.agileblog.org/2012/12/a-christmas-retrospective.html?m=1 -  agileblog.org: A christmas retrospective
+- https://research.checkpoint.com/parsedroid-targeting-android-development-research-community/ -  ParseDroid: Targeting The Android Development & Research Community - Check Point Research
+- https://www.youtube.com/watch?v=I841FV_yPZo -  What is Android For Work? - YouTube
+- https://discussions.udacity.com/t/how-to-improve-my-skills-in-designing/469674?u=rehamgalal1 -  how to Improve my skills in designing - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://proandroiddev.com/introduction-to-android-architecture-components-cab33baa65f6 -  Introduction to Android Architecture Components – ProAndroidDev
+- https://discussions.udacity.com/t/raspberry-pi-insert-raspberry-emoji-here-rofl/480118 -  Raspberry Pi *insert raspberry emoji here* 🤣 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/lesson-5-summary-lifecycle/480198 -  Lesson 5 Summary - Lifecycle - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c -  The secret to being a top developer is building things! Here’s a list of fun apps to build!
+- https://www.youtube.com/watch?v=gltwW1-Ibp0 -  Make SharedPreferences great again! - Александр Ефременков | DevFest Siberia 2017 - YouTube
+- https://github.com/L1maginaire/PhotoGallery_t_1_3/blob/master/app/src/main/java/com/example/guest/photogallery_t_1_3/PhotoGalleryFragment.java -  PhotoGallery_t_1_3/PhotoGalleryFragment.java at master · L1maginaire/PhotoGallery_t_1_3
+- https://mosdroid.timepad.ru/event/614698/ -  MOSDROID #4 preLast / События на TimePad.ru
+- https://github.com/L1maginaire/NewYorkTimesClient -  L1maginaire/NewYorkTimesClient
+- https://google-developer-training.gitbooks.io/android-developer-advanced-course-practicals/content/ -  Introduction · Advanced Android Development Course- Practicals
+- https://play.google.com/store/apps/details?id=com.techreviewsandhelp.goodthings -  Приложения в Google Play – My Good Day
+- https://android.stackexchange.com/questions/86500/alarm-is-working-even-when-the-phone-is-powered-off/86519#86519 -  security - Alarm is working even when the phone is powered off - Android Enthusiasts Stack Exchange
+- http://www.onjava.com/pub/a/onjava/2003/11/19/exceptions.html -  Best Practices for Exception Handling - O'Reilly Media
+- https://discussions.udacity.com/t/error-handling-in-sunshine-app/480208 -  Error Handling in Sunshine App - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.youtube.com/watch?v=wmjEPausiGU&t=1m3s -  The Developer Show (TL;DR 092) - YouTube
+- http://www.vogella.com/tutorials/AndroidRecyclerView/article.html -  Using lists and grids in Android with RecyclerView - Tutorial
+- https://discussions.udacity.com/t/recyclerview-layout-managers/441894?source_topic_id=480193 -  RecyclerView Layout Managers - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/explanation-object-oriented-programming/452395?u=lubovaskovjf6b -  Explanation: Object-oriented Programming - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/JakeWharton/timber -  JakeWharton/timber: A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+- https://habrahabr.ru/post/319562/ -  Android Tips and Tricks / Хабрахабр
+- https://www.google.ru/search?q=android+studio+emulator+types&oq=android+studio+emulator+types&aqs=chrome..69i57j69i60j0j69i64.11036j0j7&sourceid=chrome&ie=UTF-8 -  android studio emulator types - Google Search
+- https://developer.android.com/reference/android/view/MenuItem.html#setIntent(android.content.Intent) -  MenuItem | Android Developers
+- https://github.com/JakeWharton/timber/blob/master/timber-sample/src/main/java/com/example/timber/ExampleApp.java -  timber/ExampleApp.java at master · JakeWharton/timber
+- http://www.vogella.com/tutorials/AndroidTaskScheduling/article.html -  Scheduling of tasks with the Android JobScheduler - Tutorial
+- https://developer.android.com/reference/android/app/Application.html -  Application | Android Developers
+- http://blog.danlew.net/2014/04/16/android-localization-tips/ -  Android Localization Tips
+- http://www.viralandroid.com/2016/03/how-to-add-spinner-dropdown-list-to-android-actionbar-toolbar.html -  How to Add Spinner (Dropdown List) to Android ActionBar/Toolbar | Viral Android – Tutorials, Examples, UX/UI Design
+- https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html#0 -  Build an App with Architecture Components
+- https://github.com/googlecodelabs -  Google Codelabs
+- http://www.pandacoder.com/overriding_onmeasure/ -  Ограничение размеров UI компонентов в Андроид. Overriding OnMeasure » PandaCoder
+- https://discussions.udacity.com/t/dependency-injection-dagger-2-you-wont-avoid-this/461246/43 -  Dependency injection - Dagger 2. You won't avoid this. - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/android-from-zero-to-one-third-skills-of-jake-wharton-for-3-10-7-seconds/467640/15 -  Android. From zero to one third skills of Jake Wharton for 3-10 ^ 7 seconds - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/recyclerview-with-very-similar-view-types-what-approach-is-better/468923/7 -  RecyclerView with very similar view types. What approach is better? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://classroom.udacity.com/courses/ud851-emea/lessons/93affc67-3f0b-4f9b-b3a4-a7a26f241a86/concepts/5b0aab7f-c63c-4e5d-b336-bdc08985767a -  Google Developer Challenge Scholarship: Android Dev - Udacity
+- https://firebase.google.com/docs/test-lab/ -  Firebase Test Lab for Android  |  Firebase
+- https://kobiton.com/ -  Kobiton says…
+- https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/ -  Introduction · Android Developer Fundamentals Course – Concepts
+- https://codelabs.developers.google.com/codelabs/android-testing/index.html?index=..%2F..%2Fio2017#1 -  Android Testing Codelab
+- https://codelabs.developers.google.com/codelabs/android-instant-apps/index.html?index=..%2F..%2Fio2017#0 -  Build your First Android Instant App
+- http://grepcode.com/file/repository.grepcode.com/java/ext/com.google.android/android/5.1.0_r1/android/support/v7/widget/RecyclerView.java -  GC: RecyclerView - android.support.v7.widget.RecyclerView (.java) - GrepCode Class Source
+- https://www.youtube.com/watch?v=LqBlYJTfLP4&time_continue=1121 -  RecyclerView ins and outs - Google I/O 2016 - YouTube
+- https://www.youtube.com/watch?v=G35pcPv_tEA -  008. Школа мобильной разработки – AdapterView. Владимир Тагаков - YouTube
+- https://discussions.udacity.com/t/guide-how-to-mark-todos-as-completed/444411/75 -  [GUIDE] How to mark TODOs as COMPLETED ? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://iconhandbook.co.uk/reference/chart/android/ -  Android Icon Reference Chart | The Icon Handbook
+- https://developer.android.com/reference/java/util/concurrent/TimeUnit.html -  TimeUnit | Android Developers
+- https://stackoverflow.com/questions/26037744/efficiency-of-findviewbyid -  android - Efficiency of findViewById - Stack Overflow
+- https://developer.android.com/guide/components/intents-filters.html -  Объекты Intent и фильтры объектов Intent | Android Developers
+- https://infinum.co/the-capsized-eight/top-five-android-libraries-every-android-developer-should-know-about-v2015 -  Top 5 Android libraries every Android developer should know about - v. 2015 | Infinum
+- https://www.youtube.com/watch?v=3niP4rVXMHs -  Gson Tutorial — Mapping of Null Values - YouTube
+- https://techblog.bozho.net/five-must-watch-software-engineering-talks/ -  Five Must-Watch Software Engineering Talks - Bozho's tech blog
+- http://www.informit.com/store/effective-java-9780134685991 -  Effective Java, 3rd Edition | InformIT
+- http://shop.oreilly.com/product/9780596007126.do -  Head First Design Patterns - O'Reilly Media
+- https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?ie=UTF8&qid=1512740087&sr=8-1&keywords=design+patterns -  Design Patterns: Elements of Reusable Object-Oriented Software: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch: 8601419047741: Amazon.com: Books
+- https://discussions.udacity.com/t/design-patterns-and-architecture/455687/13 -  Design Patterns and Architecture - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://doc.lagout.org/programmation/Android/100%20Questions%20and%20Answers%20to%20Help%20You%20Land%20Your%20Dream%20Android%20Job_%20or%20to%20Hire%20the%20Right%20Candidate%21%20%5BL%C3%B3pez-Ma%C3%B1as%202015-07-19%5D.pdf -  100 Questions and Answers to help you land your Dream Android Job: Or to hire the right candidate!
+- https://www.developer-tech.com/news/2017/dec/07/parsedroid-vulnerabilities-threatened-most-android-development-tools/ -  ParseDroid vulnerabilities threatened most Android development tools - Developer Tech
+- http://sebastien-gabriel.com/designers-guide-to-dpi/ -  Designer's guide to DPI
+- https://developer.android.com/guide/topics/resources/providing-resources.html -  Предоставление ресурсов | Android Developers
+- https://bayern.devfest.de/ -  GDG DevFest Bayern 2017
+- https://github.com/iamironz/binaryprefs -  iamironz/binaryprefs: Rapidly fast and lightweight re-implementation of SharedPreferences which stores each preference in files separately, performs disk operations via NIO with memory mapped byte buffers and works IPC (between processes). Written from scratch.
+- https://github.com/grandcentrix/tray -  grandcentrix/tray: a SharedPreferences replacement for Android with multiprocess support
+- https://discussions.udacity.com/t/architecture-components-learning-resources/478643 -  Architecture Components learning resources - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.youtube.com/watch?v=TxdLBxNMbtw -  Pomodoro Technique - Study Tips - How to be a Great Student - Time management & Multitasking - Toggl - YouTube
+- https://www.codingresources.ovh/conference/droidcon-sf-2017-efficient-lazy-loading-for-recyclerview-with-room -  CodingResources
+- https://android.jlelse.eu/simplified-code-with-kotlin-cda9915c9fb9 -  Simplified code with kotlin – AndroidPub
+- https://discussions.udacity.com/t/jsoup-what-and-why/478717/7 -  Jsoup? What and why? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/SIMMORSAL/ViewDrag -  SIMMORSAL/ViewDrag: A tutorial on how to move a view on UI by dragging it with your finger.
+- https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090 -  ViewModels: Persistence, onSaveInstanceState(), Restoring UI State and Loaders
+- https://stackoverflow.com/questions/4185507/layout-for-tablets-in-android -  Layout for tablets in Android - Stack Overflow
+- https://stackoverflow.com/questions/28065267/mipmap-vs-drawable-folders -  android - mipmap vs drawable folders - Stack Overflow
+- https://stackoverflow.com/questions/15157886/supporting-resources-for-tablets-and-mobiles -  android - Supporting resources for tablets and mobiles - Stack Overflow
+- https://developer.paypal.com/docs/api/overview/ -  Get Started - PayPal Developer
+- https://developers.braintreepayments.com/start/hello-client/android/v2 -  Set Up Your Client | Android - Braintree Developer Documentation
+- https://developers.google.com/training/courses/android-fundamentals -  Android Developer Fundamentals  |  Google Developers Training  |  Google Developers
+- https://developers.google.com/training/courses/android-advanced -  Advanced Android Development  |  Google Developers Training  |  Google Developers
+- https://www.meetup.com/gdg-brussels/events/244834719/?_cookie-check=-0pDP80AzWeoFgGB -  Machine Learning And Neural Network on Android | GDG Brussels (Brussels, Belgium) | Meetup
+- https://hackernoon.com/my-approach-to-using-git-without-the-headaches-6926df5af0c7 -  My approach to using Git, without the headaches – Hacker Noon
+- https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting -  Reset, Checkout, and Revert | Atlassian Git Tutorial
+- https://en.wikipedia.org/wiki/Domain-driven_design -  Domain-driven design - Wikipedia
+- https://www.youtube.com/watch?v=nP_B5-jrbsY -  droidcon NYC 2017 - Android Architecture Round Table - YouTube
+- https://developer.yahoo.com/flurry/docs/#menu= -  Flurry Documentation - Yahoo Developer Network
+- https://www.developereconomics.com/ -  Home - Developer Economics
+- https://androidstudio.googleblog.com/2017/12/android-studio-31-canary-5-is-now.html -  Android Studio Release Updates: Android Studio 3.1 Canary 5 is now available
+- https://www.youtube.com/watch?v=ua4QGWmDfB8 -  What is the Google Assistant Developer Community Program? - YouTube
+- https://twitter.com/hoitab/status/938571857770541056 -  Hoi Lam on Twitter: "📢Android Oreo roll out to #AndroidWear is starting today. Timing determined by each watch’s manufacturer. Improvements: 🌟Notification vibra… https://t.co/XpI3ZyGRJs"
+- https://www.androiddevdigest.com/ -  #AndroidDev Digest – A Handcrafted Weekly #AndroidDev Newsletter
+- https://proandroiddev.com/key-android-takeaways-from-devfest-ukraine-2017-2d6614f8cc53 -  Key Android takeaways from DevFest Ukraine 2017 – ProAndroidDev
+- https://androidstudio.googleblog.com/2017/11/android-studio-31-canary-4-is-now.html -  Android Studio Release Updates: Android Studio 3.1 Canary 4 is now available
+- https://www.youtube.com/watch?v=FgKkRailVb8 -  The Developer Show (Firebase Dev Summit 2017) w/ Francis Ma - YouTube
+- https://www.youtube.com/watch?v=t3q4hEXcosY -  Improving Retention for Android Apps - YouTube
+- https://android-developers.googleblog.com/2017/11/google-play-referrer-api-track-and.html -  Android Developers Blog: Google Play Referrer API: Track and measure your app installs easily and securely
+- https://estimatemyapp.com/ -  Estimate My App
+- https://www.youtube.com/watch?v=ldwJA_9AIww -  What's New in the Android 8.1 Developer Preview - YouTube
+- https://www.youtube.com/watch?v=EnFyneRScQ8 -  On-device machine learning: TensorFlow on Android (Google Cloud Next '17) - YouTube
+- https://www.youtube.com/watch?v=hSrZJgzbwMI -  Associate Android Developer Certification Summit - 2017 - YouTube
+- https://inthecheesefactory.com/blog/say-goodbye-to-findviewbyid-with-data-binding-library/en -  Say goodbye to findViewById. Say hello to Data Binding Library. :: The Cheese Factory
+- https://medium.com/@Miqubel/4-reasons-im-not-using-android-data-binding-e62127c2650c -  4 Reasons I’m Not Using Android Data Binding – Miquel Beltran – Medium
+- https://www.youtube.com/watch?v=ttdPqly4OF8 -  Introducing ARCore - YouTube
+- https://www.blog.google/products/google-vr/arcore-augmented-reality-android-scale/ -  ARCore: Augmented reality at Android scale
+- https://www.reddit.com/r/androiddev/comments/6dj652/realm_vs_room/ -  Realm Vs Room : androiddev
+- https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5 -  Advice From A 19 Year Old Girl & Software Developer
+- https://docs.google.com/document/d/e/2PACX-1vSbSrb020LVADA03GLJkofqs0fcc9ufy5cpkZXtf3iEeuZex6pze9KFVl_Qdb9H11SdL6Dhnm6k9gFf/pub -  Document sans titre
+- https://hide.me/?friend=4k1r4 - 
+- https://simpleprogrammer.com/2017/02/17/agile-is-dead-code-review/ -  Why Agile Is Dead: Long Live The Code Review! - Simple Programmer
+- http://www.mikecohnsignatureseries.com/books/succeeding-with-agile -  Succeeding with Agile: Software Development using Scrum - Mike Cohn Signature Book Series
+- https://agilepainrelief.com/notesfromatooluser/2015/06/daily-scrum-is-a-waste-of-time.html/amp -  Daily Scrum is a Waste of Time | Agile Pain Relief
+- https://www.versionone.com/agile-101/ -  What is Agile? Learn About Agile Software Development
+- https://discussions.udacity.com/t/introduction-thread-tell-us-about-yourself/410597/647 -  Introduction Thread: Tell Us About Yourself! - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://developer.android.com/guide/topics/ui/layout/recyclerview.html -  Recycler View | Android Developers
+- https://praveen.io/student-resources-worth-10000-are-waiting-for-you/ -  Student? Resources worth $10,000+ are waiting for you! – Praveen Thirumurugan
+- https://api.slack.com/docs/oauth -  Using OAuth 2.0 | Slack
+- https://www.atlassian.com/agile/delivery-vehicles -  Epics, Stories, Versions, and Sprints The Agile Coach
+- https://medium.com/google-developers/7-steps-to-room-27a5fe5f99b2 -  7 Steps To Room – Google Developers – Medium
+- http://square.github.io/retrofit/ -  Retrofit
+- https://developer.android.com/topic/libraries/architecture/guide.html -  Guide to App Architecture | Android Developers
+- https://android.jlelse.eu/android-architecture-components-now-with-100-more-mvvm-11629a630125 -  Android Architecture Components — now with 100% more MVVM
+- https://play.google.com/store/apps/details?id=com.vmagames.relevant_news -  Приложения в Google Play – Relevant News
+- https://www.grokkingandroid.com/android-tutorial-content-provider-basics/#comment-500520 -  Android Tutorial: Content Provider Basics | Grokking Android
+- https://docs.google.com/document/d/1l3ITDbyA1ZFfWGXavi4OkAOCYvg2HU_GdnViuXPqa4s/edit -  Resources from Scholarship - Google Docs
+- https://medium.com/@lgvalle/firebase-viewmodels-livedata-cb64c5ee4f95 -  Firebase, ViewModels & LiveData – Luis G. Valle – Medium
+- https://sites.google.com/knowlabs.com/udacitydevscholars17/home?utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=Scholarship_Newsletter1_20171201&utm_term=Newsletter&vero_id=u151195&vero_conv=Z3_qSuIADu6XuicUr7MEY_PbZI5LqtAHUkMiiYornuJNYG9tH7stRNi9BVJY9gGX0NGrPfJE086ji4k6uHS3mhB79b05P5sO -  Home
+- https://medium.com/google-design/the-android-developers-guide-to-better-typography-97e11bb0e261 -  The Android Developer’s Guide to Better Typography – Google Design – Medium
+- https://medium.com/swlh/xamarin-vs-ionic-vs-react-native-differences-under-the-hood-6b9cc3d2c826 -  Xamarin vs Ionic vs React Native: differences under the hood
+- https://www.sketchapp.com/ -  Sketch - The digital design toolkit
+- https://medium.freecodecamp.org/take-the-100daysofcode-challenge-make-coding-a-habit-4a655d8663fd -  Take the #100DaysOfCode Challenge. It’s the fastest way to form a coding habit.
+- https://www.tutorialspoint.com/java/java_innerclasses.htm -  Java Inner classes
+- https://stackoverflow.com/questions/11398122/what-are-the-purposes-of-inner-classes -  java - What are the purposes of inner classes - Stack Overflow
+- https://www.youtube.com/watch?v=Gtp2oHGBqNY -  Account Transfer API for Android Apps - YouTube
+- https://github.com/vanniktech/gradle-code-quality-tools-plugin -  vanniktech/gradle-code-quality-tools-plugin: Gradle plugin that generates ErrorProne, Findbugs, Checkstyle, PMD, CPD, Lint, Detekt & Ktlint Tasks for every subproject.
+- https://developer.android.com/samples/index.html -  Google Samples | Android Developers
+- https://www.youtube.com/watch?v=8lAXJ5NFXTM -  droidcon SF 2017 - Advanced animations with ConstraintLayout - YouTube
+- https://android-developers.googleblog.com/2017/12/welcoming-android-81-oreo-and-android.html -  Android Developers Blog: Welcoming Android 8.1 Oreo and Android Oreo (Go edition)
+- https://pastebin.com/ -  Pastebin.com - #1 paste tool since 2002!
+- https://developers.google.com/apis-explorer/#p/ -  Google APIs Explorer
+- https://developer.android.com/develop/quality-guidelines/building-for-billions.html -  Building for billions | Android Developers
+- https://medium.com/@JoseAlcerreca/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab -  The Android Lifecycle cheat sheet — part I: Single Activities
+- https://guides.codepath.com/android -  Home | CodePath Android Cliffnotes
+- https://discussions.udacity.com/t/guide-codepath-on-github-guide/475446 -  [GUIDE] Codepath on Github [GUIDE] - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.com/google-developers/viewmodels-a-simple-example-ed5ac416317e -  ViewModels : A Simple Example – Google Developers – Medium
+- https://android.jlelse.eu/yet-another-awesome-kotlin-feature-parcelize-5439718ba220 -  Yet Another Awesome Kotlin Feature: Parcelize – AndroidPub
+- https://discussions.udacity.com/t/tips-to-secure-your-secrets-before-publishing-your-app-at-store/475608?u=ali.derawi -  Tips to secure your secrets before publishing your app at Store. - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.google.com/accessibility/for-developers.html -  Материалы для разработчиков и издателей – Google Специальные возможности
+- https://www.linkedin.com/pulse/professional-android-developers-guide-get-started-ahmed-adel/ -  (3) Professional Android Developer's Guide to get started | LinkedIn
+- https://www.youtube.com/watch?v=4VGmFztUF6g -  Architecture Components - Use Cases (GDD India '17) - YouTube
+- https://github.com/google/volley -  google/volley
+- https://www.youtube.com/watch?v=zJKcxogLJws&list=PLlyCyjh2pUe_Xyqy9K6sBxwr0L8QaU7dq -  Opening Keynote (GDD India '17) - YouTube
+- https://www.youtube.com/watch?v=zhszwkcay2A -  DesignBytes: Density-independent Pixels - YouTube
+- https://blog.mindorks.com/ -  Mindorks
+- https://algs4.cs.princeton.edu/home/ -  Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne
+- https://www.coursera.org/learn/algorithms-part1 -  Algorithms, Part I | Coursera
+- https://www.coursera.org/learn/algorithms-part2 -  Algorithms, Part II | Coursera
+- https://developer.android.com/training/articles/security-tips.html2 -  Страница не найдена
+- http://androiddeveloper.galileo.edu/2017/02/17/15-tips-and-tricks-in-2017/ -  15 Tips and Tricks for rookie Android App Developers in 2017
+- https://github.com/mikepenz/Android-Iconics -  mikepenz/Android-Iconics: Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.
+- https://medium.com/grand-parade/6-magic-sugars-that-can-make-your-kotlin-codebase-happier-part-1-ceee3c2bc9d3 -  6 magic sugars that can make your Kotlin codebase happier — Part 1
+- https://www.101apps.co.za/articles/loading-data-using-android-s-loaders.html -  Loading data using Android's Loader class
+- https://www.androiddesignpatterns.com/2012/07/understanding-loadermanager.html -  Understanding the LoaderManager (part 2) | Android Design Patterns
+- https://discussions.udacity.com/t/lesson-4-summary-intents/472552 -  Lesson 4 Summary - Intents - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/gradle-dependencies-version-updating/474205 -  Gradle dependencies version updating - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://martiancraft.com/blog/2015/06/android-support-library/ -  Understanding the Android Support Library
+- https://discussions.udacity.com/t/android-sql-example-project/474588 -  Android SQL example - project - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://greenrobot.org/greendao/ -  greenDAO: Android ORM for your SQLite database - Open Source by greenrobot
+- http://www.vogella.com/tutorials/AndroidWidgets/article.html -  Android (Home screen) Widgets - Tutorial
+- https://discussions.udacity.com/t/change-android-logcat-log-colors/440450 -  Change Android Logcat Log Colors - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.youtube.com/watch?v=EZAoJU-nUyI -  Mastering the Android Touch System - YouTube
+- https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc -  Creating Usability with Motion: The UX in Motion Manifesto
+- https://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en -  Introduction to Glide, Image Loader Library for Android, recommended by Google :: The Cheese Factory
+- https://www.youtube.com/watch?v=244DL0YXdhU -  Getting Started with Firebase Predictions - Firecasts - YouTube
+- https://www.youtube.com/watch?v=Z9RITW7C-zo -  GDD India Android Live Streams on Dec 1-2 - YouTube
+- https://android-developers.googleblog.com/2017/08/understanding-performance-benefits-of.html -  Android Developers Blog: Understanding the performance benefits of ConstraintLayout
+- https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources -  Beginning Android Resources · codepath/android_guides Wiki
+- https://www.youtube.com/watch?v=qR8FeCQR7L0 -  APK Analyzer: An Android Tool Time Deep Dive - YouTube
+- https://www.youtube.com/watch?v=t2eSCJvYnME -  The Developer Show (TL;DR 091) - YouTube
+- http://www.vogella.com/tutorials/AndroidCommandLine/article.html -  Using the Android Debug Bridge (adb) - Tutorial
+- https://blog.gojekengineering.com/multi-threading-like-a-boss-in-android-with-rxjava-2-b8b7cf6eb5e2 -  Multi-Threading Like a Boss in Android With RxJava 2
+- https://www.youtube.com/watch?v=nM0h5pQYQxM -  How To Make an Android Game With Unity - Complete Tutorial 2017 - YouTube
+- https://unity3d.com/ru/learn/tutorials/s/scripting -  Unity - Scripting
+- https://play.google.com/store/apps/details?id=com.koltukstudio.platform -  Приложения в Google Play – KeepInLine
+- https://medium.freecodecamp.org/how-my-mobile-game-got-365k-app-store-downloads-in-2-weeks-and-why-i-quit-indie-game-dev-a3ebd1fa3229?gi=68c4de889583 -  How My Mobile Game Got 365K App Store Downloads in 2 Weeks (And Why I Quit Indie Game Dev…
+- https://stenciljs.com/ -  Stencil
+- https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM -  Android Development Patterns - YouTube - YouTube
+- https://www.youtube.com/playlist?list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5 -  KotlinConf 2017 - YouTube - YouTube
+- https://discussions.udacity.com/t/fragmentargs-and-icepick/470553 -  FragmentArgs and IcePick - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://jakewharton.com/making-retrofit-work-for-you/ -  Presentation: Making Retrofit Work For You - Jake Wharton
+- https://www.youtube.com/watch?v=imsr8NrIAMs -  RecyclerView Animations and Behind the Scenes (Android Dev Summit 2015) - YouTube
+- https://discussions.udacity.com/t/android-developer-android-basics-matching-colours/469400 -  Android Developer / Android Basics matching colours - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/k88hudson/git-flight-rules -  k88hudson/git-flight-rules: Flight rules for git
+- https://github.com/airbnb/lottie-android?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5203 -  airbnb/lottie-android: Render After Effects animations natively on Android and iOS, Web, and React Native
+- https://blog.gojekengineering.com/multi-threading-like-a-boss-in-android-with-rxjava-2-b8b7cf6eb5e2?gi=95dcf0a97c55 -  Multi-Threading Like a Boss in Android With RxJava 2
+- http://blog.devslopes.com/p/7286d47f-7d8b-4a4e-9cd2-2e042b3c666d/ -  Free App Asset Pack + 10,000 FREE Game Assets
+- https://discussions.udacity.com/t/resources-list-of-ui-inspiration-websites-resources/470408 -  [RESOURCES] List of UI inspiration Websites [RESOURCES] - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.youtube.com/watch?v=LqBlYJTfLP4 -  RecyclerView ins and outs - Google I/O 2016 - YouTube
+- https://hackernoon.com/top-200-android-articles-written-on-medium-until-jan-2017-369a9b6e0edd -  Top 200 Android articles written on Medium ( Until Jan 2017 )
+- https://jsoneditoronline.org/ -  JSON Editor Online - view, edit and format JSON online
+- https://www.youtube.com/watch?v=_obNBSldffw&list=PLlIuwjGRHc4sQfRzHQnie13gi9BbEVSzh -  KotlinConf 2017 - Generating Kotlin Code by Alec Strong and Jake Wharton - YouTube
+- https://blog.jetbrains.com/kotlin/2017/11/kotlin-1-2-released/ -  Kotlin 1.2 Released: Sharing Code between Platforms | Kotlin Blog
+- https://discussions.udacity.com/t/summary-of-what-happended-in-gdg-alexandria-egypt-last-11-nov-17/466324 -  Summary of What Happended in GDG Alexandria, Egypt last 11-Nov-17 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/lesson-3-summary-recyclerview/463511 -  Lesson 3 Summary - RecyclerView - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://google.github.io/styleguide/javaguide.html#s4.8.7-modifiers -  Google Java Style Guide
+- https://stuff.mit.edu/afs/sipb/project/android/docs/guide/topics/data/data-storage.html -  Storage Options | Android Developers
+- https://medium.com/@lylalyla/onsaveinstancestate-gets-called-regardless-of-whether-or-not-your-app-process-is-killed-93bb760379cd -  onSaveInstanceState() gets called regardless of whether or not your app process is killed.
+- https://blog.mindorks.com/how-to-become-a-complete-android-developer-110d7ef91f2a -  How To Become A Complete Android Developer – Mindorks
+- https://trello.com/invite/accept-board -  Trello
+- https://medium.com/@iagofucolo/android-retrospective-2017-libs-and-repositories-c0a2b4069d8a -  Android Retrospective 2017: Libs and repositories – Iago Mendes Fucolo – Medium
+- https://github.com/airbnb/lottie-web -  airbnb/lottie-web: Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
+- http://design.io/ -  ホームページ制作とSEO対策のクレフ（大阪）
+- https://material.io/color/#!/?view.left=0&view.right=0 -  Color Tool - Material Design
+- https://medium.com/@dbottillo/android-ui-test-espresso-matcher-for-imageview-1a28c832626f -  Android UI Test — Espresso Matcher for ImageView – Daniele Bottillo – Medium
+- http://appinventor.mit.edu/explore/tutorials.html -  Explore MIT App Inventor
+- https://developers.google.com/training/android/#for-developers -  Google Developers Training  |  Google Developers
+- https://github.com/ossu/computer-science -  ossu/computer-science: Path to a free self-taught education in Computer Science!
+- https://www.packtpub.com/packt/offers/free-learning -  Free Learning - Free Programming eBooks | PACKT Books
+- https://github.com/nuhkoca/RecyclerViewOverFlowMenuDemo -  nuhkoca/RecyclerViewOverFlowMenuDemo: Overflow menu effect with RecyclerView
+- https://www.codementor.io/codementorteam/how-to-get-your-first-developer-job-even-if-you-don-t-have-a-cs-degree-8b60y8ch2 -  How to Get Your First Developer Job (Even if You Don’t have a CS Degree) | Codementor
+- https://learngitbranching.js.org/ -  Learn Git Branching
+- https://medium.com/googleplaydev/shrinking-apks-growing-installs-5d3fcba23ce2 -  Shrinking APKs, growing installs – Google Play Apps & Games – Medium
+- https://discussions.udacity.com/t/shrinking-apk-overview/465834 -  Shrinking APK overview - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.youtube.com/watch?v=sjpbu4y6F_M -  Build an App for the Google Assistant with Templates and No Code - YouTube
+- https://chrome.google.com/webstore/detail/android-sdk-search/hgcbffeicehlpmgmnhnkjbjoldkfhoin?hl=en -  Android SDK Search - Chrome Web Store
+- https://discussions.udacity.com/t/tech-interview-handbook/465625?u=tolgaarslan0 -  Tech Interview Handbook - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/good-practices-while-working-with-networks-in-android-1-json-parsing-in-android/465851/1 -  Good practices while working with NETWORKS in Android (1) - JSON PARSING in ANDROID - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.quora.com/What-is-the-best-book-to-learn-Android-development-and-programming -  What is the best book to learn Android development and programming? - Updated
+- https://www.amazon.com/Expert-Android-Studio-Murat-Yener/dp/1119089255/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=redjack-20&linkId=e62d7de354a42bf342f533ed57029b31 -  Expert Android Studio: Murat Yener, Onur Dundar: 9781119089254: Amazon.com: Books
+- https://www.amazon.com/Beginning-Android-Programming-Studio-Guides/dp/1118705599/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=redjack-20&linkId=a30b8fd1ea9616a2813994ba09358e22 -  Beginning Android Programming with Android Studio (Wrox Beginning Guides): Jerome DiMarzio: 9781118705599: Amazon.com: Books
+- https://www.amazon.com/dp/1785286188/ref=as_li_ss_tl?psc=1&linkCode=sl1&tag=redjack-20&linkId=909d911c488a3da5f45f86f4312aab55 -  Android Studio Cookbook: Mike van Drongelen: 9781785286186: Amazon.com: Books
+- https://discussions.udacity.com/t/good-practices-while-working-with-networks-in-android-basics-2-http-networking-in-android/466190/10 -  Good practices while working with NETWORKS in Android Basics (2) - HTTP Networking in ANDROID - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.sololearn.com/ -  SoloLearn: Learn to Code for Free!
+- https://medium.com/yplan-eng/stop-ignoring-android-lint-use-it-8a8ee2ca6af8 -  Stop ignoring Android Lint, use it – YPlan Tech – Medium
+- https://www.youtube.com/watch?v=Z_huaXCsYyw -  Using LINT for Performance Tips (100 Days of Google Dev) - YouTube
+- http://codepumpkin.com/hashtable-vs-synchronizedmap-vs-concurrenthashmap/ -  Hashtable vs SynchronizedMap vs ConcurrentHashMap | Code Pumpkin
+- https://proandroiddev.com/android-room-beyond-the-codelab-c4807db89980 -  Android Room: Beyond the Codelab – ProAndroidDev
+- https://www.novoda.com/blog/native-apps-are-not-dead/ -  Why Native Apps Really aren't doomed: let's talk facts
+- https://github.com/futurice/android-best-practices -  futurice/android-best-practices: Do's and Don'ts for Android development, by Futurice developers
+- https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack?utm_source=chrome-app-launcher-info-dialog -  Sourcegraph for GitHub - Интернет-магазин Chrome
+- https://www.kinvey.com/ios-and-android-design-guidelines-cheat-sheet/ -  iOS and Android Design Guidelines Cheat Sheet - Enterprise Mobile Backend as a Service | Kinvey
+- https://dev.to/mindinventory/how-to-prevent-your-app-from-getting-uninstalled -  How to Prevent your App from Getting Uninstalled
+- http://kynosarges.org/JavaCSharp.html -  Java for C# Programmers
+- http://www.helloandroid.com/tutorials - 
+- http://www.vogella.com/tutorials/ -  Tutorials
+- https://github.com/nisrulz/android-tips-tricks -  nisrulz/android-tips-tricks: [Cheatsheet] Tips and tricks for Android Development
+- https://discussions.udacity.com/t/android-lifecycle-app-for-better-understanding/463609 -  Android Lifecycle App for better understanding - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf -  git_cheat_sheet.pdf
+- http://scoop.sh/ -  Scoop
+- https://www.youtube.com/watch?v=49dMGC1hM1o -  Reactive Programming: Why It Matters - YouTube
+- http://andbook.anddev.org/files/andbook.pdf -  andbook
+- https://discussions.udacity.com/t/lesson-2-summary-connect-to-the-internet/454472 -  Lesson 2 summary - Connect to the Internet - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://blog.mindorks.com/prdownloader-a-file-downloader-library-for-android-b9c5fc56a640 -  PRDownloader — A File Downloader Library For Android
+- https://medium.com/@MohamedIsoliman/i-had-10-android-interviews-during-the-last-two-years-heres-the-questions-plus-some-lessons-i-ve-cdc583dfbc65 -  I had 10 Android interviews during the last two years, here’s the questions plus some lessons I’ve…
+- https://www.androidhive.info/2016/02/android-push-notifications-using-gcm-php-mysql-realtime-chat-app-part-1/ -  Android Building Realtime Chat App using GCM, PHP & MySQL - Part 1
+- https://androidresearch.wordpress.com/2012/03/17/understanding-asynctask-once-and-forever/ -  Understanding AsyncTask – Once and Forever – Android Research Blog
+- https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4?gi=8365cb390c55 -  20+ Awesome Open-Source Android Apps To Boost Your Development Skills
+- https://www.androidhive.info/2017/11/android-recyclerview-with-search-filter-functionality/?utm_source=facebook&utm_medium=social&utm_campaign=social_marketing -  Android RecyclerView adding Search Filter
+- https://medium.com/@mujtahidah/android-material-stepper-7c1b5d3b29b5 -  Android Material Stepper – Mujtahidah – Medium
+- https://discussions.udacity.com/t/ama-session-questions-answers-23-11-2017/461524 -  AMA Session Questions & Answers 23/11/2017 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://stanfy.com/blog/use-android-studio-like-a-pro/ -  How To Use Android Studio Like a Pro!
+- https://github.com/nuhkoca/MVPCleanCodeDemo -  nuhkoca/MVPCleanCodeDemo: RxJava, Dagger, Retrofit = MVP
+- https://www.youtube.com/watch?v=J4dlF0kcThQ -  Cascadia Ruby Conf 2012 Therapeutic Refactoring by Katrina Owen - YouTube
+- https://github.com/ossu/computer-science#prerequisites -  ossu/computer-science: Path to a free self-taught education in Computer Science!
+- https://academy.realm.io/posts/mvc-vs-mvp-vs-mvvm-vs-mvi-mobilization-moskala/?utm_source=android-list&utm_medium=email -  MVC vs MVP vs MVVM vs MVI
+- https://riggaroo.co.za/resources-getting-started-android-development/ -  Resources for Getting Started with Modern Android Development – Riggaroo - Android Dev
+- https://play.google.com/store/apps/details?id=com.google.android.apps.secrets -  Приложения в Google Play – Playbook for Developers – Развитие бизнеса
+- https://github.com/ravidsrk/android-testing-guide -  ravidsrk/android-testing-guide: [Examples] Complete reference for Android Testing with examples.
+- https://github.com/iluwatar/java-design-patterns -  iluwatar/java-design-patterns: Design patterns implemented in Java
+- http://java-design-patterns.com/patterns/ -  Patterns
+- https://codeburst.io/top-unknown-keyboard-shortcuts-in-android-studio-7b1bf833c9f1?gi=f1b6566ba2b0 -  Top (unknown) keyboard shortcuts in Android Studio – codeburst
+- https://blog.codecentric.de/en/2016/04/kotlins-killer-features/ -  Kotlin's killer features - codecentric AG Blog
+- https://medium.com/google-developers/developers-are-users-too-part-1-c753483a50dc -  Developers are users too — part 1 – Google Developers – Medium
+- https://android-developers.googleblog.com/2017/11/moving-past-googleapiclient_21.html -  Android Developers Blog: Moving Past GoogleApiClient
+- https://discussions.udacity.com/t/books-courses-every-programmer-must-read-watch/459259 -  Books & Courses every programmer must read & watch? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://codelabs.developers.google.com/?cat=Android -  Google Codelabs
+- https://android.jlelse.eu/android-architecture-components-room-migration-1a269e1aeef7 -  Android Architecture Components: Room — Migration – AndroidPub
+- https://opensource.google.com/projects/search?q=Android -  Projects – Android – opensource.google.com
+- https://www.grokkingandroid.com/using-loaders-in-android/ -  How to Use Loaders in Android | Grokking Android
+- http://www.makeuseof.com/tag/13-android-tips-tricks-probably-didnt-know/ -  13 Android Tips & Tricks You Probably Didn't Know About
+- https://www.raywenderlich.com/category/android -  Android Development Tutorials - Ray Wenderlich
+- https://android.jlelse.eu/architecture-patterns-in-android-abf99f2b6f70 -  Architecture patterns in Android – AndroidPub
+- https://android.jlelse.eu/ -  AndroidPub
+- https://m.habrahabr.ru/post/279125/ -  Dagger 2. Часть первая. Основы, создание графа зависимостей, Scopes / Хабрахабр
+- https://github.com/mangstadt/ez-vcard -  mangstadt/ez-vcard: A vCard parser library for Java
+- https://github.com/codepath/android_guides/wiki/Must-Have-Libraries -  Must Have Libraries · codepath/android_guides Wiki
+- https://forum.bodybuilding.com/showthread.php?t=169172473 -  AllPro: A Simple Beginner's Routine part VI - Bodybuilding.com Forums
+- https://github.com/pilgr/Paper -  pilgr/Paper: Paper is a fast NoSQL-like storage for Java/Kotlin objects on Android with automatic schema migration support.
+- http://www.snappydb.com/ -  SnappyDB
+- https://realm.io/ -  Realm: Create reactive mobile apps in a fraction of the time
+- https://goo.gl/K9eomi -  
+- http://www.vogella.com/tutorials/AndroidCamera/article.html -  Android Camera API - Tutorial
+- https://discussions.udacity.com/t/i-had-10-interviews-during-the-last-two-years-heres-the-questions-plus-some-lessons-ive-learned/448530 -  I had 10 interviews during the last two years, here's the questions plus some lessons I've learned - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://workaline.com/collection/android -  Workaline Remote Jobs
+- https://stackoverflow.com/jobs/159635/android-or-ios-developer-citymapper -  Android or iOS Developer at Citymapper - Stack Overflow
+- https://remote.com/ -  Remote Work and Remote Jobs
+- https://www.udemy.com/the-complete-kotlin-developer-course/ -  The Complete Android Kotlin Developer Course | Udemy
+- https://discussions.udacity.com/t/internal-vs-external-storage-have-a-look-at-overview/458277 -  Internal vs. External storage. Have a look at overview. - Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/kotlin-vs-java/458258 -  (1) Kotlin vs. Java - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/guide-recyclerviews-best-friend-cardview-guide/458443/3 -  [GUIDE] RecyclerView's best friend, CardView [GUIDE] - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/understanding-onsaveinstancestate-simply/458454/4 -  Understanding onSaveInstanceState() simply. - Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.com/google-developers/why-would-i-want-to-fitssystemwindows-4e26d9ce1eec -  Why would I want to fitsSystemWindows? – Google Developers – Medium
+- https://play.google.com/store/apps/details?id=com.besome.sketch -  Приложения в Google Play – CREATE YOUR OWN APPS
+- http://appinventor.mit.edu/explore/ -  MIT App Inventor | Explore MIT App Inventor
+- https://jebware.com/blog/?p=418 -  Distinguishing between the different ProGuard “-keep” directives – jebware.com
+- https://androidstudio.googleblog.com/2017/10/android-studio-31-canary-1-now-available.html -  Android Studio Release Updates: Android Studio 3.1 Canary 1 now available
+- https://www.androidauthority.com/productivity-tips-android-development-815593/ -  5 productivity tips for Android developers - Android Authority
+- https://medium.com/swlh/how-to-work-40-hours-in-16-7-d9038681e652 -  How to Work 40 Hours in 16.7 – The Startup – Medium
+- https://www.youtube.com/watch?v=s4eAtMHU5gI -  Threading and Loaders. (Android Performance Patterns Season 5, Ep. 8) - YouTube
+- https://github.com/yuyakaido/CardStackView -  yuyakaido/CardStackView: Tinder like swipeable card view for Android
+- https://goo.gl/bczYSW -  
+- https://codelabs.developers.google.com/firebase17 -  Firebase Dev Summit 2017
+- http://www.dev-books.com/ -  Top mentioned books on stackoverflow.com
+- https://github.com/andyb129/AndroidStudioPluginsNPlay -  andyb129/AndroidStudioPluginsNPlay: A list of cool/useful Android studio plugins
+- https://www.youtube.com/watch?v=8ni8RY__WeU -  droidcon NYC 2017 - App Development - Pragmatic Best Practices - YouTube
+- https://anddev-challenge.slack.com/files/U7USAJTPS/F81J01F51/jeff_friesen_-_learn_java_for_android_development_2e-3.pdf -  https://anddev-challenge.slack.com/files/U7USAJTPS/F81J01F51/jeff_friesen_-_learn_java_for_android_development_2e-3.pdf
+- https://discussions.udacity.com/t/how-to-make-our-app-more-accessible/453829 -  https://discussions.udacity.com/t/how-to-make-our-app-more-accessible/453829
+- https://www.youtube.com/watch?v=h5rRNXzy1xo -  What's New in Android Accessibility (Google I/O '17) - YouTube
+- https://regexone.com/ -  RegexOne - Learn Regular Expressions - Lesson 1: An Introduction, and the ABCs
+- https://www.youtube.com/playlist?list=PLF206E906175C7E07 -  YouTube
+- https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209 -  https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209
+- https://discussions.udacity.com/t/cheat-sheets-index-for-cheat-sheets-lovers/455554 -  Cheat Sheets Index: For Cheat Sheets Lovers - Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.youtube.com/watch?v=rzmB3UxxhaA -  Mastering ConstraintLayout in Android - YouTube
+- https://discussions.udacity.com/t/change-android-logcat-log-colors/440450/15 -  Change Android Logcat Log Colors - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.codeschool.com/ -  Learn to Code Online with Code School | Code School
+- https://stackoverflow.com/questions/31600120/what-is-an-uri-in-android -  What is an URI in android - Stack Overflow
+- https://www.linkedin.com/pulse/professional-android-developers-guide-get-started-ahmed-adel/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3Bnbz0%2B1MsRDaDjrIh9TaIfQ%3D%3D -  LinkedIn
+- http://www.androiddesignpatterns.com/2012/07/understanding-loadermanager.html -  Understanding the LoaderManager (part 2) | Android Design Patterns
+- http://www.androiddesignpatterns.com/2013/01/inner-class-handler-memory-leak.html -  How to Leak a Context: Handlers & Inner Classes | Android Design Patterns
+- https://www.damonkohler.com/2009/02/android-recipes.html -  Android Recipes and Snippets
+- http://androidweekly.net/ -  Android Weekly - Free weekly Android development newsletter
+- https://www.packtpub.com/ -  Packt Publishing | Technology Books, eBooks & Videos |
+- http://fragmentedpodcast.com/episodes/103/?utm_source=Android+Weekly&utm_campaign=c72197651c-android-weekly-284&utm_medium=email&utm_term=0_4eb677ad19-c72197651c-338180633 -  103: MVI pattern with Hannes Mosby Dorfmann – Fragmented
+- https://www.youtube.com/watch?v=H7I3zs-L-1w -  YouTube
+- http://shikherverma.com/blog/Practical-Data-Structure-Guide -  Practical Data Structures Guide for Android developers - My Territory
+- https://spin.atomicobject.com/2016/04/15/espresso-testing-recyclerviews/ -  Testing RecyclerViews at Specific Positions with Espresso
+- https://medium.com/devnibbles/constraintlayout-circular-positioning-9489b11cb0e5 -  ConstraintLayout: Circular Positioning – DevNibbles – Medium
+- https://medium.com/personal-growth/how-to-continually-grow-10x-faster-than-expected-personally-and-professionally-f343a7fef131 -  14 Strategies To Accelerate Your Personal Growth By 1,000%
+- http://www.viralandroid.com/search/label/Material-Design -  Viral Android – Tutorials, Examples, UX/UI Design: Material-Design
+- https://blog.mindorks.com/i-have-1-year-of-experience-in-android-now-what-52d955b08027 -  I have 1 year of experience in Android. Now What? – Mindorks
+- http://www2.nsru.ac.th/tung/java_doc/Java%207%20for%20Absolute%20Beginners_2012.pdf -  
+- https://www.simplilearn.com/resources-to-learn-java-programming-article -  
+- https://www.3pillarglobal.com/insights/parcelable-vs-java-serialization-in-android-app-development -  Parcelable vs. Java Serialization in Android App Development
+- https://android.jlelse.eu/10-things-new-android-developers-can-relate-to-afd82791faab -  
+- https://www.youtube.com/watch?v=YJZCUhxNCv8 -  'How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee - YouTube
+- https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f -  I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers
+- https://docs.google.com/spreadsheets/d/18z6Mi1i-p7x5zPLjwips0MDy5093ISZndh33CP5OCuY/edit#gid=0 -  30 Days Android Dev Challenge Accountability - Google Sheets
+- https://github.com/Krupen/FabulousFilter -  Krupen/FabulousFilter: Android library to animate Floating Action Button to Bottom Sheet Dialog and vice-versa
+- https://discussions.udacity.com/t/event-bus-in-android/453128 -  Event Bus in Android - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://opensource.google.com/projects/cameraview -  CameraView – opensource.google.com
+- https://opensource.google.com/projects/flexbox-layout -  flexbox-layout – opensource.google.com
+- https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2 -  50 Android Studio Tips, Tricks & Resources you should be familiar with, as an Android Developer
+- https://material.io/guidelines/style/color.html#color-color-palette -  Color - Style - Material Design
+- https://github.com/cesarferreira/drone -  cesarferreira/drone: The missing library manager for Android Developers
+- https://stanfy.com/blog/5-of-the-best-mobile-ides-for-android/ -  5 of the best mobile IDEs for Android
+- https://www.briantracy.com/freegifts/etftranscript.pdf -  https://www.briantracy.com/freegifts/etftranscript.pdf
+- https://github.com/PGSSoft/AndroidSDKPoster -  PGSSoft/AndroidSDKPoster: Wall poster with detailed changelog of Android SDK versions 14-27, broken down into 30 categories
+- http://hannesdorfmann.com/android/mosby3-mvi-1 -  REACTIVE APPS WITH MODEL-VIEW-INTENT - PART1 - MODEL | HANNES DORFMANN
+- https://discussions.udacity.com/t/could-not-lock-voice-for-audioinputdeviceioproc/454018?u=vladi_ca -  Could not lock voice for audioInputDeviceIOProc - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://www.onlineprogrammingbooks.com/android/ -  Free Android Programming Books : PDF Download
+- https://www.youtube.com/watch?v=BdmMnCKmKsA -  The Developer Show (TL;DR 089) - YouTube
+- https://discussions.udacity.com/t/how-to-get-udacity-projects-locally-with-git-and-commit-on-my-github/448496/4 -  How to get Udacity projects locally with Git and commit on my GitHub - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://stackoverflow.com/questions/30820806/adding-a-colored-background-with-text-icon-under-swiped-row-when-using-androids -  Adding a colored background with text/icon under swiped row when using Android's RecyclerView - Stack Overflow
+- https://android.googlesource.com/platform/frameworks/support/+/refs/heads/master/core-ui/src/main/java/android/support/v4/widget/CursorAdapter.java -  core-ui/src/main/java/android/support/v4/widget/CursorAdapter.java - platform/frameworks/support - Git at Google
+- https://stackoverflow.com/questions/3535074/getview-vs-bindview-in-a-custom-cursoradapter -  android - GetView Vs. BindView in a custom CursorAdapter? - Stack Overflow
+- https://codelabs.developers.google.com/codelabs/constraint-layout/#0 -  Use ConstraintLayout to design your Android views
+- https://discussions.udacity.com/t/lesson-1-summary/452839 -  Lesson 1 Summary - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.tensorflow.org/mobile/tflite/ -  Introduction to TensorFlow Lite  |  TensorFlow
+- https://www.udacity.com/course/google-adwords--nd124 -  Learn AdWords – Google AdWords Nanodegree | Udacity
+- https://www.youtube.com/watch?v=iGr8yFh1OcI -  Become a Google AdWords Expert! - YouTube
+- https://www.youtube.com/watch?v=Nn97goCmjFE -  The Developer Show (GDD Europe ‘17) w/ Dan Galpin - YouTube
+- https://codelabs.developers.google.com/gdd17 -  Google Developer Days 2017
+- https://developer.android.com/studio/write/java8-support.html -  Use Java 8 Language Features | Android Studio
+- https://www.youtube.com/watch?v=LhaSi6_i2bo -  Android Studio 3.0: Java 8 Language Features Support - YouTube
+- https://code.tutsplus.com/tutorials/java-8-for-android-development-default-and-static-methods--cms-29754 -  Java 8 for Android Development: Default and Static Methods
+- https://code.tutsplus.com/tutorials/java-8-for-android-cleaner-code-with-lambda-expressions--cms-29661 -  Java 8 for Android: Cleaner Code With Lambda Expressions
+- https://www.youtube.com/watch?v=KDExkmPPO_I -  Coffee & Croissants : Digital Marketing for Nonprofits - YouTube
+- https://luis-goncalves.com/top-agile-blogs-2017/ -  100 Top Agile Blogs in 2017
+- https://support.google.com/adwords/answer/6247380?hl=en -  About Universal App campaigns - AdWords Help
+- https://www.ometrics.com/blog/slack-groups-for-entrepreneurs/ -  2017 Slack Groups for Entrepreneurs
+- https://thetool.io/2017/how-to-optimize-google-play-aso-guide -  Google Play Store ASO Guide: How to Optimize Android Apps
+- https://play.google.com/store/apps/developer?id=Weather+Widget+Theme+Dev+Team -  Приложения в Google Play – Weather Widget Theme Dev Team
+- https://github.com/mrmans0n/smart-location-lib/blob/master/library/src/main/java/io/nlopez/smartlocation/location/config/LocationParams.java#L8 -  smart-location-lib/LocationParams.java at master · mrmans0n/smart-location-lib
+- https://github.com/Karumi/Dexter -  Karumi/Dexter: Android library that simplifies the process of requesting permissions at runtime.
+- https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514 -  What’s Revolutionary about Flutter – Hacker Noon
+- https://developer.android.com/index.html -  Android Developers
+- https://play.google.com/store/apps/details?id=app.jakubgabco.sugarbetes -  Приложения в Google Play – Sugarbetes
+- https://kapeli.com/dash -  Dash for macOS - API Documentation Browser, Snippet Manager - Kapeli
+- https://developer.android.com/training/testing/espresso/index.html -  Espresso | Android Developers
+- https://regexr.com/ -  RegExr: Learn, Build, & Test RegEx
+- https://discussions.udacity.com/t/free-products-for-university-students/450949 -  Free products for university students - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.androidauthority.com/sqlite-primer-for-android-811987/amp/ -  A SQLite primer for Android app developers - Android Authority
+- https://www.coursera.org/learn/progfun1/ -  Принципы функционального программирования на Scala | Coursera
+- https://romannurik.github.io/AndroidAssetStudio/ -  Android Asset Studio
+- https://android-material-icon-generator.bitdroid.de/#section-material-icons -  Android Material Icon Generator
+- https://refactoring.guru/design-patterns -  Design Patterns
+- https://android-arsenal.com/ -  The Android Arsenal - A categorized directory of libraries and tools for Android
+- https://medium.com/udacity/the-5-things-you-need-to-do-to-get-selected-for-the-2nd-phase-of-your-google-udacity-scholarship-649f22376030 -  5 things you should do to get selected for the 2nd phase of your Google-Udacity Scholarship
+- 22.01.2018 - 
+- http://www.androidpolice.com/2018/01/19/whatsapp-adds-notification-channels-android-oreo-8-0-can-now-choose-notification-type/ -  WhatsApp adds notification channels on Android Oreo 8.0 so you can now choose what to do with each notification type
+- https://play.google.com/store/apps/details?id=io.flutter.gallery&hl=ru&rdid=io.flutter.gallery -  Приложения в Google Play – Flutter Gallery
+- https://developer.android.com/distribute/google-play/startups.html -  Start on Android and Google Play | Android Developers
+- http://mashable.com/2018/01/18/silicon-valley-companies-misleading-metrics/#oC_YAIID3sqX -  The big con: How tech companies made a killing by fudging their numbers
+- https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6 -  How to Make Your Code CLEAN and BEAUTIFUL – Hacker Noon
+- https://www.youtube.com/watch?v=h1LHzObflwo&t=3174s -  Android - Building a layout from Scratch using ConstraintLayout - and Q&A #RiggarooLive - YouTube
+- https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History -  Git - Rewriting History
+- https://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/ -  What is a Full Stack developer? | Laurence Gellert's Blog
+- https://hackernoon.com/12-cool-things-you-can-do-with-github-f3e0424cf2f0 -  12 cool things you can do with GitHub – Hacker Noon
+- https://docs.google.com/forms/d/e/1FAIpQLSdmMLHLdBuYX8DUMCtGT35YUmgx6-LFGh9Y08PZskWRHrL9Uw/viewform -  Background Tasks Quiz
+- https://firebase.google.com/docs/android/setup -  Add Firebase to Your Android Project  |  Firebase
+- https://discussions.udacity.com/t/making-the-editor-look-good/538697 -  Making the editor look good - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/codepath/android_guides/wiki/ViewPager-with-FragmentPagerAdapter -  ViewPager with FragmentPagerAdapter · codepath/android_guides Wiki
+- http://goalkicker.com/AndroidBook/ -  Android™ Notes for Professionals book
+- https://www.youtube.com/watch?v=n4svrNcAkJg -  Google Cloud Platform - Node.js Tutorial - YouTube
+- https://discussions.udacity.com/t/finding-a-way-to-preserve-all-the-informations-posted-on-forum-slack-by-us/535667 -  Finding a way to preserve all the informations posted on forum/slack by us - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/guide-to-become-a-complete-android-developer/537026 -  Guide To Become A Complete Android Developer - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/java-and-android-interview-questions-and-answers/539927 -  Java and Android interview questions and answers - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/notes-lesson-12/539942 -  [NOTES] Lesson 12 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.com/@trionkidnapper/building-an-autocompleting-edittext-using-rxjava-f69c5c3f5a40 -  Building an AutoCompleting EditText using RxJava – Craig Russell – Medium
+- http://www.gadgetsaint.com/android/android-shared-preferences-detail/#.WmTgxKhl_tQ -  Shared Preferences in Android explained in detail - GadgetSaint
+- https://discussions.udacity.com/t/sharedpreference-null-object-reference-error/538632 -  sharedpreference null object reference error - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://blog.stylingandroid.com/tool-time-part-1-2/ -  Tool Time – Part 1 – Styling Android
+- https://stackoverflow.com/questions/3769762/web-colors-in-an-android-color-xml-resource-file -  Web colors in an Android color xml resource file - Stack Overflow
+- https://facebook.github.io/stetho/ -  Download
+- https://proandroiddev.com/mvp-to-mvvm-transformation-611959d5e0ca -  MVP to MVVM transformation – ProAndroidDev
+- https://discussions.udacity.com/t/google-play-best-practice/482830 -  Google Play best practice - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.youtube.com/watch?v=L8gUZmXnK-s -  Top 5 Android Studio Plugins - YouTube
+- https://www.youtube.com/watch?v=eOV2owswDkE -  Android Studio: (About) 10 Things You (Probably) Didn’t Know You Could Do - YouTube
+- https://www.youtube.com/watch?v=2ICxQv9Ur60 -  Pierre-Yves Ricau: Dagger Singleton (1 of 5) - YouTube
+- https://devknox.io/ -  Devknox - Security Plugin for Android Studio
+- https://plugins.jetbrains.com/plugin/8600-exynap -  Exynap :: JetBrains Plugin Repository
+- https://riggaroo.co.za/use-android-apk-analyzer-reduce-apk-size/ -  42MB to display account information?! Use the Android APK Analyzer to reduce your APK size! – Riggaroo - Android Dev
+- https://academy.realm.io/posts/360-andev-2017-florina-muntenescu-data-persistence-android-room/ -  Data Persistence in Android: Room for Improvement
+- https://www.simplifiedcoding.net/retrofit-android-tutorial/ -  Retrofit Android Tutorial - Using Retrofit 2.2 with PHP Restful API
+- https://discussions.udacity.com/t/resource-git-github-the-website-on-undoing-fixing-or-removing-commits-in-git-is-a-great-guide/538644 -  [RESOURCE] Git / GitHub - The website "On undoing, fixing, or removing commits in git" is a great guide - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://www.vogella.com/tutorials/AndroidDatabinding/article.html -  Using data binding in Android - Tutorial
+- https://android.jlelse.eu/faster-android-development-with-data-binding-eeef7cc0c4b -  Faster Android development with data binding – AndroidPub
+- https://guides.codepath.com/android/Applying-Data-Binding-for-Views -  Applying Data Binding for Views | CodePath Android Cliffnotes
+- https://www.youtube.com/watch?v=3d9BeWqlfTk -  Android Loaders | Part 1 - Custom Asnyctask Loader - YouTube
+- https://discussions.udacity.com/t/lesson-6-fixing-asynctaskloader-warning-exercise-and-solution/457914 -  Lesson 6 fixing AsyncTaskLoader warning. Exercise and Solution. - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/abdelrahman-ali98/Bind_and_start_foreground_service -  abdelrahman-ali98/Bind_and_start_foreground_service
+- https://stackoverflow.com/questions/37992187/gradle-sync-failed-could-not-find-constraint-layout1-0-0-alpha2/39934917#39934917 -  android - Gradle Sync failed could not find constraint-layout:1.0.0-alpha2 - Stack Overflow
+- https://www.androiddesignpatterns.com/ -  Android Design Patterns
+- https://www.quora.com/What-is-the-best-way-to-learn-RxJava-for-Android/answer/Amit-Shekhar-10?share=50ca1043&srid=38ZyG -  Amit Shekhar's answer to What is the best way to learn RxJava for Android? - Quora
+- https://android.jlelse.eu/why-we-are-not-cross-platform-developers-fd7ef70e976d -  Why we are not cross-platform developers – AndroidPub
+- https://sethrobertson.github.io/GitFixUm/fixup.html -  On undoing, fixing, or removing commits in git
+- https://www.javacodegeeks.com/wp-content/uploads/2014/11/Java-Interview-Questions.pdf -  Java-Interview-Questions.pdf
+- https://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html -  115 Java Interview Questions and Answers - The ULTIMATE List
+- https://www.javacodegeeks.com/2013/09/core-java-interview-questions.html -  Core Java Interview Questions
+- https://www.javacodegeeks.com/2013/02/40-java-collections-interview-questions-and-answers.html -  40 Java Collections Interview Questions and Answers
+- https://github.com/derekargueta/Android-Interview-Questions -  derekargueta/Android-Interview-Questions: Collection of Android and Java related questions and topics to know
+- http://www.andreas-schrade.de/2017/02/23/android-interview-questions/ -  Android Interview Questions And Answers · Andreas Schrade
+- https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-1-f976483f7bd6 -  Modern Android development with Kotlin (September 2017) Part 1
+- https://discussions.udacity.com/t/who-has-already-read-this-book-slight-smile/519745 -  who has already read this book? 🙂 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM -  Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series) 1, Robert C. Martin, eBook - Amazon.com
+- https://www.safaribooksonline.com/library/view/clean-code/9780134661742/ -  Clean Code [Video]
+- https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8 -  Amazon.com: Design Patterns: Elements of Reusable Object-Oriented Software (Addison-Wesley Professional Computing Series) eBook: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch: Kindle Store
+- http://udacity.github.io/android-nanodegree-guidelines/ -  Udacity Android Developer Nanodegree Style Guide
+- https://www.edx.org/course/software-construction-java-mitx-6-005-1x -  Software Construction in Java | edX
+- https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=la_B000APETRK_1_1?s=books&ie=UTF8&qid=1516541320&sr=1-1 -  Code Complete: A Practical Handbook of Software Construction, Second Edition: Steve McConnell: 0790145196705: Amazon.com: Books
+- https://www.raywenderlich.com/109843/common-design-patterns-for-android -  Common Design Patterns for Android
+- https://stackoverflow.com/questions/4916209/which-design-patterns-are-used-on-android -  Which design patterns are used on Android? - Stack Overflow
+- https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07 -  Design Patterns Video Tutorial - YouTube
+- https://www.amazon.com/dp/0596007124//ref=cm_sw_su_dp?tag=nethta-20 -  Head First Design Patterns: A Brain-Friendly Guide: Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson: 0000596007124: Amazon.com: Books
+- https://www.tutorialspoint.com/design_pattern/index.htm -  Design Patterns in Java Tutorial
+- http://www.fluffycat.com/Java-Design-Patterns/ -  Java Design Patterns Programming Reference and Examples
+- http://www.oodesign.com/ -  Design Patterns | Object Oriented Design
+- https://www.javacodegeeks.com/wp-content/uploads/2015/10/Java-Design-Patterns.pdf -  https://www.javacodegeeks.com/wp-content/uploads/2015/10/Java-Design-Patterns.pdf
+- https://github.com/sindresorhus/awesome -  sindresorhus/awesome: Curated list of awesome lists
+- https://stackoverflow.com/questions/8155257/slowing-speed-of-viewpager-controller-in-android/9731345#9731345 -  Slowing speed of Viewpager controller in android - Stack Overflow
+- https://stackoverflow.com/questions/10812009/change-viewpager-animation-duration-when-sliding-programmatically -  android - Change ViewPager animation duration when sliding programmatically - Stack Overflow
+- https://medium.com/@BashaChris/the-android-viewpager-has-become-a-fairly-popular-component-among-android-apps-its-simple-6bca403b16d4 -  Great animations with PageTransformer – Chris Basha – Medium
+- https://developer.android.com/training/animation/screen-slide.html#pagetransformer -  Using ViewPager for Screen Slides | Android Developers
+- https://github.com/sayyam/carouselview -  sayyam/carouselview: A simple library to add carousel view in android app.
+- https://materialdoc.com/components/tabs/ -  Tabs - Materialdoc
+- https://developer.android.com/training/appbar/setting-up.html -  Setting Up the App Bar | Android Developers
+- https://github.com/popnfresh234/udacity_android_resources -  popnfresh234/udacity_android_resources
+- https://meta.discourse.org/t/post-format-reference-documentation/19197/2 -  Post format reference documentation - howto / faq - Discourse Meta
+- https://in.udacity.com/course/how-to-use-git-and-github--ud775 -  How to Use Git and GitHub | Udacity
+- https://plugins.jetbrains.com/plugin/7275-codeglance -  CodeGlance :: JetBrains Plugin Repository
+- https://github.com/pbreault/adb-idea -  pbreault/adb-idea: A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
+- https://www.youtube.com/watch?v=MS7GN2Lgdas -  017. Школа мобильной разработки – Практика написания тестов. Кирилл Борисов - YouTube
+- https://devcolibri.com/ -  Devcolibri – Android для начинающих
+- https://discussions.udacity.com/t/share-your-personal-life-changing-story-with-udacity-s-community/535982 -  Share your personal life-changing story with Udacity’s community. - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://developer.android.com/training/monitoring-device-state/battery-monitoring.html -  Monitoring the Battery Level and Charging State | Android Developers
+- https://hackernoon.com/the-top-66-developer-resources-from-2017-e82531365e6d -  The Top 66 Developer Resources From 2017 – Hacker Noon
+- https://commonsware.com/blog/2018/01/08/android-version-ratchet.html?utm_source=Android+Weekly&utm_campaign=ec9e19f121-EMAIL_CAMPAIGN_2018_01_14&utm_medium=email&utm_term=0_4eb677ad19-ec9e19f121-338071081 -  The CommonsBlog — The Android Version Ratchet
+- https://medium.com/@chirag.jain5000/unit-testing-in-android-is-a-mess-80694ebbde07 -  Unit Testing in Android is a mess – Chirag Jain – Medium
+- https://github.com/IbrahimYousre/android-framework/wiki/In-dexpth-resources-and-guides -  In dexpth resources and guides · IbrahimYousre/android-framework Wiki
+- https://www.youtube.com/watch?v=Gsd26EuSg4g -  Testing with AdMob Test Ads - Mobile Ads Garage #19 - YouTube
+- http://fixer.io/ -  Foreign exchange rates and currency conversion API
+- https://github.com/hav3n/CurrencyConverter -  hav3n/CurrencyConverter: A Simple Currency Converter using the OpenExchangeRates API
+- https://discussions.udacity.com/t/how-to-create-rest-api/519869 -  How to Create Rest API? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://free.currencyconverterapi.com/ -  Currency Conversion Tool For Devs | Free Currency Converter API
+- https://anddev-challenge.slack.com/archives/C7W6Z57DY/p1516363900000366?thread_ts=1516100049.000077&cid=C7W6Z57DY -  Redirecting... | Google Android Dev Challenge 2017 Slack
+- https://proandroiddev.com/writing-reactive-apps-with-mvi-f7de70739d59 -  Building reactive Android apps with MVI – ProAndroidDev
+- https://www.callicoder.com/categories/kotlin/ -  The Ultimate Kotlin Tutorials for Beginners | CalliCoder
+- https://www.sonarqube.org/ -  Continuous Code Quality | SonarQube
+- https://discussions.udacity.com/t/best-android-libraries-for-developers/446380/24?u=alexshr -  Best Android Libraries for Developers - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en -  The Real Best Practices to Save/Restore Activity's and Fragment's state. (StatedFragment is now deprecated) :: The Cheese Factory
+- http://www.java2s.com/Code/Android/CatalogAndroid.htm -  Android examples (example source code) Organized by topic
+- http://www.vogella.com/tutorials/AndroidParcelable/article.html -  Understanding Androids Parcelable - Tutorial
+- https://codeburst.io/mainframe-programming-natural-adabas-tutorial-part-1-setup-process-and-hello-world-code-d3f5cb7577c7 -  Mainframe programming — NATURAL/ADABAS tutorial. Part 1— setup process and “Hello World” code
+- https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b -  Android: draw a custom view – Roman Danylyk – Medium
+- https://www.youtube.com/watch?v=4NNmMO8Aykw -  Droidcon NYC 2016 - Measure, Layout, Draw, Repeat: Custom Views and ViewGroups - YouTube
+- https://github.com/square/seismic -  square/seismic: Android device shake detection.
+- https://codelabs.developers.google.com/codelabs/developing-android-a11y-service/index.html?index=..%2F..%2Findex#0 -  Developing an Accessibility Service for Android
+- http://www.vogella.com/tutorials/AndroidBroadcastReceiver/article.html -  Android BroadcastReceiver - Tutorial
+- https://www.youtube.com/watch?v=5e1Yh0fSZhQ -  Material Animations: show me the code! - YouTube
+- https://discussions.udacity.com/t/custom-toast-on-android/532582 -  Custom Toast on Android - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50 -  Animate all the things. Transitions in Android – Andrey Kulikov – Medium
+- https://commonsware.com/blog/2018/01/08/android-version-ratchet.html -  The CommonsBlog — The Android Version Ratchet
+- https://plugins.jetbrains.com/plugin/7658-android-drawable-importer -  Android Drawable Importer :: JetBrains Plugin Repository
+- https://discussions.udacity.com/t/android-sdk-search-app/533249 -  Android SDK Search app - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199 -  The Dark side of Fragments – AndroidPub
+- https://blog.grandcentrix.net/how-to-install-different-app-variants-on-one-android-device/ -  How to install different app variants on one Android device
+- https://medium.com/google-developers/sharing-content-between-android-apps-2e6db9d1368b -  Sharing Content between Android Apps – Google Developers – Medium
+- https://discussions.udacity.com/t/the-complete-android-o-app-development-course-free-for-a-short-time/533920 -  The Complete Android O App Development course (free for a short time) - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.tutorialspoint.com/sqlite/sqlite_java.htm -  SQLite Java
+- https://constraintlayout.com/basics/create_constraint.html -  ConstraintLayout
+- https://codelabs.developers.google.com/codelabs/constraint-layout/#3 -  Use ConstraintLayout to design your Android views
+- https://inducesmile.com/android/android-constraintlayout-example-tutorial/ -  Android ConstraintLayout Example Tutorial
+- https://www.infoworld.com/article/3229958/application-development/whats-new-in-kotlin-12-code-reuse-for-starters.html -  What’s new in Kotlin 1.2? Code reuse, for starters | InfoWorld
+- https://twitter.com/JakeWharton/status/953348103255527426 -  Jake Wharton on Twitter: "Yesterday I released one of my side-projects to the Play Store which lets you search the Android SDK on the go: https://t.co/cTHcaLzKmJ. This is the Android app equivalent of @RomanNurik's invaluable Chrome extension. The app is, of course, open source: https://t.co/0fFwFCIUpa… https://t.co/dicush7Mb5"
+- https://sites.google.com/knowlabs.com/udacitydevscholars17/student-spotlight -  Student Spotlight
+- https://discussions.udacity.com/t/notes-lesson-10/537133/3 -  [NOTES] Lesson 10 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/notes-lesson-9/533411 -  [NOTES] Lesson 9 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/android-dev-students-github-organization/499985?u=pl4gue -  Android Dev Students Github Organization - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/Erdemtsynduev/project_currencyTracker -  Erdemtsynduev/project_currencyTracker: Android application currency tracker
+- http://www.sqlitetutorial.net/ -  SQLite Tutorial - An Easy Way to Master SQLite Fast
+- https://play.google.com/store/apps/details?id=com.codebutler -  Приложения в Google Play – Code Butler
+- https://www.atlassian.com/git/tutorials/comparing-workflows -  Git Workflow | Atlassian Git Tutorial
+- http://www.oracle.com/technetwork/java/javamagazine/index.html -  Java Magazine
+- https://www.networxrecruitment.com/Jobs/Advert/1135810?cid=1566&rsid=0&js=0&LinkType=1&FromSearch=False -  Graduate Software Developer and Support Analyst
+- https://medium.com/@StefMa/gradle-scripts-for-kotlin-lovers-1d04e2d0fc34 -  gradle scripts for Kotlin lovers – StefMa – Medium
+- https://itsfoss.com/barcelona-open-source/ -  City of Barcelona Kicks Out Microsoft in Favor of Linux and Open Source
+- https://discussions.udacity.com/t/amazing-e-book-for-free/520265 -  Amazing E-book for free - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/JakeWharton/SdkSearch -  JakeWharton/SdkSearch: An Android app for searching the Android SDK documentation.
+- https://sites.google.com/knowlabs.com/udacitydevscholars17/gallery?authuser=0 -  Gallery
+- https://sites.google.com/knowlabs.com/udacitydevscholars17/home -  Home
+- https://stackoverflow.com/questions/7508493/when-should-the-dimens-xml-file-be-used-in-android -  When should the dimens.xml file be used in Android? - Stack Overflow
+- https://medium.com/mindorks/how-to-become-a-complete-android-developer-110d7ef91f2a -  How To Become A Complete Android Developer – Mindorks – Medium
+- https://www.youtube.com/watch?v=mz9w5tup7WA -  Application Priority - YouTube
+- https://discussions.udacity.com/t/foreground-visible-service-background-and-empty-processes/452936/2?u=fif.iva -  Foreground, Visible, Service, Background and Empty Processes - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/application-priority-lesson-11-21/450700 -  Application priority Lesson 11.21 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.com/google-developers/who-lives-and-who-dies-process-priorities-on-android-cb151f39044f -  Who lives and who dies? Process priorities on Android
+- https://discussions.udacity.com/t/application-priority-lesson-11-21/450700/6 -  Application priority Lesson 11.21 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://developer.android.com/guide/components/activities/process-lifecycle.html -  Processes and Application Lifecycle | Android Developers
+- https://stackoverflow.com/questions/1085709/what-does-synchronized-mean -  java - What does 'synchronized' mean? - Stack Overflow
+- https://developer.android.com/reference/android/content/SharedPreferences.Editor.html -  SharedPreferences.Editor | Android Developers
+- https://github.com/firebase/firebase-jobdispatcher-android -  firebase/firebase-jobdispatcher-android: The Firebase JobDispatcher is a library for scheduling background jobs in your Android app. It provides a JobScheduler-compatible API that works on all recent versions of Android (API level 9+) that have Google Play services installed.
+- https://blog.udacity.com/2018/01/managing-mid-career-career-change.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BHA5N8NWfRwyJ2dtXRCjnWw%3D%3D -  Managing Mid-Career Career Change | Udacity
+- https://sensortower.com/blog/top-apps-and-publishers-2017 -  The Top Mobile Apps, Games, and Publishers of 2017: Netflix Grows Revenue 138% Year-Over-Year
+- http://codetheory.in/asynchronous-background-execution-and-data-loading-with-loaders-framework-in-android -  Asynchronous Background Execution and Data Loading with Loaders (Framework) in Android – Code Theory
+- https://medium.com/mindorks/presentation-guide-for-technical-posts-eeebedfd6639 -  Presentation guide for technical posts – Mindorks – Medium
+- https://tech.instacart.com/a-month-of-android-accessibility-1032e2566b25 -  A month of Android Accessibility – tech-at-instacart
+- https://www.youtube.com/watch?v=08w7M0kQCnQ -  Effective and efficient mobile engineering - Pratul Kalia, Uncommon - YouTube
+- https://medium.com/@mmbialas/25-new-android-libraries-and-projects-to-check-at-the-beginning-of-2018-ba3b422bbbb4 -  25 new Android libraries and projects to check at the beginning of 2018
+- https://android.jlelse.eu/simple-weather-forecast-app-using-kotlin-retrofit-and-rxjava2-c4b1f4d9344e -  Simple weather forecast app using Kotlin, Retrofit and RxJava2
+- https://rongi.github.io/kotlin-blog/rx-presenter.html -  Implementing your presenter with Rx or Functional Reactive architecture for Android applications
+- https://medium.com/@elia.maracani/intro-to-android-architecture-components-e7cd3558c4af -  Intro to Android Architecture Components – Elia Maracani – Medium
+- https://udacity.zendesk.com/hc/en-us/articles/215359603-How-do-I-communicate-with-my-mentor- -  How do I communicate with my mentor? – Udacity Support
+- https://miriamswordskalk.gitbooks.io/udacity-mentorship-encyclopedia/content/live-help.html -  Introduction to Live Help · Udacity Mentorship Encyclopedia
+- https://beginnersbook.com/2013/05/abstract-class-vs-interface-in-java/ -  Difference Between Abstract Class and Interface in Java
+- https://docs.oracle.com/javase/tutorial/java/IandI/interfaceDef.html -  Defining an Interface (The Java™ Tutorials > Learning the Java Language > Interfaces and Inheritance)
+- https://www.linkedin.com/feed/update/urn:li:activity:6358767032799936512/ -  (1) LinkedIn
+- https://discussions.udacity.com/t/developer-designer-both/531535?u=abbieturner951 -  Developer? Designer? Both? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.youtube.com/watch?v=W1kA-rYCf5Y -  Antonio Leiva - Yo Dawg! I heard you like Kotlin (DevFest Baltics) - YouTube
+- https://kotlinlang.slack.com/ -  Slack
+- https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801 -  Android Development Nanodegree by Google | Udacity
+- https://discussions.udacity.com/t/android-tools-to-use-in-everyday-development/531451 -  Android Tools to use in everyday development - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://dzone.com/articles/list-of-top-30-android-tools -  Top 30 Android Development Tools - DZone Mobile
+- https://discussions.udacity.com/t/algorithms-and-data-structure/499036/40 -  Algorithms and data structure - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://in.udacity.com/course/intro-to-algorithms--cs215 -  Intro to Algorithms | Udacity
+- https://in.udacity.com/course/computability-complexity-algorithms--ud061 -  Computability, Complexity & Algorithms | Udacity
+- https://discussions.udacity.com/t/learning-algorithms-and-data-structures/472216?u=abdullahatta -  Learning algorithms and data structures - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.coursera.org/browse?source=deprecated_spark_cdp -  Browse | Coursera
+- https://discussions.udacity.com/t/what-is-flutter-for/531123/11 -  What is Flutter for? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://flutter.io/ -  Easy and fast SDK for beautiful apps - Flutter
+- https://flutter.io/faq/#what-is-flutter -  FAQ - Flutter
+- https://discussions.udacity.com/t/flutter-links-info/504931?source_topic_id=531123 -  Flutter links & info? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/anyone-here-tried-multiplatform-flutter-sdk/462456?source_topic_id=531123 -  Anyone here tried multiplatform Flutter SDK? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://flutter.io/widgets/material/ -  Material Design Widgets - Flutter
+- https://www.theverge.com/circuitbreaker/2017/5/8/15579846/google-fuchsia-os-magenta-armadillo-first-look-ui -  Google’s mysterious new Fuchsia OS has a UI now - The Verge
+- https://android.jlelse.eu/my-top-5-android-tools-of-2017-2aa16da002aa -  My Top 5 Android Tools of 2017 – AndroidPub
+- https://proandroiddev.com/recyclerview-pro-tips-part-2-341e6f449a62 -  RecyclerView Pro Tips — Part 2 – ProAndroidDev
+- https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-1-list-75a874a5d213 -  Enter animation using RecyclerView and LayoutAnimation Part 1: Lists
+- https://www.youtube.com/watch?v=KhLVD6iiZQs -  Yigit Boyar: Pro RecyclerView - YouTube
+- https://medium.com/coding-blocks/goodbye-findviewbyid-say-hello-to-synthetic-binding-in-kotlin-d3727bd8438e -  Goodbye findViewById, say hello to Synthetic Binding
+- https://medium.com/coding-blocks/removing-repetitive-java-code-with-kotlin-40459726412d -  Removing repetitive Java code with() Kotlin – Coding Blocks – Medium
+- https://medium.com/@daggerdwivedi/making-asynctask-obsolete-with-kotlin-5fe1d944d69 -  Making AsyncTask obsolete with Kotlin – Harshit Dwivedi – Medium
+- https://medium.com/maverick-labs/should-i-learn-kotlin-d3a30604d496 -  Should I learn Kotlin? – Maverick Labs – Medium
+- https://10clouds.com/blog/kotlin-android/ -  Why Kotlin Is the Hero Android Needs - 10Clouds Blog
+- https://medium.com/@dnkilic/espresso-for-noobs-part-1-bbf1f586d651 -  Espresso for Noobs — Part 1 – Dogan Kilic – Medium
+- https://play.google.com/store/apps/details?id=ru.gavrikov.mocklocations -  Приложения в Google Play – Mock Locations (fake GPS path)
+- https://play.google.com/store/apps/details?id=fr.dvilleneuve.lockito -  Приложения в Google Play – Lockito – Fake GPS itinerary
+- https://docs.google.com/document/d/1n7CnP4XorRHNj9soNcIfhTWCILN1KowGb4H3yH7_JWA/edit -  AMA Session 15.01.2018 - Google Docs
+- https://discussions.udacity.com/t/ready-for-the-2nd-phase-test-yourself/511592 -  Ready for the 2nd phase? Test yourself! - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/completed-the-course-feedback-learnings/476600 -  Completed the Course: Feedback & Learnings - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://docs.google.com/forms/d/1G0KXFWwoyQWmsm9lBfRQbSk6G-POjHxMe66EYm7L72g/viewform?edit_requested=true -  Content Provider Quiz
+- https://discussions.udacity.com/t/test-your-knowledge-of-the-9th-lessons-materials-content-providers-man-student/526993 -  Test your knowledge of the 9th lesson's materials (Content Providers) 👨‍🎓 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://github.com/fjoglar/android-dev-challenge -  fjoglar/android-dev-challenge: Google Android Dev Challenge 2017
+- https://blog.udacity.com/2017/12/european-commission-digital-skills-award.html -  Udacity Wins the EU Commission’s Digital Skills Award for Scholarships | Udacity
+- https://stackoverflow.com/questions/3470420/is-it-possible-to-evenly-distribute-buttons-across-the-width-of-an-android-linea -  is it possible to evenly distribute buttons across the width of an android linearlayout - Stack Overflow
+- https://dribbble.com/ -  Dribbble - Show and tell for designers
+- https://dribbble.com/search?q=2+buttons -  Dribbble - Show and tell for designers
+- https://android.jlelse.eu/mastering-shadows-in-android-e883ad2c9d5b -  Mastering Shadows in Android – AndroidPub
+- https://blog.stylingandroid.com/vectordrawable-gradients-part1/ -  VectorDrawable Gradients – Part1 – Styling Android
+- https://blog.stylingandroid.com/vectordrawable-gradients-part1-2/?utm_source=Android+Weekly&utm_campaign=ec9e19f121-EMAIL_CAMPAIGN_2018_01_14&utm_medium=email&utm_term=0_4eb677ad19-ec9e19f121-338180633 -  VectorDrawable Gradients – Part2 – Styling Android
+- https://adam-marsden.co.uk/css-cheat-sheet -  CSS Cheat Sheet
+- https://medium.freecodecamp.org/how-i-went-from-programming-with-a-feature-phone-to-working-for-an-mit-startup-40ca3be4fa0f -  How I went from programming with a Nokia feature phone to working for an MIT Startup
+- https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-di-part-i-f5cc4e5ad878 -  Dagger 2 for Android Beginners — DI part I – Hari Vignesh Jayapalan – Medium
+- https://eu.udacity.com/course/android-basics-data-storage--ud845 -  Android Basics: Data Storage | Udacity
+- https://discussions.udacity.com/t/lesson-9-content-providers-notes/497841 -  Lesson 9, Content Providers Notes - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.javaworld.com/ -  Welcome to JavaWorld.com
+- https://medium.com/@nuhkocaa/manage-all-your-glides-in-a-single-class-with-glidemodule-on-android-4856ee4983a1 -  Manage all your Glides in a single class with GlideAppModule on Android
+- https://www.youtube.com/watch?v=iL_fQUvH1Uk -  The Developer Show (TL;DR 094) - YouTube
+- https://gist.github.com/anorth/9845602 -  Pinch-zoomable Android frame layout
+- https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf -  IntelliJIDEA_ReferenceCard.pdf
+- https://gradleplease.appspot.com/ -  Gradle, please
+- https://medium.com/@radimvaculik/gradle-please-1ecfd50e9450 -  Gradle, please – Radim Vaculík – Medium
+- https://developers.google.com/training/certification/associate-android-developer/ -  Google Developers Certification  |  Google Developers
+- https://www.tutorialspoint.com/android/index.htm -  Android Tutorial
+- https://discussions.udacity.com/t/gradle-creation-fail-in-exercises-10-xx-due-to-color-reference/476028/14?u=ciprian.bindiu -  Gradle creation fail in Exercises 10.XX due to color reference - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://cogitolearning.co.uk/2013/06/android-service-vs-background-threads/ -  Android Services vs Background Threads | Cogito Learning
+- https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html -  The Clean Architecture | 8th Light
+- https://www.udacity.com/intersect -  Intersect 2018 Conference | Udacity
+- https://medium.com/mindorks/best-articles-on-android-that-we-published-in-2017-4972a2578b77 -  Best Articles on Android That We Published In 2017 – Mindorks – Medium
+- https://discussions.udacity.com/t/guide-making-android-studio-look-amazing-tada/527187 -  [Guide] Making Android Studio look amazing!!! 🎉 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://sqlbolt.com/ -  SQLBolt - Learn SQL - Introduction to SQL
+- https://www.raywenderlich.com/182100/android-accessibility-tutorial-getting-started?utm_source=Android+Weekly&utm_campaign=ec9e19f121-EMAIL_CAMPAIGN_2018_01_14&utm_medium=email&utm_term=0_4eb677ad19-ec9e19f121-338180633 -  Android Accessibility Tutorial: Getting Started
+- https://github.com/tonsky/FiraCode -  tonsky/FiraCode: Monospaced font with programming ligatures
+- https://android.jlelse.eu/understanding-recyclerview-part-1-the-basics-a7bd07cfae93 -  Understanding RecyclerView Part 1: The Basics – AndroidPub
+- https://github.com/Shashank02051997/FancyGifDialog-Android -  Shashank02051997/FancyGifDialog-Android: Make your native android Dialog Fancy and Gify. A library that takes the standard Android Dialog to the next level with a variety of styling options and Gif's. Style your dialog from code.
+- https://medium.com/@magdamiu/android-is-solid-348c2d3fd6ce -  Android is SOLID – Magda Miu – Medium
+- https://www.raywenderlich.com/182100/android-accessibility-tutorial-getting-started?utm_source=Android+Weekly&utm_campaign=ec9e19f121-EMAIL_CAMPAIGN_2018_01_14&utm_medium=email&utm_term=0_4eb677ad19-ec9e19f121-338071081 -  Android Accessibility Tutorial: Getting Started
+- https://discussions.udacity.com/t/building-the-first-app-as-android-developer/519740?u=rauliviupg-82 -  Building the first app as Android developer - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/lesson-9-content-providers-complete-lecture-notes-screenshots-text-transcripts-links/528888 -  Lesson 9: Content Providers - Complete Lecture Notes (Screenshots + Text + Transcripts + Links) - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654 -  The 10 Best Coding Challenge Websites for 2018 – Coderbyte – Medium
+- https://androidmakers.fr/ -  Android Makers Paris 2018
+- https://adtmag.com/blogs/dev-watch/2017/05/device-clouds.aspx -  7 Top Device Clouds for Mobile App Testing -- ADTmag
+- https://aws.amazon.com/ru/device-farm/ -  Тестирование мобильных приложений на устройствах – AWS Device Farm
+- https://developer.android.com/topic/libraries/architecture/saving-states.html -  Saving UI States | Android Developers
+- https://discussions.udacity.com/t/notes-lesson-3/520028 -  [NOTES] Lesson 3 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://medium.freecodecamp.org/stories-from-300-developers-who-got-their-first-tech-job-in-their-30s-40s-and-50s-64306eb6bb27 -  Stories from 300 developers who got their first tech job in their 30s, 40s, and 50s
+- https://discussions.udacity.com/t/notes-lesson-1/511527 -  [NOTES] Lesson 1 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/notes-lesson-5/523297 -  [NOTES] Lesson 5 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://proandroiddev.com/testing-user-interface-of-android-app-with-architecture-components-data-binding-and-dagger-2-5d15c3779807 -  Testing User Interface of Android App with Architecture Components, Data Binding and Dagger 2
+- https://discussions.udacity.com/t/androidannotation-android-fast-boot-development/522855 -  AndroidAnnotation Android Fast boot development - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://themeforest.net/ -  WordPress Themes & Website Templates from ThemeForest
+- http://androidstarters.com/ -  Android Starters
+- https://discussions.udacity.com/t/android-architecture-starter-libraries-resource/523148 -  Android Architecture Starter Libraries Resource - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://dribbble.com/shots/4087398-CryptoWallet-mobile-application -  CryptoWallet - mobile application by Filip Legierski - Dribbble
+- https://pttrns.com/android-patterns?srtby=popularity_desc -  Android Design Patterns - Pttrns
+- https://discussions.udacity.com/t/notes-lesson-4/520035 -  [NOTES] Lesson 4 - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://vimeo.com/98922030 -  03 Mouseless Driven Development by Hadi Hariri on Vimeo
+- https://developers.facebook.com/docs/android/getting-started -  начало работы - SDK для Android
+- https://firebase.google.com/docs/auth/android/facebook-login -  Authenticate Using Facebook Login on Android  |  Firebase
+- https://www.youtube.com/watch?v=mapLbSKNc6I -  Android Facebook Login with Firebase in - Android Studio - YouTube
+- https://developers.facebook.com/docs/android/graph -  Вызов API Graph - SDK для Android
+- https://stackoverflow.com/questions/849308/pull-push-from-multiple-remote-locations -  git - pull/push from multiple remote locations - Stack Overflow
+- https://blog.linkedin.com/2018/january/11/linkedin-data-reveals-the-most-promising-jobs-and-in-demand-skills-2018 - 
+- https://developer.android.com/about/dashboards/index.html -  Dashboards | Android Developers
+- https://www.androidauthority.com/android-fragmentation-google-fix-it-713210/ -  What is Android fragmentation, and can Google fix it? - Android Authority
+- https://stackoverflow.com/questions/2358459/content-provider-in-android-basic-questions#2358947 -  Content Provider in Android basic questions - Stack Overflow
+- https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLGvfHSgImk4aTlKBUPeC8Eh42LVDcSv9s -  Git и GitHub: Введение в Git и GitHub - YouTube
+- https://www.youtube.com/watch?v=3p_fgJEbsp8 -  How to integrate Github in Android project using Android Studio - YouTube
+- https://www.youtube.com/watch?v=uUzRMOCBorg -  Using Git in IntelliJ - YouTube
+- https://www.youtube.com/watch?v=G7kJRkUaVHQ -  Working with Git - YouTube
+- https://www.youtube.com/watch?v=3PrPYxliXKM -  Setting up version control in IntelliJ with Git and GitHub - YouTube
+- https://www.coursera.org/learn/internet-of-things-dragonboard/lecture/EfKqi/using-git-with-android-studio -  Using Git with Android Studio - Setting up your Developing Environment | Coursera
+- https://www.liammoat.com/blog/2017/pull-an-sqlite-database-file-from-an-android-device-for-debugging -  Pull an SQLite database file from an Android device for debugging - Liam Moat
+- https://stackoverflow.com/questions/17883447/how-to-check-database-on-not-rooted-android-device/39813786#39813786 -  sqlite - How to check database on not rooted android device - Stack Overflow
+- https://docs.google.com/forms/d/e/1FAIpQLSfwFQoB2RjHPAD9m5U3q9MhNDwBoO6NeCBFnS5z-2amo20f5w/viewform -  Google Developer Challenge Scholarship: Android Development
+- http://droidmentor.com/multiple-permissions-in-one-go/ -  Multiple Permissions in one Go - Android M
+- https://developer.android.com/google/play/billing/billing_integrate.html#Subs -  Implementing In-app Billing | Android Developers
+- https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/ -  Why You Should Consider React Native For Your Mobile App — Smashing Magazine
+- https://plus.google.com/+IanLake/posts/BTqMiFuvTjW -  Architecture Components 1.0 has graduated to Stable Learn more here → goo.gl...
+- https://www.codeproject.com/Articles/162201/Painless-AsyncTask-and-ProgressDialog-Usage -  Painless AsyncTask and ProgressDialog Usage - CodeProject
+- https://think360studio.com/20-tips-how-to-design-great-ui-for-mobile-apps/ -  20 Tips : How To Design Great UI For Mobile Apps ?
+- https://developers.googleblog.com/2018/01/actions-on-google-new-directory-device.html -  Google Developers Blog: Actions on Google: new directory, device availability and smart home controls
+- https://discussions.udacity.com/t/machine-learning-open-source-projects/519783 -  Machine Learning open source projects - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.facebook.com/cointelegraph/ -  Cointelegraph. Bitcoin and Cryptocurrency News - Главная
+- http://gitreal.codeschool.com/levels/1/challenges/1 -  Code School - Git Real
+- https://www.techworm.net/2017/10/kotlin-overtake-java-default-programming-language-android-apps-2018.html -  Kotlin to overtake Java as default programming language for Android apps by 2018 » TechWorm
+- https://realm.io/realm-report/ -  Realm Report Q4 2017
+- https://github.com/ReactiveX/RxKotlin -  ReactiveX/RxKotlin: RxJava bindings for Kotlin
+- https://medium.freecodecamp.org/my-favorite-examples-of-functional-programming-in-kotlin-e69217b39112 -  My favorite examples of functional programming in Kotlin
+- https://discussions.udacity.com/t/lesson-10-summary-background-tasks/511494 -  Lesson 10 Summary - Background Tasks - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://constraintlayout.com/basics/ -  ConstraintLayout
+- https://medium.com/@emmaguy/dynamically-changing-svg-colours-on-android-b026a99137ad -  Dynamically changing SVG colours on Android – Emma Guy – Medium
+- https://antonioleiva.com/mvp-android/ -  MVP for Android: how to organize the presentation layer
+- https://proandroiddev.com/creating-awesome-animations-using-constraintlayout-and-constraintset-part-2-5bbbae8ab24 -  Creating awesome animations using ConstraintLayout and ConstraintSet — part 2
+- https://hackernoon.com/an-open-letter-to-less-experienced-developers-c33c16ea5e88 -  An open letter to less experienced developers – Hacker Noon
+- http://myhexaville.com/2017/12/18/android-testing-introduction/ -  Android Testing Introduction | Types of Tests on Android
+- https://codeburst.io/top-unknown-keyboard-shortcuts-in-android-studio-7b1bf833c9f1 -  Top (unknown) keyboard shortcuts in Android Studio – codeburst
+- https://www.raywenderlich.com/139322/firebase-tutorial-getting-started-2 -  Firebase Tutorial: Getting Started
+- https://discussions.udacity.com/t/which-splash-screen-implementation-is-the-best/492358/9?u=alexshr -  Which Splash Screen implementation is the best? - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://android.jlelse.eu/https-medium-com-yashsoniweb-android-tasks-ffbd547ff5b8 -  Android Tasks: Once and for all – AndroidPub
+- https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b -  Understanding and Mastering the World of Android Testing (Part 1)
+- https://praveer09.github.io/technology/2016/02/13/rxjava-part-1-a-quick-introduction/ -  RxJava - Part 1 - A Quick Introduction
+- https://futurestud.io/tutorials/retrofit-getting-started-and-android-client -  Retrofit — Getting Started and Creating an Android Client
+- http://www.vogella.com/tutorials/Retrofit/article.html -  Using Retrofit 2.x as REST client - Tutorial
+- https://discussions.udacity.com/t/a-complete-guide-to-learn-rxjava/496480 -  A Complete Guide To Learn RxJava - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://www.youtube.com/playlist?list=PLYioXtkIMlS8wsv0jaA3ArxGtZ0RMLZR2 - droidcon SF 2017
+-  - 
+- https://discussions.udacity.com/t/android-ci-gitlab-jenkins-sonarqube-with-docker/577669/4 -  Android CI (gitlab + jenkins + sonarqube) with Docker - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/free-apis-for-android-apps/578686/6 -  Free API's for Android Apps? - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/file-cabinet-coding-best-practices-for-lessons-1-4-file-cabinet/578684 -  🗄 Coding Best Practices for Lessons 1-4 🗄 - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/every-android-topic-in-git-hub/578832 -  every android topic in git hub - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://github.com/topics/android -  Topic: android
+- https://discussions.udacity.com/t/finding-a-way-to-preserve-all-the-informations-posted-on-forum-slack-by-us/535667/56 -  Finding a way to preserve all the informations posted on forum/slack by us - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://blog.smartbear.com/apis/understanding-soap-and-rest-basics/ -  Understanding SOAP and REST Basics And Differences
+- https://discussions.udacity.com/t/quick-way-to-use-style-for-similar-views-in-xml/578546 -  Quick way to use Style for similar views in XML - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://academy.antonioleiva.com/ -  Homepage | Antonio Leiva
+- https://www.engadget.com/2018/02/05/nougat-is-most-used-version-of-android/ -  Nougat is now the most-used version of Android, 17 months later
+- https://www.youtube.com/watch?v=kmvS3sZF_y0 -  Introducing Android KTX: Even Sweeter Kotlin Development for Android - YouTube
+- https://medium.muz.li/weekly-inspiration-for-designers-140-867814d4ed1 -  Weekly Inspiration for Designers #140 – Muzli -Design Inspiration
+- https://github.com/android/android-ktx -  android/android-ktx: A set of Kotlin extensions for Android app development.
+- https://discussions.udacity.com/t/android-ktx-does-it-worth-all-the-talk-about-it/578136 -  Android KTX, does it worth all the talk about it? - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://www.bleepingcomputer.com/news/security/android-devices-targeted-by-new-monero-mining-botnet/ -  Android Devices Targeted by New Monero-Mining Botnet
+- http://www.wired.co.uk/article/education-seth-godin-altmba-jolt-nuschool -  Online courses don't work, but education can still be disrupted | WIRED UK
+- https://medium.com/inloop/its-time-to-ditch-loaders-in-android-6492616775f7 -  It’s time to ditch Loaders in Android – Inloop – Medium
+- https://www.bignerdranch.com/blog/ -  App Development and Design Blog | Big Nerd Ranch
+- https://proandroiddev.com/modern-android-development-with-kotlin-part-4-4ac18e9868cb -  Modern Android development with Kotlin Part 4 – ProAndroidDev
+- https://discussions.udacity.com/t/great-article-about-project-treble-androids-update-problem/577617?u=torben_moeller -  Great article about project Treble (Androids update problem)) - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/learn-mvp-and-rxjava/575087 -  LEARN MVP AND RxJava - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://github.com/MindorksOpenSource/android-mvvm-architecture -  MindorksOpenSource/android-mvvm-architecture: This repository contains a detailed sample app that implements MVVM architecture using Dagger2, Room, RxJava2, FastAndroidNetworking and PlaceholderView
+- https://github.com/googlesamples/android-architecture-components/tree/master/BasicSample -  android-architecture-components/BasicSample at master · googlesamples/android-architecture-components
+- https://github.com/ivacf/archi -  ivacf/archi: Repository that showcases 3 Android app architectures: "Standard Android", MVP and MVVM. The exact same app is built 3 times following the different patterns.
+- https://github.com/manas-chaudhari/android-mvvm -  manas-chaudhari/android-mvvm: MVVM on Android using RxJava and Data Binding
+- http://android-developers.googleblog.com/2018/02/introducing-android-ktx-even-sweeter.html -  Android Developers Blog: Introducing Android KTX: Even Sweeter Kotlin Development for Android
+- https://towardsdatascience.com/tensorflow-on-mobile-tensorflow-lite-a5303eef77eb -  TensorFlow on Mobile: TensorFlow Lite – Towards Data Science
+- https://www.play.google.com/store/apps/details?id=be.mosterdpot.android.tussendoortjes - 
+- https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf -  Drag and Swipe with RecyclerView – Paul Burke – Medium
+- https://discussions.udacity.com/t/quick-gradle-introduction-with-sunshine/575475 -  
+- http://www.nascenia.com/consuming-soap-web-services-from-android/ -  Consuming SOAP web services from Android | Nascenia
+- https://danielkummer.github.io/git-flow-cheatsheet/ -  git-flow cheatsheet
+- http://thetechnocafe.com/slide-content-to-side-in-drawer-layout-android/ -  thetechnocafe.com/slide-content-to-side-in-drawer-layout-android/
+- https://sites.google.com/site/codejamtoioforwomen/ -  https://sites.google.com/site/codejamtoioforwomen/
+- https://www.datacamp.com/courses/tech:sql -  Data Science Courses: R & Python Analysis Tutorials | DataCamp
+- http://myhexaville.com/2017/06/28/android-butterknife-vs-data-binding/ -  Android Butterknife vs Data Binding
+- https://medium.com/@ladwa.aditya/migrating-from-butterknife-to-data-binding-e23c0fcf982b -  Migrating from ButterKnife to Data binding – Aditya Ladwa – Medium
+- https://discussions.udacity.com/t/technical-ama-session-questions-answers-25-01-2018/553484 -  Technical AMA Session Questions & Answers 25/01/2018 - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/keeping-in-touch-after-the-scholarships/570095/106 -  (1) Keeping in touch after the Scholarships - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://hashcode.withgoogle.com/index.html -  Hash Code | Google
+- https://medium.freecodecamp.org/room-sqlite-beginner-tutorial-2e725e47bfab -  A Beginner’s Guide to the Room Persistence Library – freeCodeCamp
+- https://discussions.udacity.com/t/disadvantages-and-advantages-about-this-kind-of-challenges/576287/2 -  Disadvantages and Advantages about this kind of Challenges - Courses - Discourse
+- https://discussions.udacity.com/t/intents-activity-lifecycle-quiz-ballot-box-with-check/575117/2 -  Intents & Activity Lifecycle Quiz ☑ - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://stackoverflow.com/questions/27069862/show-both-logo-and-app-name-in-action-bar-android -  Show both logo and app name in action bar android - Stack Overflow
+- https://www.youtube.com/watch?v=Jr8hJdVGHAk&feature=youtu.be -  Droidcon NYC 2015 - Using Styles and Themes Without Going Crazy - YouTube
+- https://discussions.udacity.com/t/im-confussed-a-bit-with-touchselectors/458865 -  I'm confussed a bit with touchSelectors. - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/s12-03-resource-marked-as-private-warning/575423 -  S12.03 - Resource marked as private (warning) - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://medium.com/personal-growth/why-even-ambitious-people-rarely-become-successful-937e7cf26bfe -  Why Even Ambitious People Rarely Become Successful – Personal Growth – Medium
+- https://discussions.udacity.com/t/tell-us-about-your-local-app-markets/575910/3 -  Tell us about your local app markets - Google Challenge Scholarship: Android Dev - Discourse
+- https://www.mockplus.com/blog/post/bye-material-design/?r=trista -  Bye bye Material Design
+- https://stackoverflow.com/questions/37420865/noclassdeffounderror-mockito-bytebuddy -  java - NoClassDefFoundError: Mockito Bytebuddy - Stack Overflow
+- https://discussions.udacity.com/t/todo-after-finishing-the-courses/552707 -  TODO after finishing the courses - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://medium.freecodecamp.org/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d -  An Intro to Color Theory: How to combine colors and set the mood of your designs
+- https://docs.google.com/forms/d/e/1FAIpQLSel42nkE9WBoP-SvW1-r9OqpXDIdaPrZin3KhrSg3dqWg83kg/viewform -  Intents & Activity Lifecycle Quiz
+- https://habrahabr.ru/company/e-Legion/blog/310990/ -  Итоги Школы и все материалы по архитектуре клиент-серверных приложений / Блог компании e-Legion Ltd. / Хабрахабр
+- https://github.com/ArturVasilov/AndroidSchool -  ArturVasilov/AndroidSchool: Code samples for Android school from GDG Kazan & e-Legion
+- https://drive.google.com/drive/folders/0B0Z-lYDZWlawR2VSbXF4UUltQ0U -  Занятия - Google Drive
+- https://us12.campaign-archive.com/home/?u=f39692e245b94f7fb693b6d82&id=93b2272cb6 -  Kotlin Weekly
+- https://androiddev.apptractor.ru/ -  Подкасты Android Dev - Android Dev - подкаст о разработке под Android и всем, что с этим связано
+- https://apptractor-podcast.podster.fm/ -  Мобильная разработка с AppTractor — App Tractor на Podster.fm
+- https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/#0 -  Build an App with Architecture Components
+- https://codelabs.developers.google.com/codelabs/android-lifecycles/#0 -  Android lifecycle-aware components codelab
+- https://codelabs.developers.google.com/codelabs/android-persistence/#0 -  Android Persistence codelab
+- https://codelabs.developers.google.com/codelabs/android-room-with-a-view/#0 -  Android Room with a View
+- http://androidsnacks.com/ -  Android Snacks
+- http://talkingkotlin.com/ -  Latest Posts – Talking Kotlin
+- http://hackerlists.com/android-reverse-engineering-tools/ -  26 Awesome Android Reverse Engineering Tools - Hacker Lists
+- https://twitter.com/android/status/959475540720791552?ref_src=twcamp%5Eshare%7Ctwsrc%5Eios%7Ctwgr%5Ecom.tinyspeck.chatlyio.share%7Ctwcon%5E7100%7Ctwterm%5E0 -  Android on Twitter: "No reception and burning through data? Now with #AndroidOreo 8.1, get notified of open Wi-Fi networks and connect straight from the notification.… https://t.co/vfPN43QzaG"
+- https://www.kotlindevelopment.com/kotlin-extension-functions/ -  The power of Kotlin extension functions
+- https://www.itproportal.com/features/iot-what-businesses-need-to-know/ -  What is the IoT? Everything you need to know | ITProPortal
+- https://medium.com/@miltomasz/how-to-create-android-app-using-android-architecture-components-the-study-57c00ac65372 -  How to create Android app using Android Architecture Components. The study.
+- https://discussions.udacity.com/t/create-a-resources-file-called-bools-xml-within-the-res-values-port-directory/562979/12 -  Create a resources file called bools.xml within the res/values-port directory - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://developer.android.com/studio/write/add-resources.html -  Add App Resources | Android Studio
+- https://discussions.udacity.com/t/about-runtime-code-generation/571011?u=musap -  About runtime code generation - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/design-tool-check-this-professional-app-prototyper/572782 -  [Design tool] check this professional app prototyper - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/solved-how-to-run-on-a-real-device-windows-users/572936 -  [Solved] how to run on a real device (windows users) - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://blog.mindorks.com/how-to-learn-android-development-f33dd6dba40d -  How To Learn Android Development – Mindorks
+- https://developer.android.com/guide/topics/ui/notifiers/notifications.html#Heads-up -  Notifications | Android Developers
+- https://android-review.googlesource.com/c/platform/bionic/+/604188/ -  The future is now (2018 edition). (Ic638e5b1) · Gerrit Code Review
+- https://www.phonearena.com/news/Android-9-P-Developer-Preview-finalized_id102129 -  The first Android 9.0 P developer preview seems to be almost finalized
+- https://www.youtube.com/watch?v=96Qsiz0ik4o -  Android Things Presents: HandBot - YouTube
+- https://www.hackster.io/67368/android-things-handbot-513eb6 -  Android Things HandBot - Hackster.io
+- https://www.developer-tech.com/news/2018/jan/26/turn-doodles-apps-microsofts-ink-code/ -  Turn doodles into apps with Microsoft’s Ink to Code - Developer Tech
+- https://discussions.udacity.com/t/document-all-ama-tech-sessions-in-one-file/568058?source_topic_id=567581 -  [Document] all ama Tech sessions in one file - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://medium.com/google-developers/picking-your-compilesdkversion-minsdkversion-targetsdkversion-a098a0341ebd -  Picking your compileSdkVersion, minSdkVersion, targetSdkVersion
+- https://proandroiddev.com/clean-easy-new-how-to-architect-your-app-part-1-e439668a523d -  Clean, Easy & New- How To Architect Your App: Part 1
+- https://www.butterfly.com.au/blog/website-development/clean-high-quality-code-a-guide-on-how-to-become-a-better-programmer -  Clean, high quality code: a guide on how to become a better programmer
+- https://medium.com/swlh/how-to-build-a-startup-without-quitting-your-day-job-9f5bbf7a1a2b -  How to build a startup — without quitting your day job
+- https://stackoverflow.com/questions/45497266/unable-to-parse-template-class -  java - Unable to parse template "Class" - Stack Overflow
+- https://www.simform.com/mvc-mvp-mvvm-android-app-development/?__s=tqozixbfyk5kjhw7nmtf -  MVC vs MVP vs MVVM for Android Application Development - Enterprise Mobility, IoT and Business analytics services | Simform, LLC
+- https://discussions.udacity.com/t/design-patterns-and-architecture/455687 -  Design Patterns and Architecture - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/mvp-blogs-tutorials/446237 -  MVP Blogs/Tutorials ? - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- http://www.vogella.com/tutorials/AndroidArchitecture/article.html -  Android Architecture with MVP or MVVM - Tutorial
+- https://www.youtube.com/watch?v=Ts-uxYiBEQ8&feature=youtu.be -  Architecture Components (GDD Europe '17) - YouTube
+- http://www.newthinktank.com/videos/design-patterns-tutorial/ -  Design Patterns Tutorial
+- https://discussions.udacity.com/t/document-all-ama-tech-sessions-in-one-file/568058 -  [Document] all ama Tech sessions in one file - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://blog.stylingandroid.com/recyclerview-animations-add-remove-items/?utm_source=Android+Weekly&utm_campaign=e658958799-androidweekly-295&utm_medium=email&utm_term=0_4eb677ad19-e658958799-338126893 -  RecyclerView Animations – Add & Remove Items – Styling Android
+- https://speakerdeck.com/miquelbeltran/say-bye-to-fragments-with-conductor-and-kotlin -  Say bye to Fragments with Conductor & Kotlin // Speaker Deck
+- https://medium.com/coding-blocks/leveraging-the-power-of-functions-in-kotlin-de5fd9db065a -  Leveraging the power of functions in Kotlin – Coding Blocks – Medium
+- https://discussions.udacity.com/t/need-help-with-project/572090 -  Need help with project - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://engineering.udacity.com/modeling-viewmodel-states-using-kotlins-sealed-classes-a5d415ed87a7 -  Modeling ViewModel States Using Kotlin’s Sealed Classes
+- https://antonioleiva.com/anko-layouts-android/ -  Anko layouts on Android. Should I forget about XMLs? - Antonio Leiva
+- https://www.youtube.com/watch?v=4Os-1tjTM-4 -  Pierre-Yves Ricau: Set Dagger Component (3 of 5) - YouTube
+- https://discussions.udacity.com/t/android-developer-mind-maps/488407/4 -  Android Developer Mind Maps - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://www.youtube.com/playlist?list=PLRI2ZDqPz69WHbd_R2TLiiDHum0GDu-kF -  Android Loaders - YouTube - YouTube
+- https://android.jlelse.eu/perks-of-being-an-associate-android-developer-a63e1c831949 -  Perks of being an Associate Android Developer – AndroidPub
+- https://discussions.udacity.com/t/excellent-resources-i-collect-during-the-course/572574/17 -  Excellent Resources I collect during the course - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://medium.com/@elye.project/the-evolution-of-android-network-access-1e199fc6e9a2 -  The Evolution of Android Network Access – Elye – Medium
+- https://android.jlelse.eu/4-things-to-know-about-good-android-ux-design-bc1a5a7ab9a6 -  4 Things To Know About Good Android UX Design – AndroidPub
+- https://discussions.udacity.com/t/graphic-design-of-ui/481673 -  Graphic Design Of UI - Google Challenge Scholarship: Android Dev - Discourse
+- https://martinfowler.com/ -  Martin Fowler
+- https://www.bignerdranch.com/blog/understanding-androids-layoutinflater-inflate/ -  Understanding Android's LayoutInflater.inflate()
+- https://medium.freecodecamp.org/440-free-online-programming-computer-science-courses-you-can-start-in-february-e075f920cb5b -  440+ Free Online Programming & Computer Science Courses You Can Start in February
+- http://hateum.github.io/AndroidDrawableGenerator/ -  Android Drawble Generator
+- https://fjoglar.github.io/android-dev-challenge/ -  Home
+- https://github.com/wellbranding/HealthApp -  wellbranding/HealthApp: Prototype 1.0
+- https://github.com/firebase/flashlight -  firebase/flashlight: A pluggable integration with ElasticSearch to provide advanced content searches in Firebase.
+- https://discussions.udacity.com/t/android-penetration-testing-resources-and-labs/572030/13 -  Android penetration testing resources and labs - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://www.facebook.com/Udacity/videos/1356830524422282/?notif_id=1517597824162604&notif_t=live_video_schedule_viewer -  Udacity - Udacity Talks welcomes Sam Altman, co-chairman of...
+- https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97 -  Advocating Against Android Fragments – Square Corner Blog – Medium
+- https://www.breakinto.tech/ -  Break into Tech
+- https://discussions.udacity.com/t/books-books-all-course-content-summaries-books-books/569203 -  📚📚 All course content summaries!! 📚📚 - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5 -  Polishing UI: Android StateListAnimator – AndroidPub
+- https://www.youtube.com/watch?v=eUG3VWnXFtg -  Fragment Tricks (Google I/O '17) - YouTube
+- https://www.freetutorials.us/data-science-deep-learning-machine-learning-with-python/ -  Data Science, Deep Learning, & Machine Learning with Python Udemy Download Free | FreeTutorials.Us
+- https://egghead.io/courses/introduction-to-reactive-programming -  Introduction to Reactive Programming from @andrestaltz on @eggheadio
+- https://gist.github.com/staltz/868e7e9bc2a7b8c1f754 -  The introduction to Reactive Programming you've been missing
+- https://medium.com/@JoseAlcerreca/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd -  The Android Lifecycle cheat sheet — part III : Fragments
+- https://medium.com/@JoseAlcerreca/the-android-lifecycle-cheat-sheet-part-ii-multiple-activities-a411fd139f24 -  The Android Lifecycle cheat sheet — part II: Multiple activities
+- https://pbs.twimg.com/media/DQSQfhsXcAA6RvH.png:large -  DQSQfhsXcAA6RvH.png:large (794×1678)
+- https://www.youtube.com/watch?v=qRXkEQOtQ98 -  Android Developer Story: Big Fish Games successful prelaunch with open beta - YouTube
+- https://techbeacon.com/code-pro-31-tools-android-app-developers -  Code like a pro: 31 tools for Android app developers | TechBeacon
+- http://hibernate.org/orm/what-is-an-orm/ -  What is Object/Relational Mapping? - Hibernate ORM
+- https://www.linkedin.com/in/antoinepurnelle/ -  (5) Antoine PURNELLE | LinkedIn
+- https://medium.com/@njastrzebska5/google-udacity-developer-scholarship-challenge-5098cd970a14 -  Google Udacity Developer Scholarship Challenge – Natalia Jastrzębska – Medium
+- https://proandroiddev.com/how-to-unit-test-livedata-and-lifecycle-components-8a0af41c90d9 -  How To Unit Test LiveData and Lifecycle Components – ProAndroidDev
+- https://medium.com/bleeding-edge/testing-in-app-purchases-on-android-a6de74f78878 -  Testing in-app purchases on Android – Bleeding Edge – Medium
+- https://discussions.udacity.com/t/forum-usage-statistics-unofficial/561094/68 -  Forum Usage Statistics (unofficial) - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://www.ericdecanini.com/2018/01/20/getting-started-with-cloud-firestore-on-android/ -  Getting Started with Cloud Firestore on Android | Eric Decanini
+- https://www.youtube.com/watch?v=8bEsNT7jdC4 -  GOTO 2017 • Building Evolutionary Architectures • Patrick Kua - YouTube
+- https://proandroiddev.com/parcelable-in-kotlin-here-comes-parcelize-b998d5a5fcac -  Parcelable in Kotlin? Here comes Parcelize – ProAndroidDev
+- https://discussions.udacity.com/t/resources-to-study-material-design-components-for-building-beautiful-apps/566550 -  Resources to study Material Design Components (For building beautiful apps) - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://medium.com/oceanize-geeks/supporting-different-screen-sizes-andorid-98d93493e50b -  Supporting Different Screen Sizes Andorid – Oceanize Geeks – Medium
+- https://medium.com/oceanize-geeks/top-5-most-common-mistakes-that-app-developers-make-8d0aa624bfdb -  Top 5 Most Common Mistakes That App Developers Make
+- https://medium.com/oceanize-geeks/how-to-accelerate-mysql-query-ea375503dfe5 -  How to Accelerate MySQL Query – Oceanize Geeks – Medium
+- http://color-themes.com/?view=index -  Color Themes
+- https://jgilfelt.github.io/AndroidAssetStudio/icons-launcher.html#foreground.space.trim=1&foreground.space.pad=0&foreColor=E8EAF6%2C0&crop=0&backgroundShape=square&backColor=3F51B5%2C100&effects=none&elevate=0 -  Android Asset Studio - Icon Generator - Launcher icons
+- https://stackoverflow.com/questions/48532659/custom-view-is-not-clipping-when-in-portrait-orientation -  android - Custom View is not clipping when in Portrait orientation - Stack Overflow
+- https://www.youtube.com/watch?v=NYOb72R6Joo -  Android RecyclerView Tutorial: Add, Swipe, Delete, Move Animations - Part 5a (Deprecated) - YouTube
+- https://blog.mindorks.com/android-amazing-open-source-apps-e44f520593cc -  Amazing Open Source Android Apps – Mindorks
+- https://www.linkedin.com/pulse/android-technical-interview-must-have-skills-ahmed-iraki/?trackingId=Rk9cVT4CvKs71pegOdbBLA%3D%3D -  (5) The Android Technical Interview-Must Have-Skills | LinkedIn
+- https://tinypng.com/ -  TinyPNG – Compress PNG images while preserving transparency
+- https://developer.android.com/studio/write/lint.html -  Improve Your Code with Lint | Android Studio
+- https://developer.android.com/studio/build/shrink-code.html -  Shrink Your Code and Resources | Android Studio
+- https://www.guardsquare.com/en/proguard -  ProGuard | Official website
+- https://developers.google.com/training/android/#dive-into-deeper-topics -  Google Developers Training  |  Google Developers
+- https://www.humblebundle.com/books/mobile-app-development-books -  Humble Book Bundle: Mobile App Development by Packt (pay what you want and help charity)
+- https://habrahabr.ru/post/134305/ -  Тёмная сторона ContentProvider'ов / Хабрахабр
+- http://developer.alexanderklimov.ru/android/theory/contentprovider.php -  Android: Content provider (Контент-провайдер)
+- https://www.youtube.com/watch?v=xHXn3Kg2IQE -  Google I/O 2010 - Android REST client applications - YouTube
+- https://discussions.udacity.com/t/forum-usage-statistics-unofficial/561094 -  Forum Usage Statistics (unofficial) - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://docs.google.com/forms/d/1kKk-8K42TBBSiys5ka85mzwsvgBtjc97Zl5ta1GbKfM/viewform?edit_requested=true -  RecyclerView Quiz
+- https://stackoverflow.com/questions/24885223/why-doesnt-recyclerview-have-onitemclicklistener -  java - Why doesn't RecyclerView have onItemClickListener()? - Stack Overflow
+- https://discussions.udacity.com/t/new-quiz-on-the-4th-lesson-recyclerview-scroll/560588/5 -  New Quiz on the 4th lesson (RecyclerView 📜) - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html -  RecyclerView | Android Developers
+- https://developer.android.com/training/data-storage/room/referencing-data.html?hl=ru#understand-no-object-references -  Referencing complex data using Room | Android Developers
+- https://medium.com/@yonatanvlevin/offline-support-try-again-later-no-more-afc33eba79dc -  Offline support: “Try again, later”, no more. – Yonatan V. Levin – Medium
+- https://android-developers.googleblog.com/2018/01/how-we-fought-bad-apps-and-malicious.html -  Android Developers Blog: How we fought bad apps and malicious developers in 2017
+- https://www.invisionapp.com/blog/free-ui-kit-for-sketch-and-photoshop-mail/ -  MAIL: Free UI kit for Sketch and Photoshop - InVision Blog
+- https://www.invisionapp.com/blog/how-to-wireframe/ -  A guide to making your first wireframe - InVision Blog
+- https://www.thedroidsonroids.com/blog/android-strings-xml-tips-tricks?utm_source=Android+Weekly&utm_campaign=06a50e579d-EMAIL_CAMPAIGN_2018_01_28&utm_medium=email&utm_term=0_4eb677ad19-06a50e579d-338071081 -  Android Strings XML Tips & Tricks - Droids On Roids Blog
+- https://gldraphael.com/blog/adding-a-toolbar-to-preference-activity/ -  Adding toolbar to Preference Activity | Galdin Raphael
+- https://proandroiddev.com/add-offline-support-using-room-ecee194c503e -  Add offline support using Room – ProAndroidDev
+- https://discussions.udacity.com/t/star2-a-huge-collection-of-awesomeness-star2/564144 -  🌟 A huge collection of AWESOMENESS 🌟 - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://codetoart.com/building-multiple-versions-of-an-android-app-product-flavors/ -  Building Multiple Versions of an Android App (Product Flavors) | CodeToArt
+- https://developer.android.com/studio/build/gradle-plugin-3-0-0-migration.html?utm_source=android-studio#variant_aware -  Migrate to Android Plugin for Gradle 3.0.0 | Android Studio
+- https://discussions.udacity.com/t/generate-differents-apks-from-the-same-project/564260/2 -  Generate differents apks from the same project - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://stackoverflow.com/questions/34990479/no-matching-client-found-for-package-name-google-analytics-multiple-productf/48430900#48430900 -  android - No matching client found for package name (Google Analytics) - multiple productFlavors & buildTypes - Stack Overflow
+- https://anddev-challenge.slack.com/archives/C7W6Z57DY/p1517326718000128?thread_ts=1517216421.000159&cid=C7W6Z57DY -  Redirecting... | Google Android Dev Challenge 2017 Slack
+- https://www.linkedin.com/pulse/growing-google-aka-being-terrified-still-moving-forward-robinson/ -  (4) Growing with Google AKA Being Terrified & Still Moving Forward | LinkedIn
+- https://discussions.udacity.com/t/what-are-your-views-on-machine-learning-with-android-development/560744 -  What are your views on Machine Learning with Android Development? - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://petapixel.com/2018/01/23/google-photos-ai-panorama-failed-best-way/ -  Google Photos' AI Panorama Failed in the Best Way
+- http://romannurik.github.io/AndroidAssetStudio/ -  Android Asset Studio
+- https://discussions.udacity.com/t/nox-player-emulator-as-a-valid-alternative-of-genymotion/562056 -  Nox Player Emulator as a valid alternative of Genymotion - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/android-design-tools/562481 -  Android Design Tools - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/mobile-ui-patterns/563324 -  Mobile UI Patterns - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/watching-the-video-and-doing-what-the-mentor-do-step-by-step/563342/2 -  watching the video and doing what the mentor do step by step - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://www.humblebundle.com/books/mobile-app-development-books?linkID=&mcID=102:5a6f6f6dd6ab4e4c3e0bfdb2:ot:56de8092733462ca89689667:1&utm_source=Humble+Bundle+Newsletter&utm_medium=email&utm_campaign=2018_01_29_mobiledevbypackt_bookbundle&linkID=&utm_content=logo -  Humble Book Bundle: Mobile App Development by Packt (pay what you want and help charity)
+- https://androidstudio.googleblog.com/ -  Android Studio Release Updates
+- https://proandroiddev.com/testing-android-ui-with-pleasure-e7d795308821 -  Testing Android UI with Pleasure – ProAndroidDev
+- https://discussions.udacity.com/t/star2-a-huge-collection-of-awesomeness-star2/564144/4 -  🌟 A huge collection of AWESOMENESS 🌟 - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://www.youtube.com/watch?v=rzmB3UxxhaA&t=2332s -  Mastering ConstraintLayout in Android - YouTube
+- https://discussions.udacity.com/t/recyclerview-dependency-issue/489420/15?u=vladi_ca -  RecyclerView dependency issue - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://android.jlelse.eu/crashlytics-google-firebase-crash-reporting-for-your-android-app-132d9f8e78f2 -  Crashlytics — Google Firebase Crash Reporting for your Android App.
+- https://github.com/ladyleet/tech-community-slacks -  ladyleet/tech-community-slacks: Here is a list of all the tech community slacks!
+- http://www.donnfelker.com/android-validation-with-edittext/ -  Android Validation with EditText - DONN FELKER
+- https://medium.com/quick-code/using-googles-safetynet-recaptcha-api-with-android-48e2cf12f370 -  Using Google’s SafetyNet reCAPTCHA API with Android
+- https://medium.freecodecamp.org/today-i-launched-my-first-mobile-app-heres-what-i-learned-6fc25c14eee6 -  Today I launched my first mobile app. Here’s what I learned
+- https://futurestud.io/learningpaths/glide-basics -  Glide Basics Learning Path — on Future Studio
+- https://discussions.udacity.com/t/team-hungary-presents-the-blooddroid-app/563390 -  Team #hungary 🇭🇺 presents: the BloodDroid app :) - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://blog.stylingandroid.com/tool-time-part-1-2/?__s=yoap1egjmqumxe8eqhb8 -  Tool Time – Part 1 – Styling Android
+- https://discussions.udacity.com/t/tech-ama-collected-questions-25-01-2018/553553 -  Tech AMA collected questions 25.01.2018 - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/its-never-too-late-to-start-a-new-carrier/563030 -  It's never too late :) to start a new carrier - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/introduction-thread-tell-us-about-yourself/410597/1200 -  Introduction Thread: Tell Us About Yourself! - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/share-3-insights-from-this-course/564730 -  Share 3 insights from this course!!! - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/learning-kotlin/462933 -  Learning Kotlin - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://www.murrayc.com/permalink/2014/10/28/android-changing-the-toolbars-text-color-and-overflow-icon-color/ -  Android: Changing the Toolbar’s text color and overflow icon color | Murray's Blog
+- https://stackoverflow.com/questions/15412943/hide-soft-keyboard-on-losing-focus -  android - Hide soft keyboard on losing focus - Stack Overflow
+- https://discussions.udacity.com/t/solved-where-is-the-interactive-advanced-user-tutorial/439862 -  SOLVED Where is the Interactive Advanced User Tutorial? - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/discussion-topic-what-is-the-main-differences-between-activiy-lifecycle-and-fragment-lifecycle/563261 -  Discussion Topic : what is the main differences between activiy lifecycle and fragment lifecycle? - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://stackoverflow.com/questions/38552580/android-porterduff-mode-dst-in-combined-with-bitmap-config-alpha-8 -  Android PorterDuff.Mode.DST_IN combined with Bitmap.Config.ALPHA_8 - Stack Overflow
+- https://photos.google.com/share/AF1QipMPMeWIiouV7ACRz9dIrgPA2GQail5vo2hIFskWRg_ZDdoxLuemkEtYwh-H0dQoPA?key=MEt5dE1GemFJT3Y4T2FwYVBua1Q3QWNoOThOUjF3 -  2018 Udacity Connect - Google Фото
+- https://discussions.udacity.com/t/lesson-12-summary-polishing-the-ui/562681 -  Lesson 12 Summary - Polishing the UI - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- http://responsiveandroid.com/2014/12/10/android-proguard-tutorial.html -  Setting up Proguard in an Android project – ResponsiveAndroid
+- https://blog.stylingandroid.com/tool-time-part-2/ -  Tool Time – Part 2 – Styling Android
+- https://www.callicoder.com/java-executor-service-and-thread-pool-tutorial/ -  Java ExecutorService and Thread Pools Tutorial | CalliCoder
+- https://www.journaldev.com/1069/threadpoolexecutor-java-thread-pool-example-executorservice -  ThreadPoolExecutor - Java Thread Pool Example - JournalDev
+- http://www.codejava.net/java-core/concurrency/java-concurrency-understanding-thread-pool-and-executors -  Java Concurrency: Understanding Thread Pool and Executors
+- https://stackify.com/java-thread-pools/ -  Finally Getting the Most out of the Java Thread Pool
+- https://arstechnica.com/tech-policy/2016/01/android-n-switches-to-openjdk-google-tells-oracle-it-is-protected-by-the-gpl/ -  Android N switches to OpenJDK, Google tells Oracle it is protected by the GPL | Ars Technica
+- https://www.youtube.com/watch?v=-hS3y8iFeOk -  Architecture Components - Yigit Boyar - Londroid 2017 @Telegraph Engineering - YouTube
+- https://proandroiddev.com/advanced-android-flavors-part-1-building-white-label-apps-on-android-ade16af23bcf -  Advanced Android Flavors Part 1 — Building White Label Apps on Android
+- https://medium.com/@maheshwar.ligade/enabling-proguard-for-android-98e2b19e90a4 -  Enabling proguard for Android. – Maheshwar Ligade – Medium
+- https://stackoverflow.com/questions/6263639/android-dialog-removing-title-bar -  layout - Android Dialog: Removing title bar - Stack Overflow
+- https://github.com/JStumpp/awesome-android -  JStumpp/awesome-android: A curated list of awesome Android packages and resources.
+- https://www.colormean.ae/blog/mobile-app-design-trends-2018/ -  Official Blog | Color Mean Creative Studio
+- http://www.androidpolice.com/2018/01/26/google-maps-v9-70-beta-enables-adding-removing-visited-places-prepares-display-showtimes-sell-tickets-continues-work-shortcuts-much-apk-teardown/ -  Google Maps v9.70 beta enables adding and removing visited places, prepares to display showtimes and sell tickets, continues work on shortcuts, and much more [APK Teardown]
+- https://medium.com/@tjkev/os-x-shortcuts-a-step-to-increase-your-productivity-part-1-ba527805e00b -  OS X Shortcuts, a step to increase your productivity (part 1)
+- https://medium.com/@Rogersntr/https-medium-com-our-journey-with-udacity-googles-android-developer-nanodegree-program-nengwe-wanko-229cc41aec87 -  My Journey with Audacity-Google's Android Developer challenge.
+- https://stackoverflow.com/jobs/developer-jobs-in-europe -  Developer Jobs in europe - Stack Overflow
+- https://drive.google.com/drive/folders/0ByWO0aO1eI_MN1BEd3VNRUZENkU -  500GB - Google Drive
+- https://stackoverflow.com/jobs?sort=i&q=android -  Android Developer Jobs - Stack Overflow
+- https://discussions.udacity.com/t/modified-lesson-8-waitlist-using-room/460036/5 -  Modified Lesson 8 WaitList using Room - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/async-vs-async-void-void-void/462523 -  Async vs Async<Void, Void, Void> - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/asynctask-vs-thread-runnable/478010 -  AsyncTask vs Thread+Runnable - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-811 -  Java Foundations (novice-level exam) | Oracle Certification Exam
+- https://proandroiddev.com/building-an-autocompleting-edittext-using-rxjava-f69c5c3f5a40 -  Building an AutoCompleting EditText using RxJava – ProAndroidDev
+- https://discussions.udacity.com/t/google-developer-certification/462687 -  Google developer certification - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/android-java-job-interviews-q-a/552489 -  Android, Java job interviews Q & A - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/all-about-freelancing/436765?u=gehad.abdelfatah45 -  All about freelancing - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://medium.com/mindorks/how-the-android-image-loading-library-glide-and-fresco-works-962bc9d1cc40 -  How The Android Image Loading Library Glide and Fresco Works?
+- https://discussions.udacity.com/t/notification-in-android-oreo/552497?u=gehad.abdelfatah45 -  Notification in android oreo - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/looking-for-advice-stick-with-android-or-add-it-to-my-stack/553150 -  Looking for advice: stick with android or add it to my stack? - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://www.youtube.com/watch?v=0a0iZW4RZXg -  Keynote with Tim Sneath (Dart Conference 2018) - YouTube
+- https://discussions.udacity.com/t/advice-how-to-spend-your-time-wisely/555075 -  [Advice] How to spend your time wisely - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://medium.com/swlh/choosing-the-right-tech-stack-for-your-mobile-app-ee3043f7ce1d -  Choosing The Right Tech Stack for Your Mobile App – The Startup – Medium
+- https://hackernoon.com/get-rich-quick-by-making-an-app-d575f70b39a0 -  (Try to) Get rich quick by making an app! – Hacker Noon
+- https://discussions.udacity.com/t/ready-for-the-2nd-phase-test-yourself/511592/49 -  Ready for the 2nd phase? Test yourself! - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/to-be-a-professional-developer-part-1/549293 -  To be a professional developer !! PART 1 - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/notes/541468 -  NOTES ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿ - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://techcrunch.com/2018/01/23/facebook-appoints-a-new-ai-research-head/ -  Facebook appoints a new AI research head | TechCrunch
+- https://discussions.udacity.com/t/databinding-questions-answers/558374 -  DataBinding Questions & Answers - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://mashable.com/2018/01/18/silicon-valley-companies-misleading-metrics/#oC_YAIID3sqX -  The big con: How tech companies made a killing by fudging their numbers
+- https://www.facebook.com/Udacity/videos/1356830524422282/ -  Udacity - Udacity Talks welcomes Sam Altman, co-chairman of...
+- https://discussions.udacity.com/t/an-introduction-to-design-thinking/557536 -  An Introduction to Design Thinking - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://m.androidcentral.com/how-download-audiobooks-google-play -  How to download audiobooks from Google Play | Android Central
+- https://discussions.udacity.com/t/share-your-personal-life-changing-story-with-udacity-s-community/535982/263?u=fif.iva -  Share your personal life-changing story with Udacity’s community. - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- http://bcswomen.bcs.org/2018-bcswomen-lovelace-is-open-for-abstracts-and-coming-on-28th-march-2018/ -  2018 BCSWomen Lovelace is open for Abstracts and coming on 28th March 2018 – BCSWomen
+- https://discussions.udacity.com/t/the-app-android-for-dummies/555144 -  The app - android for dummies - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://play.google.com/store/apps/details?id=com.tutorialspoint.offlineviewer.java -  Приложения в Google Play – Java Offline Tutorial
+- https://discussions.udacity.com/t/what-is-the-best-books-youve-read-in-java-an-android/547118 -  what is the best books you've read in Java an android ?! - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://codeburst.io/android-swipe-menu-with-recyclerview-8f28a235ff28 -  Android swipe menu with RecyclerView – codeburst
+- https://events.google.com/io/explore/ -  Google I/O 2018
+- https://www.youtube.com/watch?v=nvvjYJ2L57c&feature=youtu.be -  The Coding Train Live! - YouTube
+- https://github.com/stefanches7/android_app_security_checklist -  stefanches7/android_app_security_checklist: Android App Security Checklist
+- https://www.udacity.com/talks -  Udacity Talks Recent Episodes
+- https://medium.com/google-developers/get-your-android-app-ready-for-chromebooks-b4915426d021 -  Get Your Android App Ready for Chromebooks – Google Developers – Medium
+- https://firebase.googleblog.com/2017/05/firebase-phone-auth.html -  The Firebase Blog: Firebase Phone Auth
+- https://stackoverflow.com/questions/9246934/working-with-enums-in-android -  Working with Enums in android - Stack Overflow
+- https://android.jlelse.eu/android-performance-avoid-using-enum-on-android-326be0794dc3 -  Android Performance: Avoid using ENUM on Android – AndroidPub
+- http://blog.kiip.me/developers/android-threading-all-you-need-to-know/ -  Android Threading: All You Need to Know
+- https://discussions.udacity.com/t/rocket-tada-best-android-blog-collection-tada-rocket/550033 -  🚀 🎉 Best Android Blog Collection 🎉 🚀 - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://developers.google.com/fit/ -  Google Fit  |  Google Developers
+- https://discussions.udacity.com/t/api-source-for-apps/552159 -  API source for Apps - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://stackoverflow.com/questions/24257247/differences-between-intent-and-pendingintent -  android - Differences between Intent and PendingIntent - Stack Overflow
+- https://medium.com/@fif.iva/my-journey-as-an-aspiring-android-developer-6706a7c27d69 -  My Journey as an Aspiring Android Developer – Iva Ivanova – Medium
+- http://thetechnocafe.com/make-bottom-sheet-android/ -  How to make Bottom Sheet in Android | Tutorial - TheTechnoCafe
+- https://discussions.udacity.com/t/revise-what-youve-learned/552832 -  Revise what you've learned - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/ultimate-android-reference-your-road-to-become-a-better-android-developer/554970 -  Ultimate Android reference. Your road to become a better Android developer. - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://discussions.udacity.com/t/rocket-tada-best-android-blog-collection-tada-rocket/550033/29 -  🚀 🎉 Best Android Blog Collection 🎉 🚀 - Courses / Google Challenge Scholarship: Android Dev - Discourse
+- https://stackoverflow.com/questions/8133597/android-upgrading-db-version-and-adding-new-table -  database - Android: upgrading DB version and adding new table - Stack Overflow
+- https://riggaroo.co.za/android-sqlite-database-use-onupgrade-correctly/ -  Android SQLite Database - How to use onUpgrade() correctly – Riggaroo - Android Dev
+- https://github.com/anu0012/awesome-computer-science-opportunities -  anu0012/awesome-computer-science-opportunities: An awesome list of events and fellowship opportunities for Computer Science students
+
+- https://medium.com/@nuhkocaa -  Nuh Koca – Medium
+- https://www.youtube.com/watch?v=Sk9ZMIQDpUg -  Dart Conference 2018: Day 1 - YouTube
+- https://discussions.udacity.com/t/free-books-for-programmers/541361 -  FREE books for programmers - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/lesson-09-main-points-explanations-tips-to-avoid-common-traps/544879?u=ali.derawi -  Lesson 09: Main points, Explanations & Tips to avoid common traps - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- http://www.androhub.com/android-contextual-action-mode-over-toolbar/ -  Android Contextual Action Mode Over Toolbar - AndrohubAndrohub
+- https://hackernoon.com/principles-for-designing-internet-products-fc751ddc1214 -  Principles for designing internet products – Hacker Noon
+- https://www.youtube.com/watch?v=bkQJdaGGVM8 -  !!Con 2017: HDR Photography in Microsoft Excel?! by Kevin Chen - YouTube
+- https://discussions.udacity.com/t/ultimate-android-reference-your-road-to-become-a-better-android-developer/542463 -  Ultimate Android Reference - Your Road to Become a Better Android Developer - Courses / Android For Beginners - Udacity Discussion Forum
+- https://auth0.com/blog/beating-json-performance-with-protobuf/ -  Beating JSON performance with Protobuf
+- https://discussions.udacity.com/t/asynctask-test-your-knowledge/543714 -  AsyncTask - test your knowledge! - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/activitymainbinding-vs-butter-knife/485897/24 -  ActivityMainBinding vs Butter Knife - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://discussions.udacity.com/t/how-to-display-notifications-only-when-the-app-is-in-background-hint-ordered-broadcasts/542245/3 -  How to display notifications only when the app is in background? hint: Ordered Broadcasts :) - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://blog.stylingandroid.com/tool-time-part-1-2/?utm_source=Android+Weekly&utm_campaign=97507a2973-EMAIL_CAMPAIGN_2018_01_21&utm_medium=email&utm_term=0_4eb677ad19-97507a2973-338071081 -  Tool Time – Part 1 – Styling Android
+- https://burst.shopify.com/free-images - 
+- https://discussions.udacity.com/t/how-to-display-notifications-only-when-the-app-is-in-background-hint-ordered-broadcasts/542245 -  How to display notifications only when the app is in background? hint: Ordered Broadcasts :) - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://play.google.com/store/apps/details?id=com.jakewharton.sdksearch -  Приложения в Google Play – Android SDK Search
+- https://dzone.com/articles/whats-new-in-effective-javas-third-edition -  What's New in Effective Java's Third Edition? - DZone Java
+- https://www.amazon.com/If-Truth-Be-Told-Memoir/dp/0994002742 -  If Truth Be Told: A Monk's Memoir: Om Swami: 9780994002747: Amazon.com: Books
+- https://codeburst.io/how-to-handle-background-services-in-android-o-f96783e65268 -  How to handle background services in ANDROID O? – codeburst
+- https://discussions.udacity.com/t/lesson-11-summary-completing-the-ui/541725 -  Lesson 11 Summary - Completing the UI - Courses / Google Challenge Scholarship: Android Dev - Udacity Discussion Forum
+- https://research.fb.com/facebook-open-sources-detectron/ -  Facebook open sources Detectron – Facebook Research
+- https://github.com/facebookresearch/Detectron -  facebookresearch/Detectron: FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
+- https://github.com/81813780/AVLoadingIndicatorView -  81813780/AVLoadingIndicatorView: Nice loading animations for Android
